@@ -1,0 +1,14 @@
+model	family	fit	inputs
+M0_random	sanity	none	uniform random
+M1_target_degree	popularity	degree in cutoff graph	historical target degree
+M2_compound_degree	popularity	degree in cutoff graph	historical compound degree
+M3_product	popularity	none	degree product
+M3_logsum	popularity	none	log degree sum
+M_activity	popularity	none	historical target activity count
+M_recent	popularity	none	target activity in the two years before cutoff
+M4_class_prior	historical class	none	count of the compound's known targets in the candidate class
+M5_ligand_max	ligand similarity	Morgan radius 2 from the cutoff release SMILES	max Tanimoto to known ligands; absent if structures were unavailable
+M6_sequence	sequence	not run	CONDITIONAL: global identity across all historical targets was not computed
+M7_svd	matrix factorization	truncated SVD of the cutoff adjacency	historical edges only
+M8_distmult	embedding	DistMult softmax/BPR on historical edges	historical edges only
+M9_lightgcn	bipartite GNN	2-layer LightGCN, BPR, frozen 2018 hyperparameters	historical adjacency only

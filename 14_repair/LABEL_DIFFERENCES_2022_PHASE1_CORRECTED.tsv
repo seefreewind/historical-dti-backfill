@@ -1,0 +1,3 @@
+parent_id	target_id	cutoff	first_public_release_present	all_release_membership	release_membership_bitmask	present_before_cutoff	present_at_cutoff	first_present_after_cutoff	gap_reappearance	first_discovery	event_observed	event_release_date	days_to_event	followup_end	right_censored	later_first_appearance_after_followup	censor_status	days_observed	old_Y	source
+CHEMBL4061296	CHEMBL3650	2022	33	33	16	False	False	33	False	1	True	2023-06-09	160.0	2025-09-19	False	False	EVENT_OBSERVED	160.0	0	PHASE1_CORRECTED
+CHEMBL3354065	CHEMBL234	2022	33	33	16	False	False	33	False	1	True	2023-06-09	160.0	2025-09-19	False	False	EVENT_OBSERVED	160.0	0	PHASE1_CORRECTED

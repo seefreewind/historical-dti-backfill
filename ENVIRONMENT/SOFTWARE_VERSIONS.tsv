@@ -1,0 +1,11 @@
+software	version	status	executable
+Python	3.14.8	USED	Python executable selected by caller
+NumPy	2.5.4	USED	
+pandas	3.0.6	USED	
+PyArrow	26.0.0	USED	
+RDKit	2026.9.1	USED	
+SciPy	1.18.1	USED	
+matplotlib	3.11.2	USED	
+PyTorch	NOT_INSTALLED	NOT_USED	
+scikit-learn	NOT_INSTALLED	NOT_USED	
+networkx	NOT_INSTALLED	NOT_USED	

@@ -1,0 +1,5 @@
+{
+  "node": "24.19.0",
+  "@oai/artifact-tool": "2.8.94",
+  "scope": "optional XLSX serialization; TSV/JSON values reproducible with Python only"
+}

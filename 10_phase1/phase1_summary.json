@@ -1,0 +1,81 @@
+{
+  "summary_counts": {
+    "2018": {
+      "compounds": 300328,
+      "targets": 1931,
+      "edges": 434456,
+      "u1": 579498912,
+      "u2": 9294785,
+      "u3_entities_compound": 2381,
+      "u3_entities_target": 1298,
+      "pos24": 1652,
+      "pos36": 5611,
+      "pos48": 6223,
+      "out_of_universe_36": 87133
+    },
+    "2020": {
+      "compounds": 347990,
+      "targets": 2068,
+      "edges": 499057,
+      "u1": 719144263,
+      "u2": 10318524,
+      "u3_entities_compound": 2841,
+      "u3_entities_target": 1393,
+      "pos24": 6424,
+      "pos36": 7681,
+      "pos48": 12862,
+      "out_of_universe_36": 115859
+    },
+    "2022": {
+      "compounds": 344943,
+      "targets": 2329,
+      "edges": 502711,
+      "u1": 802869536,
+      "u2": 12123841,
+      "u3_entities_compound": 4964,
+      "u3_entities_target": 1772,
+      "pos24": 7036,
+      "pos36": 10827,
+      "pos48": 11336,
+      "out_of_universe_36": 126689
+    }
+  },
+  "distortion": {
+    "2018": {
+      "retro_only_top_decile_share": 0.49104303859051657,
+      "overlap_top_decile_share": 0.6849987966096288,
+      "u1_size": 579498912,
+      "u2_size": 9294785,
+      "retro_false_historical_negative": 7815,
+      "retro_false_and_future_positive": 4508,
+      "strict_missing_from_retro": 89597,
+      "candidate_distortion": 1.3485788908607995e-05,
+      "label_distortion": 0.8034218499376226
+    },
+    "2020": {
+      "retro_only_top_decile_share": 0.4825453968905345,
+      "overlap_top_decile_share": 0.6858387924622166,
+      "u1_size": 719144263,
+      "u2_size": 10318524,
+      "retro_false_historical_negative": 11804,
+      "retro_false_and_future_positive": 6132,
+      "strict_missing_from_retro": 80950,
+      "candidate_distortion": 1.6413952814916637e-05,
+      "label_distortion": 0.7983335503189689
+    },
+    "2022": {
+      "retro_only_top_decile_share": 0.5438437963569551,
+      "overlap_top_decile_share": 0.7062875510066631,
+      "u1_size": 802869536,
+      "u2_size": 12123841,
+      "retro_false_historical_negative": 8583,
+      "retro_false_and_future_positive": 8502,
+      "strict_missing_from_retro": 72130,
+      "candidate_distortion": 1.0690404374740157e-05,
+      "label_distortion": 0.7852590745358825
+    }
+  },
+  "threshold": 9,
+  "verdict": "GO_PHASE2_REDUCED_CHEMBL_ONLY",
+  "error_rate": 0.036
+}

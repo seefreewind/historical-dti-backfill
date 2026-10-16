@@ -1,0 +1,4 @@
+cutoff	rows	unique_candidate_target	unique_candidate_target_witness	class_sum	reported_denominator	n_one_equal_fingerprint_ligand	n_multiple_equal_fingerprint_ligands	n_zero_equal_fingerprint_ligands	median_equal_fingerprint_ligands	max_equal_fingerprint_ligands	denominator_unit	counting_unit_gate	class_A_count	class_B_count	class_C_count	class_D_count	class_E_count	class_F_count	class_G_count	class_B_percent_1dp	class_C_percent_1dp	frozen_counts_check
+2018	2600	2600	2600	2600	2600	2086	514	0	1.0	18	candidate_compound_target_pair	COUNTING_UNIT_CONFIRMED_CANDIDATE_TARGET	25	1107	722	0	0	642	104	42.6	27.8	UNCHANGED
+2020	3391	3391	3391	3391	3391	2768	623	0	1	18	candidate_compound_target_pair	COUNTING_UNIT_CONFIRMED_CANDIDATE_TARGET	3	1516	947	0	0	803	122	44.7	27.9	UNCHANGED
+2022	3478	3478	3478	3478	3478	2855	623	0	1.0	17	candidate_compound_target_pair	COUNTING_UNIT_CONFIRMED_CANDIDATE_TARGET	4	1581	1002	0	0	768	123	45.5	28.8	UNCHANGED

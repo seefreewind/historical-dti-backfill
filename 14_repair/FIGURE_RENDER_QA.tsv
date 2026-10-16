@@ -1,0 +1,21 @@
+check	status	original_level	evidence	resolution
+SOURCE-SYNTAX	PASS	PASS	Python source parses successfully	
+FONT-FAMILY	PASS	PASS	A publication-safe sans-serif family is configured	
+FONT-SIZE	PASS	PASS	All detected text sizes are at least 5 pt (minimum 7 pt)	
+FONT-GLYPH-FLOOR	PASS	PASS	No mathtext superscript/subscript expression detected	
+LEGEND-LABEL-CASE	PASS	PASS	Detected literal legend labels start with display-style capitalization	
+COLOR-MAP	PASS	PASS	No rainbow/jet/hsv color mapping detected	
+EDITABLE-TEXT	PASS	PASS	SVG and PDF editable-text settings are configured	
+EXPORT-VECTOR	WAIVED_BY_SCOPE	FAIL	Missing required vector export: PDF	USER_SCOPE: editable SVG deliverables; PNGs are internal QA; no PDF or submission raster requested
+EXPORT-RASTER	WAIVED_BY_SCOPE	WARN	PNG preview is present but no TIFF submission raster was found	USER_SCOPE: editable SVG deliverables; PNGs are internal QA; no PDF or submission raster requested
+RASTER-DPI	WAIVED_BY_SCOPE	FAIL	Raster resolution below 300 dpi	USER_SCOPE: editable SVG deliverables; PNGs are internal QA; no PDF or submission raster requested
+FINAL-WIDTH	PASS	PASS	Detected width 182.9 mm matches a common journal column width	
+DATA-SAMPLING	PASS	PASS	No high-confidence row-sampling operation detected	
+DATA-EXCLUSION	PASS	PASS	No high-confidence missing-data exclusion detected	
+DEMO-DATA	PASS	PASS	No obvious simulated-data generator detected	
+LOG-GUARD	PASS	PASS	No logarithmic transform or axis detected	
+INTERP-MONOTONIC	PASS	PASS	No NumPy interpolation requiring an increasing x-grid detected	
+UNCERTAINTY-ENCODING	PASS	PASS	No stochastic aggregate requiring a variability audit was inferred	
+ROTATION-ANCHOR	PASS	PASS	No rotated Matplotlib text detected	
+ANNOTATION-WORKAROUND	PASS	PASS	No high-risk hard-coded label height or opaque white text mask detected	
+BACKEND-EXCLUSIVE	PASS	PASS	No obvious cross-backend plotting reference found for python	

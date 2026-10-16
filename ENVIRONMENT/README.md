@@ -1,0 +1,5 @@
+# Environment
+
+The supplied locks describe the recorded Phase 4 Python environment, not a new training run. Install in a project virtual environment; use the exact package versions when available for the platform. Minimal derived reproduction requires Python, pandas, numpy and matplotlib. repair_common imports pandas/numpy only; the figure code uses the recorded Arial font with matplotlib fallback if absent. Delivered SVG text is converted to vector paths, so viewing those SVGs needs no font installation. Source Data TSV/JSON needs pandas; optional Excel export additionally needs Node and @oai/artifact-tool 2.8.94. The latter is a separate dependency and not required to verify numerical Source Data.
+
+No host-specific executable path is required. Execute Python scripts with the interpreter in your environment. The source code contains no API clients or service credentials. Full input-level recomputation additionally requires PyArrow, SciPy, RDKit and the specific input products identified in the manifest. Installing dependencies and obtaining external inputs were not repeated in this submission-preparation phase.

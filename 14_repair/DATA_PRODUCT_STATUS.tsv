@@ -1,0 +1,18 @@
+file	status	authoritative_replacement	reason
+10_phase1/phase1_summary.json	OBSOLETE_DO_NOT_USE	14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv	Contains uncorrected 7681/10827 positives and 6132/8502 erasure counts
+scripts/phase1_build_benchmark.py	LEGACY_REBUILD_DISABLED_BY_DEFAULT	scripts/build_frozen_first_seen_labels.py	Endpoint-difference labeling predates first-seen/gap correction
+13_manuscript/MAIN_MANUSCRIPT_V1.md	FROZEN_SUPERSEDED_FOR_INTERPRETATION	13_manuscript/MAIN_MANUSCRIPT_V2_METRIC_REPAIRED.md	Metric, chemistry and graph-intervention definitions repaired
+13_manuscript/SUPPLEMENTARY_TABLES_V1.xlsx	FROZEN_DO_NOT_USE_FOR_REPAIRED_METRICS	13_manuscript/SUPPLEMENTARY_TABLES_V2.xlsx	Legacy tie handling and UNKNOWN scaffold inclusion
+10_phase1/FUTURE_INCIDENCE.tsv	FROZEN_LEGACY_INTERPRETATION_SUPERSEDED	14_repair/METRIC_REPAIR_SUMMARY.md	36-month broader counts require endpoint presence; legacy 24/48-month tables are not endpoints
+10_phase1/LABEL_DISAGREEMENT_AUDIT.tsv	FROZEN_LEGACY_INTERPRETATION_SUPERSEDED	14_repair/METRIC_REPAIR_SUMMARY.md	Broader future-positive annotation used the old endpoint-conditioned labels
+09_reports/PHASE1_FINAL_REPORT.md	FROZEN_LEGACY_INTERPRETATION_SUPERSEDED	14_repair/METRIC_REPAIR_SUMMARY.md	Database edge results remain valid; broader first-discovery counts are superseded
+11_phase2	FROZEN_LEGACY_INTERPRETATION_SUPERSEDED	14_repair/METRIC_REPAIR_SUMMARY.md	Frozen scores and U2 labels remain inputs; legacy tie-dependent metric tables are superseded
+12_phase3	FROZEN_LEGACY_INTERPRETATION_SUPERSEDED	14_repair/METRIC_REPAIR_SUMMARY.md	Frozen evidence remains input; old chemical classes, UNKNOWN scaffold inclusion and rank-1 definitions are superseded
+13_manuscript/make_figures.py	FROZEN_LEGACY_INTERPRETATION_SUPERSEDED	14_repair/METRIC_REPAIR_SUMMARY.md	Legacy V1 figure builder; use Phase4 figures to avoid restoring obsolete metrics
+10_phase1/DRUG_TARGET_LABELS_2018.parquet	LEGACY_ENDPOINT_CONDITIONED_DO_NOT_USE_FOR_COMPLETE_FIRST_SEEN	14_repair/LABELS_HISTORICAL_ACTIVE_OBSERVED_2018.parquet	Complete first-seen builder recovers transient events absent at the old endpoint; pair-level evidence in LABEL_RECONCILIATION_EVIDENCE.tsv
+10_phase1/DRUG_TARGET_LABELS_2020.parquet	LEGACY_ENDPOINT_CONDITIONED_DO_NOT_USE_FOR_COMPLETE_FIRST_SEEN	14_repair/LABELS_HISTORICAL_ACTIVE_OBSERVED_2020.parquet	Complete first-seen builder recovers transient events absent at the old endpoint; pair-level evidence in LABEL_RECONCILIATION_EVIDENCE.tsv
+10_phase1/DRUG_TARGET_LABELS_2022.parquet	LEGACY_ENDPOINT_CONDITIONED_DO_NOT_USE_FOR_COMPLETE_FIRST_SEEN	14_repair/LABELS_HISTORICAL_ACTIVE_OBSERVED_2022.parquet	Complete first-seen builder recovers transient events absent at the old endpoint; pair-level evidence in LABEL_RECONCILIATION_EVIDENCE.tsv
+14_repair/COMPOUND_CENTRIC_TIE_REPAIR.tsv	AUTHORITATIVE_REPAIRED		Phase4 explicit metric definitions
+14_repair/SCAFFOLD_METRICS_REPAIRED.tsv	AUTHORITATIVE_REPAIRED		Phase4 explicit metric definitions
+14_repair/TANIMOTO1_RECLASSIFIED.tsv	AUTHORITATIVE_REPAIRED		Phase4 explicit metric definitions
+14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv	AUTHORITATIVE_REPAIRED		Phase4 explicit metric definitions

@@ -1,0 +1,43 @@
+version	data_preparation_date	public_release_date	public_date_source	cutoff	eligible_for_strict_snapshot	selected_as_strict_snapshot	notes
+24.1	2018-04-23	2018-06-18	FTP sqlite Last-Modified	2018-12-31	YES	YES	Latest public release on or before the cutoff. Preparation date is not the eligibility clock.
+25	2018-12-10	2019-03-26	FTP sqlite Last-Modified; DOI 10.6019/chembl.database.25 published 2019-03-26	2018-12-31	NO	NO	Prepared before the cutoff and published after it. Excluded from STRICT_2018.
+26	2020-01-10	2020-03-24	FTP sqlite Last-Modified; blog announcement dated 2020-03-03	2018-12-31	NO	NO	After the 2018 cutoff.
+27	2020-05-18	2020-05-21	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff. This is the last public release inside the 2018 plus-24-month window.
+28	2021-01-15	2021-02-17	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff.
+29	2021-07-01	2021-07-21	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff. Last public release inside the 2018 plus-36-month window.
+30	2022-02-22	2022-03-09	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff.
+31	2022-07-12	2022-08-15	FTP sqlite Last-Modified; blog announcement 2022-08-16	2018-12-31	NO	NO	After the 2018 cutoff. Last public release inside the 2018 plus-48-month window.
+32	2023-01-26	2023-02-28	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff.
+33	2023-05-31	2023-06-09	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff.
+34	2024-03-28	2024-04-15	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff.
+35	2024-12-01	2024-12-11	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff.
+36	2025-07-28	2025-09-19	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff.
+37	2026-05-01	2026-05-29	FTP sqlite Last-Modified	2018-12-31	NO	NO	After the 2018 cutoff. Newest dump used only as the retrospective source.
+24.1	2018-04-23	2018-06-18	FTP sqlite Last-Modified	2020-12-31	YES	NO	Public before the cutoff, but older than chembl_27.
+25	2018-12-10	2019-03-26	FTP sqlite Last-Modified; DOI 10.6019/chembl.database.25	2020-12-31	YES	NO	Public before the cutoff, but older than chembl_27.
+26	2020-01-10	2020-03-24	FTP sqlite Last-Modified	2020-12-31	YES	NO	Public before the cutoff, but older than chembl_27.
+27	2020-05-18	2020-05-21	FTP sqlite Last-Modified	2020-12-31	YES	YES	Latest public release on or before 2020-12-31. chembl_28 was not public until 2021-02-17.
+28	2021-01-15	2021-02-17	FTP sqlite Last-Modified	2020-12-31	NO	NO	Prepared in January 2021 and published after the cutoff.
+29	2021-07-01	2021-07-21	FTP sqlite Last-Modified	2020-12-31	NO	NO	After the 2020 cutoff.
+30	2022-02-22	2022-03-09	FTP sqlite Last-Modified	2020-12-31	NO	NO	After the 2020 cutoff.
+31	2022-07-12	2022-08-15	FTP sqlite Last-Modified	2020-12-31	NO	NO	Last public release inside the 2020 plus-24-month window.
+32	2023-01-26	2023-02-28	FTP sqlite Last-Modified	2020-12-31	NO	NO	After the 2020 cutoff.
+33	2023-05-31	2023-06-09	FTP sqlite Last-Modified	2020-12-31	NO	NO	Last public release inside the 2020 plus-36-month window.
+34	2024-03-28	2024-04-15	FTP sqlite Last-Modified	2020-12-31	NO	NO	After the 2020 cutoff.
+35	2024-12-01	2024-12-11	FTP sqlite Last-Modified	2020-12-31	NO	NO	Last public release inside the 2020 plus-48-month window.
+36	2025-07-28	2025-09-19	FTP sqlite Last-Modified	2020-12-31	NO	NO	After the 2020 cutoff.
+37	2026-05-01	2026-05-29	FTP sqlite Last-Modified	2020-12-31	NO	NO	Retrospective source only.
+24.1	2018-04-23	2018-06-18	FTP sqlite Last-Modified	2022-12-31	YES	NO	Public before the cutoff, but older than chembl_31.
+25	2018-12-10	2019-03-26	FTP sqlite Last-Modified; DOI 10.6019/chembl.database.25	2022-12-31	YES	NO	Older than chembl_31.
+26	2020-01-10	2020-03-24	FTP sqlite Last-Modified	2022-12-31	YES	NO	Older than chembl_31.
+27	2020-05-18	2020-05-21	FTP sqlite Last-Modified	2022-12-31	YES	NO	Older than chembl_31.
+28	2021-01-15	2021-02-17	FTP sqlite Last-Modified	2022-12-31	YES	NO	Older than chembl_31.
+29	2021-07-01	2021-07-21	FTP sqlite Last-Modified	2022-12-31	YES	NO	Older than chembl_31.
+30	2022-02-22	2022-03-09	FTP sqlite Last-Modified	2022-12-31	YES	NO	Older than chembl_31.
+31	2022-07-12	2022-08-15	FTP sqlite Last-Modified	2022-12-31	YES	YES	Latest public release on or before 2022-12-31. chembl_32 was not public until 2023-02-28.
+32	2023-01-26	2023-02-28	FTP sqlite Last-Modified	2022-12-31	NO	NO	Prepared before the cutoff and published after it. Excluded from STRICT_2022.
+33	2023-05-31	2023-06-09	FTP sqlite Last-Modified	2022-12-31	NO	NO	After the 2022 cutoff.
+34	2024-03-28	2024-04-15	FTP sqlite Last-Modified	2022-12-31	NO	NO	After the 2022 cutoff.
+35	2024-12-01	2024-12-11	FTP sqlite Last-Modified	2022-12-31	NO	NO	Last public release inside the 2022 plus-24-month window.
+36	2025-07-28	2025-09-19	FTP sqlite Last-Modified	2022-12-31	NO	NO	Last public release before 2025-12-31. It does not observe 2025-09-20 through 2025-12-31. chembl_37 is after the 36-month window and is not used as the main label source.
+37	2026-05-01	2026-05-29	FTP sqlite Last-Modified	2022-12-31	NO	NO	Inside the still-open plus-48-month window, which ends 2026-12-31. Not used for the 36-month label.

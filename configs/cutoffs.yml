@@ -1,0 +1,32 @@
+cutoffs:
+  - id: T2018
+    date: 2018-12-31
+    chembl: chembl_24_1
+    open_targets: "18.12"
+    hgnc: null
+    efo: NOT_CONFIRMED
+    mondo: v2018-12-02
+    doid: v2018-12-17
+  - id: T2020
+    date: 2020-12-31
+    chembl: chembl_27
+    open_targets: "20.11"
+    hgnc: hgnc_complete_set_2020-10-01.txt
+    efo: v3.25.0
+    mondo: v2020-12-02
+    doid: v2020-12-22
+  - id: T2022
+    date: 2022-12-31
+    chembl: chembl_31
+    open_targets: "22.11"
+    hgnc: hgnc_complete_set_2022-10-01.txt
+    efo: v3.49.0
+    mondo: v2022-12-01
+    doid: v2022-12-15
+
+clock:
+  eligible_time: max(event_time, accessible_time)
+
+arms:
+  - STRICT_RELEASE
+  - RETRO_TIMESTAMP

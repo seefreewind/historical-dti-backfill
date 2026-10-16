@@ -1,0 +1,27 @@
+check	status	evidence
+analytic MRR exhaustive enumeration	PASS	Block sizes 1–7, all positive counts, offsets 0 and 3
+2018 event/gap/censor invariants	PASS	9294785 U2 labels; 946 events
+2018 scaffold denominator partition	PASS	SAME+NEW+UNKNOWN equals ALL_U2 for candidates and positives
+2020 event/gap/censor invariants	PASS	10318524 U2 labels; 1413 events
+2020 scaffold denominator partition	PASS	SAME+NEW+UNKNOWN equals ALL_U2 for candidates and positives
+2022 event/gap/censor invariants	PASS	12123841 U2 labels; 2104 events
+2022 scaffold denominator partition	PASS	SAME+NEW+UNKNOWN equals ALL_U2 for candidates and positives
+2018 nested graph edge arithmetic	PASS	Union/intersection edge counts; fixed test size and positives
+2020 nested graph edge arithmetic	PASS	Union/intersection edge counts; fixed test size and positives
+Figure1 editable SVG and model labels	PASS	[]
+Figure2 editable SVG and model labels	PASS	[]
+Figure3 editable SVG and model labels	PASS	['M1_target_degree', 'M2_compound_degree', 'M5_ligand_max', 'M7_svd', 'M9_lightgcn']
+Figure4 editable SVG and model labels	PASS	['M2_compound_degree', 'M5_ligand_max']
+Figure5 editable SVG and model labels	PASS	['M3_product', 'M7_svd', 'M9_lightgcn']
+FigureS1 editable SVG and model labels	PASS	[]
+FigureS2 editable SVG and model labels	PASS	[]
+FigureS3 editable SVG and model labels	PASS	[]
+FigureS4 editable SVG and model labels	PASS	[]
+FigureS5 editable SVG and model labels	PASS	[]
+FigureS6 editable SVG and model labels	PASS	['M9_lightgcn']
+FigureS7 editable SVG and model labels	PASS	[]
+FigureS8 editable SVG and model labels	PASS	['M0_random', 'M1_target_degree', 'M2_compound_degree', 'M3_logsum', 'M3_product', 'M4_class_prior', 'M5_ligand_max', 'M5_ligand_top5', 'M7_svd', 'M8_distmult', 'M9_lightgcn', 'M_activity', 'M_recent']
+FigureS9 editable SVG and model labels	PASS	[]
+FigureS10 editable SVG and model labels	PASS	['M1_target_degree', 'M2_compound_degree', 'M5_ligand_max']
+abstract citation-free	PASS	No literature markers
+obsolete stereo/within-compound claims removed	PASS	Targeted prohibited legacy wording

@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "figure_pixels": {
+    "Figure1_NCOMMS_V2.png": {
+      "pixel_identical": true,
+      "size": [
+        2160,
+        1380
+      ]
+    },
+    "Figure2_NCOMMS_V2.png": {
+      "pixel_identical": true,
+      "size": [
+        2160,
+        1620
+      ]
+    },
+    "Figure3_NCOMMS_V2.png": {
+      "pixel_identical": true,
+      "size": [
+        2160,
+        1680
+      ]
+    },
+    "Figure4_NCOMMS_V2.png": {
+      "pixel_identical": true,
+      "size": [
+        2160,
+        1860
+      ]
+    },
+    "Figure5_NCOMMS_V2.png": {
+      "pixel_identical": true,
+      "size": [
+        2160,
+        1740
+      ]
+    },
+    "Supplementary_Figure_TopTieAnyHit.png": {
+      "pixel_identical": true,
+      "size": [
+        2160,
+        960
+      ]
+    }
+  },
+  "frozen_workbook_cells_equal": 5129
+}

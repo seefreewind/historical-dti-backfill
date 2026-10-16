@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the archived release when using this code or data."
+title: "Historical drug–target discovery database backfill audit"
+type: software
+version: 1.0.0
+authors:
+  - name: biomedical_ai_historical_discovery
+repository-code: "https://github.com/seefreewind/historical-dti-backfill"
+license: MIT

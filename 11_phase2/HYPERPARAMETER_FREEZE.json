@@ -1,0 +1,58 @@
+{
+  "svd_dim": 32,
+  "distmult_dim": 64,
+  "lightgcn_dim": 64,
+  "epochs": 8,
+  "distmult_lr": 0.5,
+  "lightgcn_lr": 0.05,
+  "reg": 1e-05,
+  "negatives": 5,
+  "lightgcn_layers": 2,
+  "search_records": [
+    {
+      "model": "M7_svd",
+      "dim": 32,
+      "internal_auc": 0.69465
+    },
+    {
+      "model": "M8_distmult",
+      "dim": 32,
+      "lr": 0.5,
+      "internal_auc": 0.7204750000000001
+    },
+    {
+      "model": "M8_distmult",
+      "dim": 32,
+      "lr": 1.0,
+      "internal_auc": 0.72165
+    },
+    {
+      "model": "M9_lightgcn",
+      "dim": 32,
+      "internal_auc": 0.71785
+    },
+    {
+      "model": "M7_svd",
+      "dim": 64,
+      "internal_auc": 0.68955
+    },
+    {
+      "model": "M8_distmult",
+      "dim": 64,
+      "lr": 0.5,
+      "internal_auc": 0.72475
+    },
+    {
+      "model": "M8_distmult",
+      "dim": 64,
+      "lr": 1.0,
+      "internal_auc": 0.723025
+    },
+    {
+      "model": "M9_lightgcn",
+      "dim": 64,
+      "internal_auc": 0.71855
+    }
+  ],
+  "note": "Selected on 2018 historical-edge reconstruction only. Not a discovery metric. Final models are retrained on all cutoff edges."
+}

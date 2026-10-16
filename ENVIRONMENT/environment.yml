@@ -1,0 +1,13 @@
+name: historical-dti-repair
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.8
+  - pip
+  - pip:
+      - numpy==2.5.4
+      - pandas==3.0.6
+      - pyarrow==26.0.0
+      - rdkit==2026.9.1
+      - scipy==1.18.1
+      - matplotlib==3.11.2

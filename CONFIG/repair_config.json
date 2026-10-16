@@ -1,0 +1,38 @@
+{
+  "primary_dir": "14_repair/inputs/primary",
+  "structure_dir": "14_repair/inputs/structures",
+  "descriptor_dir": "14_repair/inputs/descriptors",
+  "legacy_cache": "14_repair/cache",
+  "legacy_rows": "03_historical_snapshots/CHEMBL_RELEASE_ROWS",
+  "seed": 20261015,
+  "repair_date": "2026-10-16",
+  "cutoffs": {
+    "2018": {
+      "release": "24.1",
+      "cutoff": "2018-12-31",
+      "followup_end": "2021-12-31"
+    },
+    "2020": {
+      "release": "27",
+      "cutoff": "2020-12-31",
+      "followup_end": "2023-12-31"
+    },
+    "2022": {
+      "release": "31",
+      "cutoff": "2022-12-31",
+      "followup_end": "2025-09-19"
+    }
+  },
+  "releases": {
+    "24.1": "2018-06-18",
+    "27": "2020-05-21",
+    "29": "2021-07-21",
+    "31": "2022-08-15",
+    "33": "2023-06-09",
+    "35": "2024-12-11",
+    "36": "2025-09-19",
+    "37": "2026-05-29"
+  },
+  "dates_are_operational": true,
+  "acyclic_token": "ACYCLIC"
+}

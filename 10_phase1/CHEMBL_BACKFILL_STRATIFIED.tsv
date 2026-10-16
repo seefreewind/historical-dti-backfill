@@ -1,0 +1,1666 @@
+cutoff	stratum_type	stratum	n_edges	median_target_degree	median_compound_degree	median_docs	fraction_approved_in_source	n_retro_only	backfill_fraction
+2018	edge_group	overlap	344859	1019.0	2.0	1.0	0.010816014661064377		
+2018	edge_group	retro_only	115106	501.0	0.0	1.0	0.011580630027974215		
+2018	edge_group	strict_only	89597	49197.0	1.0	1.0	0.039577217987209395		
+2018	target_popularity_decile	1	50306					30448.0	0.60525583429412
+2018	target_popularity_decile	2	51310					13956.0	0.2719937633989476
+2018	target_popularity_decile	3	50030					11045.0	0.22076753947631422
+2018	target_popularity_decile	4	51853					12831.0	0.24744952076061172
+2018	target_popularity_decile	5	51722					11122.0	0.21503422141448514
+2018	target_popularity_decile	6	51211					8811.0	0.17205287926422058
+2018	target_popularity_decile	7	52221					10486.0	0.20080044426571686
+2018	target_popularity_decile	8	53444					8148.0	0.1524586483047676
+2018	target_popularity_decile	9	47762					8238.0	0.17248021439638206
+2018	target_popularity_decile	10	106					21.0	0.19811320754716982
+2018	compound_popularity_decile	1	54957					54957.0	1.0
+2018	compound_popularity_decile	2	54956					50627.0	0.9212278914040323
+2018	compound_popularity_decile	3	54956					984.0	0.017905233277531116
+2018	compound_popularity_decile	4	54956					1022.0	0.018596695538248782
+2018	compound_popularity_decile	5	53747					2848.0	0.052989004037434645
+2018	compound_popularity_decile	6	0					0.0	
+2018	compound_popularity_decile	7	49777					1103.0	0.022158828374550497
+2018	compound_popularity_decile	8	39952					1161.0	0.02905987184621546
+2018	compound_popularity_decile	9	51451					690.0	0.013410818059901655
+2018	compound_popularity_decile	10	45213					1714.0	0.037909450821666336
+2018	publication_year	1976	22					0.0	0.0
+2018	publication_year	1977	21					0.0	0.0
+2018	publication_year	1978	22					1.0	0.045454545454545456
+2018	publication_year	1979	45					0.0	0.0
+2018	publication_year	1981	21					0.0	0.0
+2018	publication_year	1983	1					0.0	0.0
+2018	publication_year	1985	20					0.0	0.0
+2018	publication_year	1986	55					1.0	0.01818181818181818
+2018	publication_year	1987	26					0.0	0.0
+2018	publication_year	1988	55					0.0	0.0
+2018	publication_year	1989	36					1.0	0.027777777777777776
+2018	publication_year	1990	112					0.0	0.0
+2018	publication_year	1991	140					6.0	0.04285714285714286
+2018	publication_year	1992	188					4.0	0.02127659574468085
+2018	publication_year	1993	249					15.0	0.060240963855421686
+2018	publication_year	1994	205					13.0	0.06341463414634146
+2018	publication_year	1995	824					41.0	0.04975728155339806
+2018	publication_year	1996	767					90.0	0.11734028683181226
+2018	publication_year	1997	882					40.0	0.045351473922902494
+2018	publication_year	1998	856					38.0	0.04439252336448598
+2018	publication_year	1999	935					25.0	0.026737967914438502
+2018	publication_year	2000	1361					39.0	0.028655400440852314
+2018	publication_year	2001	1638					64.0	0.03907203907203907
+2018	publication_year	2002	1939					164.0	0.08457968024755029
+2018	publication_year	2003	1947					291.0	0.14946070878274267
+2018	publication_year	2004	6740					230.0	0.03412462908011869
+2018	publication_year	2005	15760					569.0	0.036104060913705584
+2018	publication_year	2006	20074					579.0	0.028843279864501345
+2018	publication_year	2007	21262					871.0	0.04096510206001317
+2018	publication_year	2008	22662					1398.0	0.061689171299973526
+2018	publication_year	2009	22244					1352.0	0.06078043517352994
+2018	publication_year	2010	22977					1028.0	0.04474039256647952
+2018	publication_year	2011	22850					1115.0	0.0487964989059081
+2018	publication_year	2012	26533					573.0	0.02159574869031018
+2018	publication_year	2013	50855					3277.0	0.06443810834726182
+2018	publication_year	2014	58143					6409.0	0.1102282303974683
+2018	publication_year	2015	46982					4831.0	0.1028266144480865
+2018	publication_year	2016	36440					18711.0	0.5134742041712403
+2018	publication_year	2017	38357					37643.0	0.9813854055322366
+2018	publication_year	2018	35719					35687.0	0.9991041182563901
+2018	target_class	5HT3 receptor	461					88.0	0.19088937093275488
+2018	target_class	ABCB subfamily	997					212.0	0.21263791374122368
+2018	target_class	ABCC subfamily	236					47.0	0.19915254237288135
+2018	target_class	ABCG subfamily	674					339.0	0.5029673590504451
+2018	target_class	AGC protein kinase AKT family	2491					244.0	0.09795262946607788
+2018	target_class	AGC protein kinase BARK subfamily	330					165.0	0.5
+2018	target_class	AGC protein kinase CRIK subfamily	43					21.0	0.4883720930232558
+2018	target_class	AGC protein kinase GEK subfamily	66					21.0	0.3181818181818182
+2018	target_class	AGC protein kinase GRK subfamily	276					68.0	0.2463768115942029
+2018	target_class	AGC protein kinase MAST family	6					0.0	0.0
+2018	target_class	AGC protein kinase MSK subfamily	109					26.0	0.23853211009174313
+2018	target_class	AGC protein kinase NDR family	343					318.0	0.9271137026239067
+2018	target_class	AGC protein kinase PDK1 subfamily	663					29.0	0.043740573152337855
+2018	target_class	AGC protein kinase PKA family	85					34.0	0.4
+2018	target_class	AGC protein kinase PKC alpha subfamily	1034					305.0	0.29497098646034814
+2018	target_class	AGC protein kinase PKC delta subfamily	622					132.0	0.21221864951768488
+2018	target_class	AGC protein kinase PKC eta subfamily	335					87.0	0.25970149253731345
+2018	target_class	AGC protein kinase PKC iota subfamily	680					72.0	0.10588235294117647
+2018	target_class	AGC protein kinase PKG family	17					6.0	0.35294117647058826
+2018	target_class	AGC protein kinase PKN family	110					67.0	0.6090909090909091
+2018	target_class	AGC protein kinase ROCK subfamily	1603					430.0	0.26824703680598877
+2018	target_class	AGC protein kinase RSK subfamily	403					106.0	0.2630272952853598
+2018	target_class	AGC protein kinase SGK family	116					23.0	0.19827586206896552
+2018	target_class	AGC protein kinase YANK family	6					0.0	0.0
+2018	target_class	AGC protein kinase p70 subfamily	666					47.0	0.07057057057057058
+2018	target_class	AMPA receptor	253					35.0	0.1383399209486166
+2018	target_class	Acetylcholine receptor	3154					346.0	0.10970196575776792
+2018	target_class	Acid-sensing ion channel	25					0.0	0.0
+2018	target_class	Adenosine receptor	11342					1286.0	0.11338388291306647
+2018	target_class	Adhesion	286					52.0	0.18181818181818182
+2018	target_class	Adrenergic receptor	4318					350.0	0.0810560444650301
+2018	target_class	Aminoacyltransferase	413					147.0	0.3559322033898305
+2018	target_class	Anaphylatoxin receptor	236					3.0	0.012711864406779662
+2018	target_class	Angiotensin receptor	531					117.0	0.22033898305084745
+2018	target_class	Annexin	3					3.0	1.0
+2018	target_class	Aspartic protease A1A subfamily	7029					1116.0	0.1587708066581306
+2018	target_class	Atypical protein kinase ABC1-A subfamily	8					0.0	0.0
+2018	target_class	Atypical protein kinase BCR family	59					56.0	0.9491525423728814
+2018	target_class	Atypical protein kinase FRAP subfamily	2705					389.0	0.14380776340110907
+2018	target_class	Atypical protein kinase PDHK subfamily	631					125.0	0.19809825673534073
+2018	target_class	Atypical protein kinase PIKK family	693					186.0	0.2683982683982684
+2018	target_class	Atypical protein kinase RIO1 subfamily	8					0.0	0.0
+2018	target_class	Atypical protein kinase RIO2 subfamily	1					1.0	1.0
+2018	target_class	Atypical protein kinase RIO3 subfamily	7					0.0	0.0
+2018	target_class	Atypical protein kinase alpha family	35					30.0	0.8571428571428571
+2018	target_class	Atypical protein kinase group	13					7.0	0.5384615384615384
+2018	target_class	Bcl-2 family	1643					295.0	0.17954960438222764
+2018	target_class	Bradykinin receptor	729					68.0	0.09327846364883402
+2018	target_class	Bromodomain	3164					1958.0	0.6188369152970923
+2018	target_class	CAMK protein kinase AMPK subfamily	50					25.0	0.5
+2018	target_class	CAMK protein kinase BRSK subfamily	20					6.0	0.3
+2018	target_class	CAMK protein kinase CAMK1 family	57					21.0	0.3684210526315789
+2018	target_class	CAMK protein kinase CAMK2 family	122					79.0	0.6475409836065574
+2018	target_class	CAMK protein kinase CHK1 subfamily	1032					176.0	0.17054263565891473
+2018	target_class	CAMK protein kinase DAPK family	229					65.0	0.2838427947598253
+2018	target_class	CAMK protein kinase DCAMK1 family	26					5.0	0.19230769230769232
+2018	target_class	CAMK protein kinase LKB subfamily	15					9.0	0.6
+2018	target_class	CAMK protein kinase MAPKAPK subfamily	613					52.0	0.08482871125611746
+2018	target_class	CAMK protein kinase MARK subfamily	203					148.0	0.729064039408867
+2018	target_class	CAMK protein kinase MELK subfamily	110					64.0	0.5818181818181818
+2018	target_class	CAMK protein kinase MLCK family	104					27.0	0.25961538461538464
+2018	target_class	CAMK protein kinase MNK subfamily	462					179.0	0.3874458874458874
+2018	target_class	CAMK protein kinase NIM1 subfamily	1					0.0	0.0
+2018	target_class	CAMK protein kinase NuaK subfamily	73					27.0	0.3698630136986301
+2018	target_class	CAMK protein kinase PASK subfamily	9					8.0	0.8888888888888888
+2018	target_class	CAMK protein kinase PHk family	48					19.0	0.3958333333333333
+2018	target_class	CAMK protein kinase PIM family	3187					622.0	0.19516786946972073
+2018	target_class	CAMK protein kinase PKD family	161					77.0	0.4782608695652174
+2018	target_class	CAMK protein kinase QIK subfamily	98					59.0	0.6020408163265306
+2018	target_class	CAMK protein kinase RAD53 family	347					224.0	0.6455331412103746
+2018	target_class	CAMK protein kinase TSSK family	16					9.0	0.5625
+2018	target_class	CAMK protein kinase group	1					0.0	0.0
+2018	target_class	CAMK protein kinase unique family	34					1.0	0.029411764705882353
+2018	target_class	CC chemokine receptor	3565					213.0	0.05974754558204769
+2018	target_class	CK1 protein kinase CK1 family	428					203.0	0.4742990654205608
+2018	target_class	CK1 protein kinase CK1-a	7					0.0	0.0
+2018	target_class	CK1 protein kinase CK1-g	17					9.0	0.5294117647058824
+2018	target_class	CMGC protein kinase CDC2 subfamily	935					118.0	0.12620320855614972
+2018	target_class	CMGC protein kinase CDK family	15					15.0	1.0
+2018	target_class	CMGC protein kinase CDK5 subfamily	96					27.0	0.28125
+2018	target_class	CMGC protein kinase CDK7 subfamily	91					24.0	0.26373626373626374
+2018	target_class	CMGC protein kinase CDK8 subfamily	282					129.0	0.4574468085106383
+2018	target_class	CMGC protein kinase CDK9 subfamily	484					55.0	0.11363636363636363
+2018	target_class	CMGC protein kinase CDKL family	6					6.0	1.0
+2018	target_class	CMGC protein kinase CLK family	618					283.0	0.45792880258899676
+2018	target_class	CMGC protein kinase DYRK family	4					1.0	0.25
+2018	target_class	CMGC protein kinase Dyrk1 subfamily	937					447.0	0.47705442902881534
+2018	target_class	CMGC protein kinase Dyrk2 subfamily	226					124.0	0.5486725663716814
+2018	target_class	CMGC protein kinase ERK subfamily	1387					495.0	0.3568853640951694
+2018	target_class	CMGC protein kinase ERK3	11					0.0	0.0
+2018	target_class	CMGC protein kinase ERK5	40					10.0	0.25
+2018	target_class	CMGC protein kinase GSK family	1650					473.0	0.2866666666666667
+2018	target_class	CMGC protein kinase HIPK subfamily	35					8.0	0.22857142857142856
+2018	target_class	CMGC protein kinase JNK subfamily	1631					240.0	0.14714898835070508
+2018	target_class	CMGC protein kinase MAK	13					11.0	0.8461538461538461
+2018	target_class	CMGC protein kinase MAPK family	23					10.0	0.43478260869565216
+2018	target_class	CMGC protein kinase PCTAIRE	33					18.0	0.5454545454545454
+2018	target_class	CMGC protein kinase PFTAIRE	7					0.0	0.0
+2018	target_class	CMGC protein kinase PITSLRE subfamily	21					5.0	0.23809523809523808
+2018	target_class	CMGC protein kinase SRPK family	22					6.0	0.2727272727272727
+2018	target_class	CMGC protein kinase TAIRE subfamily	42					25.0	0.5952380952380952
+2018	target_class	CMGC protein kinase group	1139					264.0	0.2317822651448639
+2018	target_class	CMGC protein kinase nmo subfamily	17					9.0	0.5294117647058824
+2018	target_class	CMGC protein kinase p38 subfamily	2222					208.0	0.09360936093609361
+2018	target_class	CX3C chemokine receptor	63					12.0	0.19047619047619047
+2018	target_class	CXC chemokine receptor	1937					561.0	0.28962312854930305
+2018	target_class	Ca2+ release-activated Ca2+ channel family	37					29.0	0.7837837837837838
+2018	target_class	Calcitonin gene-related peptide receptor	575					26.0	0.04521739130434783
+2018	target_class	Calcitonin receptor	129					116.0	0.8992248062015504
+2018	target_class	Calcium ATPase	5					5.0	1.0
+2018	target_class	Calcium channel auxiliary subunit alpha2delta family	125					0.0	0.0
+2018	target_class	Calcium sensing receptor	134					2.0	0.014925373134328358
+2018	target_class	Calcium-activated chloride channel	91					62.0	0.6813186813186813
+2018	target_class	Calcium-activated potassium channel	86					0.0	0.0
+2018	target_class	Cannabinoid receptor	6745					631.0	0.09355077835433655
+2018	target_class	CatSper and Two-Pore channels	2					1.0	0.5
+2018	target_class	Cholecystokinin receptor	560					24.0	0.04285714285714286
+2018	target_class	Chromodomain	675					583.0	0.8637037037037038
+2018	target_class	Corticotropin releasing factor receptor	1116					92.0	0.08243727598566308
+2018	target_class	Cyclic nucleotide-regulated channel	64					0.0	0.0
+2018	target_class	Cysteine protease C12 family	31					1.0	0.03225806451612903
+2018	target_class	Cysteine protease C13 family	84					4.0	0.047619047619047616
+2018	target_class	Cysteine protease C14 family	1935					297.0	0.15348837209302327
+2018	target_class	Cysteine protease C14A subfamily	5					3.0	0.6
+2018	target_class	Cysteine protease C19 family	309					284.0	0.919093851132686
+2018	target_class	Cysteine protease C1A family	5637					691.0	0.1225829341848501
+2018	target_class	Cysteine protease C2 family	231					82.0	0.354978354978355
+2018	target_class	Cysteine protease C48 family	40					31.0	0.775
+2018	target_class	Cystic fibrosis transmembrane conductance regulator	376					168.0	0.44680851063829785
+2018	target_class	Cytochrome P450 11B1	824					145.0	0.17597087378640777
+2018	target_class	Cytochrome P450 11B2	975					222.0	0.2276923076923077
+2018	target_class	Cytochrome P450 17A1	560					148.0	0.2642857142857143
+2018	target_class	Cytochrome P450 19A1	1760					363.0	0.20625
+2018	target_class	Cytochrome P450 1A1	73					45.0	0.6164383561643836
+2018	target_class	Cytochrome P450 1A2	52					22.0	0.4230769230769231
+2018	target_class	Cytochrome P450 1B1	191					100.0	0.5235602094240838
+2018	target_class	Cytochrome P450 21A2	102					102.0	1.0
+2018	target_class	Cytochrome P450 24A1	54					14.0	0.25925925925925924
+2018	target_class	Cytochrome P450 26A1	122					8.0	0.06557377049180328
+2018	target_class	Cytochrome P450 27B1	8					6.0	0.75
+2018	target_class	Cytochrome P450 2A6	115					21.0	0.1826086956521739
+2018	target_class	Cytochrome P450 2C19	79					3.0	0.0379746835443038
+2018	target_class	Cytochrome P450 2C8	3					3.0	1.0
+2018	target_class	Cytochrome P450 2C9	105					4.0	0.0380952380952381
+2018	target_class	Cytochrome P450 2D6	50					31.0	0.62
+2018	target_class	Cytochrome P450 3A4	281					36.0	0.12811387900355872
+2018	target_class	Cytochrome P450 51A1	31					3.0	0.0967741935483871
+2018	target_class	Cytochrome P450 5A1	54					1.0	0.018518518518518517
+2018	target_class	Cytochrome P450 7A1	1					1.0	1.0
+2018	target_class	Cytochrome P450 family 26	16					0.0	0.0
+2018	target_class	Cytochrome P450 family 2A	11					11.0	1.0
+2018	target_class	DNA methyltransferase	154					92.0	0.5974025974025974
+2018	target_class	Dopamine receptor	9094					1408.0	0.15482735869804268
+2018	target_class	EDG receptor	1755					291.0	0.1658119658119658
+2018	target_class	Endoplasmic reticular retrotranslocon family	257					33.0	0.12840466926070038
+2018	target_class	Endothelin receptor	389					153.0	0.39331619537275064
+2018	target_class	Enzyme	8423					2011.0	0.23875103882227236
+2018	target_class	F-type ATPase	2					2.0	1.0
+2018	target_class	Family A G protein-coupled receptor	340					160.0	0.47058823529411764
+2018	target_class	Fatty acid binding protein family	295					120.0	0.4067796610169492
+2018	target_class	Free fatty acid receptor	434					230.0	0.5299539170506913
+2018	target_class	GABA-A receptor	460					2.0	0.004347826086956522
+2018	target_class	GABA-B receptor	2					1.0	0.5
+2018	target_class	GNAT family	155					37.0	0.23870967741935484
+2018	target_class	GRP-related receptor	1400					502.0	0.3585714285714286
+2018	target_class	Galanin receptor	156					40.0	0.2564102564102564
+2018	target_class	Gastric inhibitory polypeptide receptor	66					8.0	0.12121212121212122
+2018	target_class	Glucagon receptor	564					25.0	0.044326241134751775
+2018	target_class	Glucagon-like peptide receptor	276					41.0	0.14855072463768115
+2018	target_class	Glycine receptor	68					29.0	0.4264705882352941
+2018	target_class	Glycohormone receptor	7					0.0	0.0
+2018	target_class	GnRH receptor	742					117.0	0.15768194070080863
+2018	target_class	Group translocator	8					0.0	0.0
+2018	target_class	HDAC class I	6269					1538.0	0.2453341840803956
+2018	target_class	HDAC class III	1405					338.0	0.2405693950177936
+2018	target_class	HDAC class IIa	968					154.0	0.1590909090909091
+2018	target_class	HDAC class IIb	2397					736.0	0.3070504797663746
+2018	target_class	HDAC class IV	219					62.0	0.2831050228310502
+2018	target_class	Histamine receptor	4544					394.0	0.08670774647887323
+2018	target_class	Hydrolase	15181					5984.0	0.39417693169092943
+2018	target_class	Hydroxycarboxylic acid receptor	262					25.0	0.09541984732824428
+2018	target_class	IP3 receptor	1					1.0	1.0
+2018	target_class	Inwardly rectifying potassium channel	311					120.0	0.3858520900321543
+2018	target_class	Isomerase	2539					614.0	0.2418274911382434
+2018	target_class	Jumonji domain-containing	1719					890.0	0.5177428737638162
+2018	target_class	Kainate receptor	107					3.0	0.028037383177570093
+2018	target_class	Kinase	19					2.0	0.10526315789473684
+2018	target_class	Kynurenic acid receptor	125					37.0	0.296
+2018	target_class	Leukotriene receptor	58					3.0	0.05172413793103448
+2018	target_class	Ligase	2918					363.0	0.12440027416038382
+2018	target_class	Lipid-like ligand receptor (family A GPCR)	107					2.0	0.018691588785046728
+2018	target_class	Lyase	18250					4485.0	0.24575342465753425
+2018	target_class	Lysine-specific demethylase	793					305.0	0.38461538461538464
+2018	target_class	Lysophosphatidylinositol receptor	74					3.0	0.04054054054054054
+2018	target_class	MBT domain	209					5.0	0.023923444976076555
+2018	target_class	MCH receptor	2658					71.0	0.02671181339352897
+2018	target_class	MYST family	30					20.0	0.6666666666666666
+2018	target_class	Melanocortin receptor	3438					163.0	0.04741128563118092
+2018	target_class	Melatonin receptor	1243					183.0	0.14722445695897024
+2018	target_class	Membrane receptor	2741					1417.0	0.5169646114556731
+2018	target_class	Metabotropic glutamate receptor	1283					257.0	0.20031176929072486
+2018	target_class	Metallo protease M1 family	948					178.0	0.1877637130801688
+2018	target_class	Metallo protease M10A subfamily	6704					783.0	0.11679594272076373
+2018	target_class	Metallo protease M12A subfamily	106					13.0	0.12264150943396226
+2018	target_class	Metallo protease M12B subfamily	1162					301.0	0.25903614457831325
+2018	target_class	Metallo protease M13 family	233					39.0	0.16738197424892703
+2018	target_class	Metallo protease M14A subfamily	305					49.0	0.16065573770491803
+2018	target_class	Metallo protease M14B subfamily	21					4.0	0.19047619047619047
+2018	target_class	Metallo protease M17 family	7					4.0	0.5714285714285714
+2018	target_class	Metallo protease M2 family	159					32.0	0.20125786163522014
+2018	target_class	Metallo protease M24A subfamily	562					125.0	0.22241992882562278
+2018	target_class	Metallo protease M28B subfamily	233					38.0	0.1630901287553648
+2018	target_class	Metallo protease M67A subfamily	32					32.0	1.0
+2018	target_class	Methyl-CpG-binding domain	8					0.0	0.0
+2018	target_class	Mitochondrial pyruvate carrier family	2					2.0	1.0
+2018	target_class	Motilin receptor	72					1.0	0.013888888888888888
+2018	target_class	N-formyl methionyl peptide receptor	22					18.0	0.8181818181818182
+2018	target_class	NMDA receptor	166					78.0	0.46987951807228917
+2018	target_class	Neurokinin receptor	1932					53.0	0.027432712215320912
+2018	target_class	Neuromedin U receptor	102					93.0	0.9117647058823529
+2018	target_class	Neuromedin receptor	40					0.0	0.0
+2018	target_class	Neuropeptide Y receptor	1382					295.0	0.2134587554269175
+2018	target_class	Neuropeptide receptor	617					118.0	0.1912479740680713
+2018	target_class	Neurotensin receptor	256					75.0	0.29296875
+2018	target_class	Nicotinic acetylcholine receptor alpha subunit	740					154.0	0.20810810810810812
+2018	target_class	Nicotinic acetylcholine receptor epsilon subunit	1					1.0	1.0
+2018	target_class	Nuclear hormone receptor subfamily 0 group B member 2	4					0.0	0.0
+2018	target_class	Nuclear hormone receptor subfamily 1 group A member 1	240					26.0	0.10833333333333334
+2018	target_class	Nuclear hormone receptor subfamily 1 group A member 2	409					12.0	0.029339853300733496
+2018	target_class	Nuclear hormone receptor subfamily 1 group B member 1	99					21.0	0.21212121212121213
+2018	target_class	Nuclear hormone receptor subfamily 1 group B member 2	104					34.0	0.3269230769230769
+2018	target_class	Nuclear hormone receptor subfamily 1 group B member 3	136					66.0	0.4852941176470588
+2018	target_class	Nuclear hormone receptor subfamily 1 group C member 1	1293					218.0	0.168600154679041
+2018	target_class	Nuclear hormone receptor subfamily 1 group C member 2	784					247.0	0.31505102040816324
+2018	target_class	Nuclear hormone receptor subfamily 1 group C member 3	2306					452.0	0.19601040763226366
+2018	target_class	Nuclear hormone receptor subfamily 1 group D member 1	22					1.0	0.045454545454545456
+2018	target_class	Nuclear hormone receptor subfamily 1 group D member 2	2					0.0	0.0
+2018	target_class	Nuclear hormone receptor subfamily 1 group F	145					89.0	0.6137931034482759
+2018	target_class	Nuclear hormone receptor subfamily 1 group F member 1	95					22.0	0.23157894736842105
+2018	target_class	Nuclear hormone receptor subfamily 1 group F member 3	1538					1050.0	0.682704811443433
+2018	target_class	Nuclear hormone receptor subfamily 1 group H member 3	1218					143.0	0.1174055829228243
+2018	target_class	Nuclear hormone receptor subfamily 1 group H member 4	683					226.0	0.3308931185944363
+2018	target_class	Nuclear hormone receptor subfamily 1 group I member 1	338					86.0	0.25443786982248523
+2018	target_class	Nuclear hormone receptor subfamily 1 group I member 2	108					14.0	0.12962962962962962
+2018	target_class	Nuclear hormone receptor subfamily 1 group I member 3	60					0.0	0.0
+2018	target_class	Nuclear hormone receptor subfamily 2 group B member 1	225					33.0	0.14666666666666667
+2018	target_class	Nuclear hormone receptor subfamily 2 group B member 2	45					22.0	0.4888888888888889
+2018	target_class	Nuclear hormone receptor subfamily 2 group B member 3	51					22.0	0.43137254901960786
+2018	target_class	Nuclear hormone receptor subfamily 2 group C member 2	3					1.0	0.3333333333333333
+2018	target_class	Nuclear hormone receptor subfamily 3 group A member 1	1908					457.0	0.23951781970649896
+2018	target_class	Nuclear hormone receptor subfamily 3 group A member 2	1328					276.0	0.20783132530120482
+2018	target_class	Nuclear hormone receptor subfamily 3 group B member 1	112					54.0	0.48214285714285715
+2018	target_class	Nuclear hormone receptor subfamily 3 group B member 2	59					29.0	0.4915254237288136
+2018	target_class	Nuclear hormone receptor subfamily 3 group B member 3	108					94.0	0.8703703703703703
+2018	target_class	Nuclear hormone receptor subfamily 3 group C member 1	1657					240.0	0.14484007242003621
+2018	target_class	Nuclear hormone receptor subfamily 3 group C member 2	637					130.0	0.20408163265306123
+2018	target_class	Nuclear hormone receptor subfamily 3 group C member 3	777					132.0	0.16988416988416988
+2018	target_class	Nuclear hormone receptor subfamily 3 group C member 4	1534					251.0	0.1636245110821382
+2018	target_class	Nuclear hormone receptor subfamily 4 group A member 2	10					0.0	0.0
+2018	target_class	Nuclear hormone receptor subfamily 4 group A member 3	2					2.0	1.0
+2018	target_class	Nuclear hormone receptor subfamily 5 group A member 1	16					0.0	0.0
+2018	target_class	Nuclear hormone receptor subfamily 5 group A member 2	22					4.0	0.18181818181818182
+2018	target_class	Opioid receptor	8709					1438.0	0.16511654610173385
+2018	target_class	Orexin receptor	3096					173.0	0.05587855297157623
+2018	target_class	Other cytosolic protein	6648					1416.0	0.21299638989169675
+2018	target_class	Other membrane protein	287					37.0	0.1289198606271777
+2018	target_class	Other nuclear protein	2518					888.0	0.3526608419380461
+2018	target_class	Other protein kinase AUR family	2954					607.0	0.2054840893703453
+2018	target_class	Other protein kinase CDC7 family	213					26.0	0.12206572769953052
+2018	target_class	Other protein kinase CK2 family	786					143.0	0.18193384223918574
+2018	target_class	Other protein kinase GCN2 subfamily	37					4.0	0.10810810810810811
+2018	target_class	Other protein kinase HRI	46					15.0	0.32608695652173914
+2018	target_class	Other protein kinase Haspin family	31					7.0	0.22580645161290322
+2018	target_class	Other protein kinase IKK family	107					69.0	0.6448598130841121
+2018	target_class	Other protein kinase Meta subfamily	114					87.0	0.7631578947368421
+2018	target_class	Other protein kinase NAK family	333					210.0	0.6306306306306306
+2018	target_class	Other protein kinase NEK family	155					85.0	0.5483870967741935
+2018	target_class	Other protein kinase NKF1 family	1					0.0	0.0
+2018	target_class	Other protein kinase Nek1	13					12.0	0.9230769230769231
+2018	target_class	Other protein kinase Nek11	2					1.0	0.5
+2018	target_class	Other protein kinase PEK subfamily	47					1.0	0.02127659574468085
+2018	target_class	Other protein kinase PKR	81					1.0	0.012345679012345678
+2018	target_class	Other protein kinase PLK family	665					291.0	0.43759398496240604
+2018	target_class	Other protein kinase PLK2	105					52.0	0.49523809523809526
+2018	target_class	Other protein kinase TLK family	9					0.0	0.0
+2018	target_class	Other protein kinase TOPK family	121					3.0	0.024793388429752067
+2018	target_class	Other protein kinase TTK family	393					80.0	0.2035623409669211
+2018	target_class	Other protein kinase ULK family	109					76.0	0.6972477064220184
+2018	target_class	Other protein kinase WEE family	286					34.0	0.11888111888111888
+2018	target_class	Other protein kinase WEE1	8					6.0	0.75
+2018	target_class	Other protein kinase Wnk family	16					15.0	0.9375
+2018	target_class	Other protein kinase group	951					226.0	0.23764458464773922
+2018	target_class	Oxidoreductase	24076					7666.0	0.31840837348396744
+2018	target_class	Oxidoreduction-driven transporters	6					4.0	0.6666666666666666
+2018	target_class	P2X receptor	1501					434.0	0.28914057295136575
+2018	target_class	PAF receptor	48					0.0	0.0
+2018	target_class	PWWP domain	330					161.0	0.48787878787878786
+2018	target_class	Parathyroid hormone receptor	31					6.0	0.1935483870967742
+2018	target_class	Phosphatase	688					208.0	0.3023255813953488
+2018	target_class	Phosphodiesterase	473					232.0	0.4904862579281184
+2018	target_class	Phosphodiesterase 10A	2898					236.0	0.08143547273982056
+2018	target_class	Phosphodiesterase 11A	80					26.0	0.325
+2018	target_class	Phosphodiesterase 1A	13					5.0	0.38461538461538464
+2018	target_class	Phosphodiesterase 1B	47					25.0	0.5319148936170213
+2018	target_class	Phosphodiesterase 1C	35					3.0	0.08571428571428572
+2018	target_class	Phosphodiesterase 2A	720					200.0	0.2777777777777778
+2018	target_class	Phosphodiesterase 3A	231					31.0	0.1341991341991342
+2018	target_class	Phosphodiesterase 3B	97					27.0	0.27835051546391754
+2018	target_class	Phosphodiesterase 4A	439					28.0	0.06378132118451026
+2018	target_class	Phosphodiesterase 4B	1110					313.0	0.281981981981982
+2018	target_class	Phosphodiesterase 4C	95					18.0	0.18947368421052632
+2018	target_class	Phosphodiesterase 4D	676					112.0	0.16568047337278108
+2018	target_class	Phosphodiesterase 5A	812					211.0	0.25985221674876846
+2018	target_class	Phosphodiesterase 6A	2					1.0	0.5
+2018	target_class	Phosphodiesterase 6C	28					24.0	0.8571428571428571
+2018	target_class	Phosphodiesterase 6D	91					44.0	0.4835164835164835
+2018	target_class	Phosphodiesterase 7A	611					49.0	0.08019639934533551
+2018	target_class	Phosphodiesterase 7B	23					2.0	0.08695652173913043
+2018	target_class	Phosphodiesterase 8A	13					4.0	0.3076923076923077
+2018	target_class	Phosphodiesterase 8B	87					1.0	0.011494252873563218
+2018	target_class	Phosphodiesterase 9A	331					186.0	0.5619335347432024
+2018	target_class	Plant homeodomain	9					3.0	0.3333333333333333
+2018	target_class	Pore-forming toxins (proteins and peptides)	869					146.0	0.16800920598388952
+2018	target_class	Presenilin ER Ca2+ leak channel family	52					0.0	0.0
+2018	target_class	Prokineticin receptor	107					107.0	1.0
+2018	target_class	Prolactin-releasing peptide receptor	88					0.0	0.0
+2018	target_class	Prostanoid receptor	4182					360.0	0.08608321377331421
+2018	target_class	Protease unclassified U48 family	22					0.0	0.0
+2018	target_class	Protease-activated receptor	443					46.0	0.1038374717832957
+2018	target_class	Protein Kinase	40					12.0	0.3
+2018	target_class	Protein arginine methyltransferase	807					556.0	0.6889714993804213
+2018	target_class	Protein kinase regulatory subunit	100					86.0	0.86
+2018	target_class	Protein methyltransferase	790					509.0	0.6443037974683544
+2018	target_class	Protein phosphatase regulatory subunit	5					5.0	1.0
+2018	target_class	Protein-glutamine glutamyl-transferase	467					73.0	0.15631691648822268
+2018	target_class	Purine receptor	1367					122.0	0.08924652523774688
+2018	target_class	RF amide receptor	342					4.0	0.011695906432748537
+2018	target_class	Receptor guanylate cyclase	53					53.0	1.0
+2018	target_class	Receptor tyrosine-protein phosphatase	234					98.0	0.4188034188034188
+2018	target_class	Relaxin receptor	25					25.0	1.0
+2018	target_class	Ryanodine receptor	52					49.0	0.9423076923076923
+2018	target_class	SET domain	217					100.0	0.4608294930875576
+2018	target_class	SLC01 family of amino acid transporters	306					153.0	0.5
+2018	target_class	SLC02 family of hexose and sugar alcohol transporters	356					203.0	0.5702247191011236
+2018	target_class	SLC05 family of sodium-dependent glucose transporters	2309					839.0	0.3633607622347336
+2018	target_class	SLC06 neurotransmitter transporter family	8949					864.0	0.09654710023466309
+2018	target_class	SLC07 Cationic amino acid transporter/glycoprotein-associated family	47					22.0	0.46808510638297873
+2018	target_class	SLC08 family of sodium/calcium exchangers	1					0.0	0.0
+2018	target_class	SLC09 family of sodium/hydrogen exchangers	496					277.0	0.5584677419354839
+2018	target_class	SLC10 family of sodium-bile acid co-transporters	206					6.0	0.02912621359223301
+2018	target_class	SLC11 family of proton-coupled metal ion transporters	39					3.0	0.07692307692307693
+2018	target_class	SLC13 family of sodium-dependent sulphate/carboxylate transporters	12					0.0	0.0
+2018	target_class	SLC14 family of facilitative urea transporters	1					0.0	0.0
+2018	target_class	SLC15 family of peptide transporters	19					0.0	0.0
+2018	target_class	SLC16 family of monocarboxylate transporters	67					3.0	0.04477611940298507
+2018	target_class	SLC18 family of vesicular amine transporters	114					21.0	0.18421052631578946
+2018	target_class	SLC19 family of vitamin transporters	26					12.0	0.46153846153846156
+2018	target_class	SLC20 family of sodium-dependent phosphate transporters	3					3.0	1.0
+2018	target_class	SLC21/SLCO family of organic anion transporting polypeptides	9					7.0	0.7777777777777778
+2018	target_class	SLC22 family of organic cation and anion transporters	280					119.0	0.425
+2018	target_class	SLC25 family of mitochondrial transporters	11					10.0	0.9090909090909091
+2018	target_class	SLC26 family of anion exchangers	2					2.0	1.0
+2018	target_class	SLC27 family of fatty acid transporters	72					0.0	0.0
+2018	target_class	SLC28 Na+-coupled nucleoside transport family	44					0.0	0.0
+2018	target_class	SLC29 Facilitative nucleoside transporter family	154					0.0	0.0
+2018	target_class	SLC33 acetylCoA transporter	144					9.0	0.0625
+2018	target_class	SLC34 family of sodium phosphate co-transporters	13					13.0	1.0
+2018	target_class	SLC37 family of phosphosugar/phosphate exchangers	18					0.0	0.0
+2018	target_class	SLC40 iron transporter	474					426.0	0.8987341772151899
+2018	target_class	SLC43 family of large neutral amino acid transporters	1					1.0	1.0
+2018	target_class	SLC46 family of folate transporters	32					16.0	0.5
+2018	target_class	SLC47 family of multidrug and toxin extrusion transporters	67					2.0	0.029850746268656716
+2018	target_class	STE protein kinase ASK	9					7.0	0.7777777777777778
+2018	target_class	STE protein kinase FRAY subfamily	2					0.0	0.0
+2018	target_class	STE protein kinase KHS subfamily	280					199.0	0.7107142857142857
+2018	target_class	STE protein kinase MEKK2	38					25.0	0.6578947368421053
+2018	target_class	STE protein kinase MSN subfamily	297					120.0	0.40404040404040403
+2018	target_class	STE protein kinase MST subfamily	96					53.0	0.5520833333333334
+2018	target_class	STE protein kinase NinaC subfamily	5					0.0	0.0
+2018	target_class	STE protein kinase PAKA subfamily	257					34.0	0.13229571984435798
+2018	target_class	STE protein kinase PAKB subfamily	319					139.0	0.43573667711598746
+2018	target_class	STE protein kinase SLK subfamily	163					89.0	0.5460122699386503
+2018	target_class	STE protein kinase STE11 family	331					120.0	0.36253776435045315
+2018	target_class	STE protein kinase STE7 family	669					216.0	0.32286995515695066
+2018	target_class	STE protein kinase TAO subfamily	184					66.0	0.358695652173913
+2018	target_class	STE protein kinase YSK subfamily	67					29.0	0.43283582089552236
+2018	target_class	STE protein kinase group	641					9.0	0.014040561622464899
+2018	target_class	STE protein kinase unique family	110					79.0	0.7181818181818181
+2018	target_class	Secreted protein	1602					287.0	0.17915106117353308
+2018	target_class	Serine protease	564					113.0	0.20035460992907803
+2018	target_class	Serine protease S10 family	35					0.0	0.0
+2018	target_class	Serine protease S1A subfamily	9699					1812.0	0.18682338385400557
+2018	target_class	Serine protease S28 family	686					11.0	0.016034985422740525
+2018	target_class	Serine protease S33 family	1893					203.0	0.10723718964606445
+2018	target_class	Serine protease S8A subfamily	30					6.0	0.2
+2018	target_class	Serine protease S8B subfamily	486					226.0	0.46502057613168724
+2018	target_class	Serine protease S9A subfamily	228					5.0	0.021929824561403508
+2018	target_class	Serine protease S9B subfamily	3987					266.0	0.06671682969651367
+2018	target_class	Serine protease S9C subfamily	1					1.0	1.0
+2018	target_class	Serine protein phosphatase	4					3.0	0.75
+2018	target_class	Serine/threonine protein phosphatase	36					4.0	0.1111111111111111
+2018	target_class	Serine/threonine/tyrosine protein phosphatase	626					70.0	0.11182108626198083
+2018	target_class	Serotonin receptor	13956					2285.0	0.16372886213814847
+2018	target_class	Slow voltage-gated potassium channel accessory protein family	2					0.0	0.0
+2018	target_class	Smoothened receptor (frizzled family GPCR)	282					71.0	0.25177304964539005
+2018	target_class	Sodium potassium ATPase	7					3.0	0.42857142857142855
+2018	target_class	Somatostatin receptor	1778					127.0	0.07142857142857142
+2018	target_class	Steroid-like ligand receptor	48					3.0	0.0625
+2018	target_class	Structural protein	126					65.0	0.5158730158730159
+2018	target_class	Surface antigen	217					44.0	0.20276497695852536
+2018	target_class	TKL protein kinase HH498 subfamily	164					75.0	0.4573170731707317
+2018	target_class	TKL protein kinase ILK subfamily	169					4.0	0.023668639053254437
+2018	target_class	TKL protein kinase IRAK family	560					258.0	0.4607142857142857
+2018	target_class	TKL protein kinase LIMK subfamily	446					48.0	0.10762331838565023
+2018	target_class	TKL protein kinase LRRK family	917					191.0	0.20828789531079608
+2018	target_class	TKL protein kinase LZK subfamily	2					2.0	1.0
+2018	target_class	TKL protein kinase MLK subfamily	208					89.0	0.42788461538461536
+2018	target_class	TKL protein kinase RAF family	2657					1649.0	0.6206247647722996
+2018	target_class	TKL protein kinase RIPK family	332					224.0	0.6746987951807228
+2018	target_class	TKL protein kinase STKR Type 1 subfamily	1732					447.0	0.25808314087759815
+2018	target_class	TKL protein kinase STKR Type 2 subfamily	142					56.0	0.39436619718309857
+2018	target_class	TKL protein kinase STKR1	114					67.0	0.5877192982456141
+2018	target_class	TKL protein kinase TAK1 subfamily	157					63.0	0.4012738853503185
+2018	target_class	TKL protein kinase TESK subfamily	15					3.0	0.2
+2018	target_class	TKL protein kinase group	65					49.0	0.7538461538461538
+2018	target_class	Taste receptor (taste family GPCR)	5					0.0	0.0
+2018	target_class	Threonine protease T1A subfamily	1021					529.0	0.5181194906953966
+2018	target_class	Threonine protease T1B subfamily	55					36.0	0.6545454545454545
+2018	target_class	Threonine protease T2 family	8					8.0	1.0
+2018	target_class	Toll-like and Il-1 receptors	572					381.0	0.666083916083916
+2018	target_class	Trace amine receptor	47					0.0	0.0
+2018	target_class	Transcription factor	1603					691.0	0.4310667498440424
+2018	target_class	Transferase	18064					4404.0	0.2437998228520815
+2018	target_class	Transient receptor potential channel	2816					726.0	0.2578125
+2018	target_class	Transmembrane 1-electron transfer carriers	52					0.0	0.0
+2018	target_class	Transporter	13					12.0	0.9230769230769231
+2018	target_class	Tudor domain	48					37.0	0.7708333333333334
+2018	target_class	Two-pore domain potassium channel	134					17.0	0.12686567164179105
+2018	target_class	Tyrosine protein kinase Abl family	1355					335.0	0.24723247232472326
+2018	target_class	Tyrosine protein kinase Ack family	457					99.0	0.21663019693654267
+2018	target_class	Tyrosine protein kinase Alk family	35					15.0	0.42857142857142855
+2018	target_class	Tyrosine protein kinase Axl family	946					458.0	0.48414376321353064
+2018	target_class	Tyrosine protein kinase Csk family	57					28.0	0.49122807017543857
+2018	target_class	Tyrosine protein kinase DDR family	348					194.0	0.5574712643678161
+2018	target_class	Tyrosine protein kinase EGFR family	5429					1985.0	0.36562902928716157
+2018	target_class	Tyrosine protein kinase Eph family	1218					810.0	0.6650246305418719
+2018	target_class	Tyrosine protein kinase FGFR family	4474					3101.0	0.6931157800625838
+2018	target_class	Tyrosine protein kinase Fak family	1235					200.0	0.16194331983805668
+2018	target_class	Tyrosine protein kinase Fer family	77					51.0	0.6623376623376623
+2018	target_class	Tyrosine protein kinase InsR family	2117					678.0	0.32026452527161076
+2018	target_class	Tyrosine protein kinase JakA family	8100					3376.0	0.4167901234567901
+2018	target_class	Tyrosine protein kinase Met family	2692					585.0	0.2173105497771174
+2018	target_class	Tyrosine protein kinase Musk family	16					3.0	0.1875
+2018	target_class	Tyrosine protein kinase PDGFR family	3912					1540.0	0.3936605316973415
+2018	target_class	Tyrosine protein kinase Ret family	526					197.0	0.3745247148288973
+2018	target_class	Tyrosine protein kinase Sev family	129					73.0	0.5658914728682171
+2018	target_class	Tyrosine protein kinase Src family	2948					764.0	0.2591587516960651
+2018	target_class	Tyrosine protein kinase Srm	21					11.0	0.5238095238095238
+2018	target_class	Tyrosine protein kinase Syk family	2221					367.0	0.16524088248536695
+2018	target_class	Tyrosine protein kinase Tec family	1960					1000.0	0.5102040816326531
+2018	target_class	Tyrosine protein kinase Tie family	462					142.0	0.30735930735930733
+2018	target_class	Tyrosine protein kinase Trk family	577					265.0	0.4592720970537262
+2018	target_class	Tyrosine protein kinase VEGFR family	5736					1728.0	0.301255230125523
+2018	target_class	Tyrosine protein phosphatase	2803					548.0	0.19550481626828398
+2018	target_class	Unclassified protein	5847					4233.0	0.72396100564392
+2018	target_class	V-type ATPase	1					0.0	0.0
+2018	target_class	Vasoactive intestinal peptide receptor	38					25.0	0.6578947368421053
+2018	target_class	Vasopressin and oxytocin receptor	1654					215.0	0.12998790810157196
+2018	target_class	Voltage-dependent anion-selective channel	2					1.0	0.5
+2018	target_class	Voltage-gated calcium channel	1224					705.0	0.5759803921568627
+2018	target_class	Voltage-gated potassium channel	8344					1498.0	0.17953020134228187
+2018	target_class	Voltage-gated sodium channel	3392					714.0	0.2104952830188679
+2018	target_class	WDR domain	159					111.0	0.6981132075471698
+2018	target_class	YEATS domain	62					62.0	1.0
+2018	target_class	p300/CBP family	592					302.0	0.5101351351351351
+2018	standard_type	AC50	433					23.0	0.053117782909930716
+2018	standard_type	EC50	14585					4653.0	0.3190263969832019
+2018	standard_type	IC50	285996					79109.0	0.2766087637589337
+2018	standard_type	Kd	16603					8157.0	0.4912967535987472
+2018	standard_type	Ki	142348					23164.0	0.16272796245820104
+2018	assay_type	B	459965					115106.0	0.2502494755035709
+2018	confidence_score	9	459965					115106.0	0.2502494755035709
+2020	edge_group	overlap	418107	1132.0	2.0	1.0	0.007974035354586266		
+2020	edge_group	retro_only	107221	544.0	0.0	1.0	0.019865511420337434		
+2020	edge_group	strict_only	80950	49225.0	1.0	1.0	0.007288449660284126		
+2020	target_popularity_decile	1	58666					30852.0	0.5258923396856783
+2020	target_popularity_decile	2	57957					11490.0	0.1982504270407371
+2020	target_popularity_decile	3	57001					9587.0	0.16819003175382888
+2020	target_popularity_decile	4	58135					10465.0	0.18001204093919326
+2020	target_popularity_decile	5	58077					10829.0	0.18645935568297262
+2020	target_popularity_decile	6	57869					9208.0	0.1591180079144274
+2020	target_popularity_decile	7	58923					8325.0	0.1412860852298763
+2020	target_popularity_decile	8	59420					8022.0	0.13500504880511613
+2020	target_popularity_decile	9	59170					8438.0	0.1426060503633598
+2020	target_popularity_decile	10	110					5.0	0.045454545454545456
+2020	compound_popularity_decile	1	60628					60628.0	1.0
+2020	compound_popularity_decile	2	60628					33528.0	0.5530118097248796
+2020	compound_popularity_decile	3	60628					890.0	0.014679685953684766
+2020	compound_popularity_decile	4	60627					3426.0	0.05650947597605027
+2020	compound_popularity_decile	5	55287					1073.0	0.01940781738925968
+2020	compound_popularity_decile	6	5351					212.0	0.03961876284806578
+2020	compound_popularity_decile	7	60627					1084.0	0.017879822521318884
+2020	compound_popularity_decile	8	45883					1300.0	0.02833293376631868
+2020	compound_popularity_decile	9	57575					1045.0	0.018150238818931828
+2020	compound_popularity_decile	10	58094					4035.0	0.06945639825111027
+2020	publication_year	1976	22					0.0	0.0
+2020	publication_year	1977	21					0.0	0.0
+2020	publication_year	1978	22					1.0	0.045454545454545456
+2020	publication_year	1979	45					0.0	0.0
+2020	publication_year	1981	21					0.0	0.0
+2020	publication_year	1983	1					0.0	0.0
+2020	publication_year	1985	20					0.0	0.0
+2020	publication_year	1986	55					1.0	0.01818181818181818
+2020	publication_year	1987	26					0.0	0.0
+2020	publication_year	1988	55					0.0	0.0
+2020	publication_year	1989	36					1.0	0.027777777777777776
+2020	publication_year	1990	112					1.0	0.008928571428571428
+2020	publication_year	1991	140					6.0	0.04285714285714286
+2020	publication_year	1992	188					3.0	0.015957446808510637
+2020	publication_year	1993	249					14.0	0.05622489959839357
+2020	publication_year	1994	205					13.0	0.06341463414634146
+2020	publication_year	1995	824					42.0	0.050970873786407765
+2020	publication_year	1996	767					87.0	0.11342894393741851
+2020	publication_year	1997	883					40.0	0.045300113250283124
+2020	publication_year	1998	856					45.0	0.052570093457943924
+2020	publication_year	1999	935					25.0	0.026737967914438502
+2020	publication_year	2000	1362					41.0	0.03010279001468429
+2020	publication_year	2001	1638					46.0	0.028083028083028084
+2020	publication_year	2002	1940					110.0	0.05670103092783505
+2020	publication_year	2003	1947					60.0	0.030816640986132512
+2020	publication_year	2004	6740					210.0	0.03115727002967359
+2020	publication_year	2005	15761					631.0	0.040035530740435255
+2020	publication_year	2006	20086					536.0	0.026685253410335556
+2020	publication_year	2007	21274					535.0	0.025148068064303846
+2020	publication_year	2008	22665					2227.0	0.09825722479594087
+2020	publication_year	2009	22254					350.0	0.015727509661184507
+2020	publication_year	2010	22985					314.0	0.01366108331520557
+2020	publication_year	2011	22854					861.0	0.037673930165397745
+2020	publication_year	2012	26543					488.0	0.018385261650906076
+2020	publication_year	2013	50871					2321.0	0.0456252088616304
+2020	publication_year	2014	58146					813.0	0.013982045196574141
+2020	publication_year	2015	46987					2372.0	0.050482048226105095
+2020	publication_year	2016	36450					9893.0	0.27141289437585736
+2020	publication_year	2017	38405					9914.0	0.2581434709022263
+2020	publication_year	2018	35767					10142.0	0.28355746917549696
+2020	publication_year	2019	31575					31553.0	0.9993032462391133
+2020	publication_year	2020	33595					33525.0	0.9979163566006847
+2020	target_class	5HT3 receptor	470					23.0	0.04893617021276596
+2020	target_class	ABCB subfamily	1346					439.0	0.3261515601783061
+2020	target_class	ABCC subfamily	340					115.0	0.3382352941176471
+2020	target_class	ABCG subfamily	928					311.0	0.33512931034482757
+2020	target_class	AGC protein kinase AKT family	2642					341.0	0.12906888720666163
+2020	target_class	AGC protein kinase BARK subfamily	350					55.0	0.15714285714285714
+2020	target_class	AGC protein kinase CRIK subfamily	46					40.0	0.8695652173913043
+2020	target_class	AGC protein kinase GEK subfamily	72					51.0	0.7083333333333334
+2020	target_class	AGC protein kinase GRK subfamily	301					41.0	0.1362126245847176
+2020	target_class	AGC protein kinase MAST family	6					0.0	0.0
+2020	target_class	AGC protein kinase MSK subfamily	112					45.0	0.4017857142857143
+2020	target_class	AGC protein kinase NDR family	346					341.0	0.9855491329479769
+2020	target_class	AGC protein kinase PDK1 subfamily	671					50.0	0.07451564828614009
+2020	target_class	AGC protein kinase PKA family	95					53.0	0.5578947368421052
+2020	target_class	AGC protein kinase PKC alpha subfamily	1050					84.0	0.08
+2020	target_class	AGC protein kinase PKC delta subfamily	706					164.0	0.23229461756373937
+2020	target_class	AGC protein kinase PKC eta subfamily	339					14.0	0.04129793510324484
+2020	target_class	AGC protein kinase PKC iota subfamily	749					85.0	0.11348464619492657
+2020	target_class	AGC protein kinase PKG family	22					15.0	0.6818181818181818
+2020	target_class	AGC protein kinase PKN family	144					116.0	0.8055555555555556
+2020	target_class	AGC protein kinase ROCK subfamily	1859					519.0	0.279182356105433
+2020	target_class	AGC protein kinase RSK subfamily	455					156.0	0.34285714285714286
+2020	target_class	AGC protein kinase SGK family	127					33.0	0.25984251968503935
+2020	target_class	AGC protein kinase YANK family	12					10.0	0.8333333333333334
+2020	target_class	AGC protein kinase p70 subfamily	681					27.0	0.039647577092511016
+2020	target_class	AMPA receptor	271					23.0	0.08487084870848709
+2020	target_class	Acetylcholine receptor	4008					1011.0	0.2522455089820359
+2020	target_class	Acid-sensing ion channel	25					0.0	0.0
+2020	target_class	Adenosine receptor	12354					1178.0	0.09535373158491177
+2020	target_class	Adhesion	340					56.0	0.16470588235294117
+2020	target_class	Adrenergic receptor	4584					290.0	0.06326352530541013
+2020	target_class	Aminoacyltransferase	475					72.0	0.15157894736842106
+2020	target_class	Anaphylatoxin receptor	239					5.0	0.02092050209205021
+2020	target_class	Angiotensin receptor	574					124.0	0.21602787456445993
+2020	target_class	Annexin	3					3.0	1.0
+2020	target_class	Aspartic protease A1A subfamily	7471					1089.0	0.14576361932806853
+2020	target_class	Atypical protein kinase ABC1-A subfamily	8					4.0	0.5
+2020	target_class	Atypical protein kinase BCR family	59					56.0	0.9491525423728814
+2020	target_class	Atypical protein kinase FRAP subfamily	2869					220.0	0.07668177065179504
+2020	target_class	Atypical protein kinase PDHK subfamily	760					144.0	0.18947368421052632
+2020	target_class	Atypical protein kinase PIKK family	849					229.0	0.2697290930506478
+2020	target_class	Atypical protein kinase RIO1 subfamily	11					10.0	0.9090909090909091
+2020	target_class	Atypical protein kinase RIO2 subfamily	5					4.0	0.8
+2020	target_class	Atypical protein kinase RIO3 subfamily	14					13.0	0.9285714285714286
+2020	target_class	Atypical protein kinase alpha family	39					4.0	0.10256410256410256
+2020	target_class	Atypical protein kinase group	24					22.0	0.9166666666666666
+2020	target_class	Bcl-2 family	1867					676.0	0.36207820032137117
+2020	target_class	Bradykinin receptor	730					69.0	0.09452054794520548
+2020	target_class	Bromodomain	4363					1935.0	0.44350217740087094
+2020	target_class	CAMK protein kinase AMPK subfamily	93					81.0	0.8709677419354839
+2020	target_class	CAMK protein kinase BRSK subfamily	22					16.0	0.7272727272727273
+2020	target_class	CAMK protein kinase CAMK1 family	80					57.0	0.7125
+2020	target_class	CAMK protein kinase CAMK2 family	135					70.0	0.5185185185185185
+2020	target_class	CAMK protein kinase CHK1 subfamily	1078					116.0	0.10760667903525047
+2020	target_class	CAMK protein kinase DAPK family	300					100.0	0.3333333333333333
+2020	target_class	CAMK protein kinase DCAMK1 family	60					55.0	0.9166666666666666
+2020	target_class	CAMK protein kinase LKB subfamily	15					15.0	1.0
+2020	target_class	CAMK protein kinase MAPKAPK subfamily	616					49.0	0.07954545454545454
+2020	target_class	CAMK protein kinase MARK subfamily	218					150.0	0.6880733944954128
+2020	target_class	CAMK protein kinase MELK subfamily	147					73.0	0.4965986394557823
+2020	target_class	CAMK protein kinase MLCK family	109					59.0	0.5412844036697247
+2020	target_class	CAMK protein kinase MNK subfamily	710					280.0	0.39436619718309857
+2020	target_class	CAMK protein kinase NIM1 subfamily	1					1.0	1.0
+2020	target_class	CAMK protein kinase NuaK subfamily	81					46.0	0.5679012345679012
+2020	target_class	CAMK protein kinase PASK subfamily	9					7.0	0.7777777777777778
+2020	target_class	CAMK protein kinase PHk family	53					39.0	0.7358490566037735
+2020	target_class	CAMK protein kinase PIM family	3519					551.0	0.15657857345836884
+2020	target_class	CAMK protein kinase PKD family	210					152.0	0.7238095238095238
+2020	target_class	CAMK protein kinase QIK subfamily	154					145.0	0.9415584415584416
+2020	target_class	CAMK protein kinase RAD53 family	356					23.0	0.06460674157303371
+2020	target_class	CAMK protein kinase TSSK family	21					15.0	0.7142857142857143
+2020	target_class	CAMK protein kinase group	1					1.0	1.0
+2020	target_class	CAMK protein kinase unique family	36					11.0	0.3055555555555556
+2020	target_class	CC chemokine receptor	3674					282.0	0.07675557974959173
+2020	target_class	CK1 protein kinase CK1 family	492					155.0	0.3150406504065041
+2020	target_class	CK1 protein kinase CK1-a	7					4.0	0.5714285714285714
+2020	target_class	CK1 protein kinase CK1-g	18					13.0	0.7222222222222222
+2020	target_class	CK1 protein kinase VRK family	5					5.0	1.0
+2020	target_class	CK1 protein kinase group	6					6.0	1.0
+2020	target_class	CMGC protein kinase CDC2 subfamily	1077					209.0	0.19405756731662024
+2020	target_class	CMGC protein kinase CDK family	65					63.0	0.9692307692307692
+2020	target_class	CMGC protein kinase CDK5 subfamily	116					41.0	0.35344827586206895
+2020	target_class	CMGC protein kinase CDK7 subfamily	194					137.0	0.7061855670103093
+2020	target_class	CMGC protein kinase CDK8 subfamily	339					74.0	0.2182890855457227
+2020	target_class	CMGC protein kinase CDK9 subfamily	611					158.0	0.25859247135842883
+2020	target_class	CMGC protein kinase CDKL family	7					7.0	1.0
+2020	target_class	CMGC protein kinase CLK family	1880					1370.0	0.7287234042553191
+2020	target_class	CMGC protein kinase DYRK family	5					2.0	0.4
+2020	target_class	CMGC protein kinase Dyrk1 subfamily	1687					917.0	0.5435684647302904
+2020	target_class	CMGC protein kinase Dyrk2 subfamily	230					12.0	0.05217391304347826
+2020	target_class	CMGC protein kinase ERK subfamily	1453					157.0	0.10805230557467309
+2020	target_class	CMGC protein kinase ERK3	32					28.0	0.875
+2020	target_class	CMGC protein kinase ERK5	94					68.0	0.723404255319149
+2020	target_class	CMGC protein kinase GSK family	1947					462.0	0.23728813559322035
+2020	target_class	CMGC protein kinase HIPK subfamily	84					58.0	0.6904761904761905
+2020	target_class	CMGC protein kinase JNK subfamily	1734					287.0	0.16551326412918108
+2020	target_class	CMGC protein kinase MAK	13					12.0	0.9230769230769231
+2020	target_class	CMGC protein kinase MAPK family	30					25.0	0.8333333333333334
+2020	target_class	CMGC protein kinase PCTAIRE	33					31.0	0.9393939393939394
+2020	target_class	CMGC protein kinase PFTAIRE	15					14.0	0.9333333333333333
+2020	target_class	CMGC protein kinase PITSLRE subfamily	21					16.0	0.7619047619047619
+2020	target_class	CMGC protein kinase SRPK family	26					21.0	0.8076923076923077
+2020	target_class	CMGC protein kinase TAIRE subfamily	43					35.0	0.813953488372093
+2020	target_class	CMGC protein kinase group	1229					118.0	0.09601301871440195
+2020	target_class	CMGC protein kinase nmo subfamily	29					28.0	0.9655172413793104
+2020	target_class	CMGC protein kinase p38 subfamily	2536					385.0	0.15181388012618297
+2020	target_class	CX3C chemokine receptor	64					13.0	0.203125
+2020	target_class	CXC chemokine receptor	2210					453.0	0.20497737556561085
+2020	target_class	Ca2+ release-activated Ca2+ channel family	37					0.0	0.0
+2020	target_class	Calcitonin gene-related peptide receptor	575					25.0	0.043478260869565216
+2020	target_class	Calcitonin receptor	129					116.0	0.8992248062015504
+2020	target_class	Calcium ATPase	19					15.0	0.7894736842105263
+2020	target_class	Calcium channel auxiliary subunit alpha2delta family	125					0.0	0.0
+2020	target_class	Calcium sensing receptor	134					1.0	0.007462686567164179
+2020	target_class	Calcium-activated chloride channel	99					19.0	0.1919191919191919
+2020	target_class	Calcium-activated potassium channel	102					16.0	0.1568627450980392
+2020	target_class	Cannabinoid receptor	7189					697.0	0.09695367923216025
+2020	target_class	CatSper and Two-Pore channels	2					0.0	0.0
+2020	target_class	Chemerin receptor	3					3.0	1.0
+2020	target_class	Cholecystokinin receptor	681					139.0	0.20411160058737152
+2020	target_class	Chromodomain	902					689.0	0.7638580931263859
+2020	target_class	Corticotropin releasing factor receptor	1116					35.0	0.03136200716845878
+2020	target_class	Cyclic nucleotide-regulated channel	65					1.0	0.015384615384615385
+2020	target_class	Cysteine protease C12 family	34					4.0	0.11764705882352941
+2020	target_class	Cysteine protease C13 family	110					26.0	0.23636363636363636
+2020	target_class	Cysteine protease C14 family	1944					47.0	0.02417695473251029
+2020	target_class	Cysteine protease C14A subfamily	5					0.0	0.0
+2020	target_class	Cysteine protease C19 family	663					520.0	0.7843137254901961
+2020	target_class	Cysteine protease C1A family	5868					506.0	0.08623040218132243
+2020	target_class	Cysteine protease C2 family	261					60.0	0.22988505747126436
+2020	target_class	Cysteine protease C48 family	149					118.0	0.7919463087248322
+2020	target_class	Cystic fibrosis transmembrane conductance regulator	484					146.0	0.30165289256198347
+2020	target_class	Cytochrome P450 11B1	824					53.0	0.06432038834951456
+2020	target_class	Cytochrome P450 11B2	1051					211.0	0.20076117982873454
+2020	target_class	Cytochrome P450 17A1	560					69.0	0.12321428571428572
+2020	target_class	Cytochrome P450 19A1	1834					323.0	0.17611777535441658
+2020	target_class	Cytochrome P450 1A1	73					10.0	0.136986301369863
+2020	target_class	Cytochrome P450 1A2	56					7.0	0.125
+2020	target_class	Cytochrome P450 1B1	278					88.0	0.31654676258992803
+2020	target_class	Cytochrome P450 21A2	102					4.0	0.0392156862745098
+2020	target_class	Cytochrome P450 24A1	55					1.0	0.01818181818181818
+2020	target_class	Cytochrome P450 26A1	122					8.0	0.06557377049180328
+2020	target_class	Cytochrome P450 27B1	8					0.0	0.0
+2020	target_class	Cytochrome P450 2A6	115					20.0	0.17391304347826086
+2020	target_class	Cytochrome P450 2C19	80					6.0	0.075
+2020	target_class	Cytochrome P450 2C8	3					3.0	1.0
+2020	target_class	Cytochrome P450 2C9	106					7.0	0.0660377358490566
+2020	target_class	Cytochrome P450 2D6	51					31.0	0.6078431372549019
+2020	target_class	Cytochrome P450 3A4	282					21.0	0.07446808510638298
+2020	target_class	Cytochrome P450 3A5	2					2.0	1.0
+2020	target_class	Cytochrome P450 51A1	43					13.0	0.3023255813953488
+2020	target_class	Cytochrome P450 5A1	54					1.0	0.018518518518518517
+2020	target_class	Cytochrome P450 7A1	1					0.0	0.0
+2020	target_class	Cytochrome P450 family 26	16					0.0	0.0
+2020	target_class	Cytochrome P450 family 2A	11					11.0	1.0
+2020	target_class	DNA methyltransferase	159					9.0	0.05660377358490566
+2020	target_class	Dopamine receptor	10330					1452.0	0.14056147144240078
+2020	target_class	EDG receptor	1815					238.0	0.13112947658402205
+2020	target_class	Endoplasmic reticular retrotranslocon family	301					55.0	0.18272425249169436
+2020	target_class	Endothelin receptor	389					116.0	0.2982005141388175
+2020	target_class	Enzyme	9803					2395.0	0.24431296541874936
+2020	target_class	F-type ATPase	2					2.0	1.0
+2020	target_class	Family A G protein-coupled receptor	508					279.0	0.5492125984251969
+2020	target_class	Fatty acid binding protein family	389					101.0	0.2596401028277635
+2020	target_class	Free fatty acid receptor	526					131.0	0.24904942965779467
+2020	target_class	Frizzled family G protein-coupled receptor	38					38.0	1.0
+2020	target_class	GABA-A receptor	536					76.0	0.1417910447761194
+2020	target_class	GABA-B receptor	2					0.0	0.0
+2020	target_class	GNAT family	190					35.0	0.18421052631578946
+2020	target_class	GRP-related receptor	1480					158.0	0.10675675675675676
+2020	target_class	Galanin receptor	156					0.0	0.0
+2020	target_class	Gastric inhibitory polypeptide receptor	76					18.0	0.23684210526315788
+2020	target_class	Glucagon receptor	564					1.0	0.0017730496453900709
+2020	target_class	Glucagon-like peptide receptor	291					18.0	0.061855670103092786
+2020	target_class	Glycine receptor	70					3.0	0.04285714285714286
+2020	target_class	Glycohormone receptor	9					2.0	0.2222222222222222
+2020	target_class	GnRH receptor	785					135.0	0.17197452229299362
+2020	target_class	Group translocator	8					0.0	0.0
+2020	target_class	HDAC class I	7935					1945.0	0.24511657214870824
+2020	target_class	HDAC class III	1615					222.0	0.13746130030959752
+2020	target_class	HDAC class IIa	1216					320.0	0.2631578947368421
+2020	target_class	HDAC class IIb	3024					724.0	0.23941798941798942
+2020	target_class	HDAC class IV	301					104.0	0.34551495016611294
+2020	target_class	Histamine receptor	4884					463.0	0.09479934479934479
+2020	target_class	Hydrolase	18719					6753.0	0.36075645066509965
+2020	target_class	Hydroxycarboxylic acid receptor	295					35.0	0.11864406779661017
+2020	target_class	IP3 receptor	1					1.0	1.0
+2020	target_class	Inwardly rectifying potassium channel	326					26.0	0.07975460122699386
+2020	target_class	Isomerase	2906					456.0	0.15691672401927048
+2020	target_class	Jumonji domain-containing	1905					290.0	0.15223097112860892
+2020	target_class	Kainate receptor	107					1.0	0.009345794392523364
+2020	target_class	Kinase	52					49.0	0.9423076923076923
+2020	target_class	Kynurenic acid receptor	125					0.0	0.0
+2020	target_class	Leukotriene receptor	99					42.0	0.42424242424242425
+2020	target_class	Ligase	3002					368.0	0.12258494337108594
+2020	target_class	Lipid-like ligand receptor (family A GPCR)	124					16.0	0.12903225806451613
+2020	target_class	Lyase	22899					5028.0	0.21957290711384778
+2020	target_class	Lysine-specific demethylase	1149					385.0	0.33507397737162753
+2020	target_class	Lysophosphatidylinositol receptor	76					2.0	0.02631578947368421
+2020	target_class	MBT domain	209					3.0	0.014354066985645933
+2020	target_class	MCH receptor	2706					60.0	0.022172949002217297
+2020	target_class	MYST family	30					0.0	0.0
+2020	target_class	Melanocortin receptor	3458					37.0	0.010699826489300174
+2020	target_class	Melatonin receptor	1296					58.0	0.044753086419753084
+2020	target_class	Membrane receptor	3377					1238.0	0.3665975718092982
+2020	target_class	Metabotropic glutamate receptor	1372					161.0	0.11734693877551021
+2020	target_class	Metallo protease M1 family	1066					141.0	0.13227016885553472
+2020	target_class	Metallo protease M10A subfamily	7100					627.0	0.08830985915492957
+2020	target_class	Metallo protease M12A subfamily	106					0.0	0.0
+2020	target_class	Metallo protease M12B subfamily	1168					83.0	0.07106164383561644
+2020	target_class	Metallo protease M13 family	306					76.0	0.24836601307189543
+2020	target_class	Metallo protease M14A subfamily	342					41.0	0.11988304093567251
+2020	target_class	Metallo protease M14B subfamily	21					3.0	0.14285714285714285
+2020	target_class	Metallo protease M17 family	7					0.0	0.0
+2020	target_class	Metallo protease M2 family	164					16.0	0.0975609756097561
+2020	target_class	Metallo protease M24A subfamily	619					174.0	0.28109854604200324
+2020	target_class	Metallo protease M28B subfamily	259					33.0	0.1274131274131274
+2020	target_class	Metallo protease M67A subfamily	32					0.0	0.0
+2020	target_class	Methyl-CpG-binding domain	8					0.0	0.0
+2020	target_class	Mitochondrial pyruvate carrier family	2					0.0	0.0
+2020	target_class	Motilin receptor	72					1.0	0.013888888888888888
+2020	target_class	N-formyl methionyl peptide receptor	143					119.0	0.8321678321678322
+2020	target_class	NMDA receptor	283					172.0	0.607773851590106
+2020	target_class	Neurokinin receptor	1941					38.0	0.019577537351880475
+2020	target_class	Neuromedin U receptor	102					0.0	0.0
+2020	target_class	Neuromedin receptor	40					0.0	0.0
+2020	target_class	Neuropeptide Y receptor	1459					126.0	0.08636052090472926
+2020	target_class	Neuropeptide receptor	712					131.0	0.18398876404494383
+2020	target_class	Neurotensin receptor	316					83.0	0.2626582278481013
+2020	target_class	Nicotinic acetylcholine receptor alpha subunit	807					114.0	0.1412639405204461
+2020	target_class	Nicotinic acetylcholine receptor epsilon subunit	13					12.0	0.9230769230769231
+2020	target_class	Nuclear hormone receptor subfamily 0 group B member 2	4					0.0	0.0
+2020	target_class	Nuclear hormone receptor subfamily 1 group A member 1	253					35.0	0.1383399209486166
+2020	target_class	Nuclear hormone receptor subfamily 1 group A member 2	482					80.0	0.16597510373443983
+2020	target_class	Nuclear hormone receptor subfamily 1 group B member 1	106					7.0	0.0660377358490566
+2020	target_class	Nuclear hormone receptor subfamily 1 group B member 2	111					7.0	0.06306306306306306
+2020	target_class	Nuclear hormone receptor subfamily 1 group B member 3	143					7.0	0.04895104895104895
+2020	target_class	Nuclear hormone receptor subfamily 1 group C member 1	1456					309.0	0.21222527472527472
+2020	target_class	Nuclear hormone receptor subfamily 1 group C member 2	908					260.0	0.28634361233480177
+2020	target_class	Nuclear hormone receptor subfamily 1 group C member 3	2542					369.0	0.14516129032258066
+2020	target_class	Nuclear hormone receptor subfamily 1 group D member 1	34					13.0	0.38235294117647056
+2020	target_class	Nuclear hormone receptor subfamily 1 group D member 2	2					0.0	0.0
+2020	target_class	Nuclear hormone receptor subfamily 1 group F	221					79.0	0.3574660633484163
+2020	target_class	Nuclear hormone receptor subfamily 1 group F member 1	103					10.0	0.0970873786407767
+2020	target_class	Nuclear hormone receptor subfamily 1 group F member 3	2147					1236.0	0.5756870051234281
+2020	target_class	Nuclear hormone receptor subfamily 1 group H member 3	1327					109.0	0.08214016578749057
+2020	target_class	Nuclear hormone receptor subfamily 1 group H member 4	907					236.0	0.26019845644983464
+2020	target_class	Nuclear hormone receptor subfamily 1 group I member 1	362					32.0	0.08839779005524862
+2020	target_class	Nuclear hormone receptor subfamily 1 group I member 2	174					68.0	0.39080459770114945
+2020	target_class	Nuclear hormone receptor subfamily 1 group I member 3	116					56.0	0.4827586206896552
+2020	target_class	Nuclear hormone receptor subfamily 2 group B member 1	301					78.0	0.2591362126245847
+2020	target_class	Nuclear hormone receptor subfamily 2 group B member 2	100					55.0	0.55
+2020	target_class	Nuclear hormone receptor subfamily 2 group B member 3	86					35.0	0.4069767441860465
+2020	target_class	Nuclear hormone receptor subfamily 2 group C member 2	4					2.0	0.5
+2020	target_class	Nuclear hormone receptor subfamily 3 group A member 1	2274					450.0	0.19788918205804748
+2020	target_class	Nuclear hormone receptor subfamily 3 group A member 2	1384					207.0	0.1495664739884393
+2020	target_class	Nuclear hormone receptor subfamily 3 group B member 1	134					23.0	0.17164179104477612
+2020	target_class	Nuclear hormone receptor subfamily 3 group B member 2	88					38.0	0.4318181818181818
+2020	target_class	Nuclear hormone receptor subfamily 3 group B member 3	172					105.0	0.6104651162790697
+2020	target_class	Nuclear hormone receptor subfamily 3 group C member 1	1735					89.0	0.051296829971181554
+2020	target_class	Nuclear hormone receptor subfamily 3 group C member 2	687					84.0	0.1222707423580786
+2020	target_class	Nuclear hormone receptor subfamily 3 group C member 3	786					12.0	0.015267175572519083
+2020	target_class	Nuclear hormone receptor subfamily 3 group C member 4	1668					248.0	0.1486810551558753
+2020	target_class	Nuclear hormone receptor subfamily 4 group A member 1	16					16.0	1.0
+2020	target_class	Nuclear hormone receptor subfamily 4 group A member 2	23					13.0	0.5652173913043478
+2020	target_class	Nuclear hormone receptor subfamily 4 group A member 3	2					2.0	1.0
+2020	target_class	Nuclear hormone receptor subfamily 5 group A member 1	24					8.0	0.3333333333333333
+2020	target_class	Nuclear hormone receptor subfamily 5 group A member 2	47					25.0	0.5319148936170213
+2020	target_class	Opioid receptor	9615					1229.0	0.12782111284451378
+2020	target_class	Orexin receptor	3184					528.0	0.1658291457286432
+2020	target_class	Other cytosolic protein	7627					1561.0	0.20466762816310477
+2020	target_class	Other membrane protein	302					44.0	0.1456953642384106
+2020	target_class	Other nuclear protein	2636					495.0	0.18778452200303491
+2020	target_class	Other protein kinase AUR family	3116					406.0	0.13029525032092426
+2020	target_class	Other protein kinase CDC7 family	217					9.0	0.041474654377880185
+2020	target_class	Other protein kinase CK2 family	851					127.0	0.1492361927144536
+2020	target_class	Other protein kinase GCN2 subfamily	37					13.0	0.35135135135135137
+2020	target_class	Other protein kinase HRI	46					17.0	0.3695652173913043
+2020	target_class	Other protein kinase Haspin family	76					48.0	0.631578947368421
+2020	target_class	Other protein kinase IKK family	155					81.0	0.5225806451612903
+2020	target_class	Other protein kinase Meta subfamily	120					39.0	0.325
+2020	target_class	Other protein kinase NAK family	546					439.0	0.8040293040293041
+2020	target_class	Other protein kinase NEK family	193					113.0	0.5854922279792746
+2020	target_class	Other protein kinase NKF1 family	1					1.0	1.0
+2020	target_class	Other protein kinase NKF4 family	1					1.0	1.0
+2020	target_class	Other protein kinase Nek1	13					13.0	1.0
+2020	target_class	Other protein kinase Nek11	2					2.0	1.0
+2020	target_class	Other protein kinase PEK subfamily	47					0.0	0.0
+2020	target_class	Other protein kinase PKR	81					10.0	0.12345679012345678
+2020	target_class	Other protein kinase PLK family	952					388.0	0.40756302521008403
+2020	target_class	Other protein kinase PLK2	141					41.0	0.2907801418439716
+2020	target_class	Other protein kinase TLK family	9					7.0	0.7777777777777778
+2020	target_class	Other protein kinase TOPK family	158					38.0	0.24050632911392406
+2020	target_class	Other protein kinase TTK family	483					135.0	0.2795031055900621
+2020	target_class	Other protein kinase ULK family	158					104.0	0.6582278481012658
+2020	target_class	Other protein kinase WEE family	369					99.0	0.2682926829268293
+2020	target_class	Other protein kinase WEE1	8					1.0	0.125
+2020	target_class	Other protein kinase Wnk family	17					4.0	0.23529411764705882
+2020	target_class	Other protein kinase group	1033					154.0	0.14908034849951599
+2020	target_class	Oxidoreductase	27903					6705.0	0.24029674228577572
+2020	target_class	Oxidoreduction-driven transporters	27					22.0	0.8148148148148148
+2020	target_class	P2X receptor	1747					521.0	0.298225529479107
+2020	target_class	PAF receptor	48					0.0	0.0
+2020	target_class	PR domain	1					1.0	1.0
+2020	target_class	PWWP domain	384					58.0	0.15104166666666666
+2020	target_class	Parathyroid hormone receptor	31					4.0	0.12903225806451613
+2020	target_class	Phosphatase	1052					376.0	0.3574144486692015
+2020	target_class	Phosphodiesterase	593					134.0	0.22596964586846544
+2020	target_class	Phosphodiesterase 10A	2987					140.0	0.04686976899899565
+2020	target_class	Phosphodiesterase 11A	80					1.0	0.0125
+2020	target_class	Phosphodiesterase 1A	56					43.0	0.7678571428571429
+2020	target_class	Phosphodiesterase 1B	54					9.0	0.16666666666666666
+2020	target_class	Phosphodiesterase 1C	47					12.0	0.2553191489361702
+2020	target_class	Phosphodiesterase 2A	785					67.0	0.08535031847133757
+2020	target_class	Phosphodiesterase 3A	278					68.0	0.2446043165467626
+2020	target_class	Phosphodiesterase 3B	107					33.0	0.308411214953271
+2020	target_class	Phosphodiesterase 4A	443					6.0	0.013544018058690745
+2020	target_class	Phosphodiesterase 4B	1239					157.0	0.12671509281678772
+2020	target_class	Phosphodiesterase 4C	105					10.0	0.09523809523809523
+2020	target_class	Phosphodiesterase 4D	850					192.0	0.22588235294117648
+2020	target_class	Phosphodiesterase 5A	905					107.0	0.11823204419889503
+2020	target_class	Phosphodiesterase 6A	2					0.0	0.0
+2020	target_class	Phosphodiesterase 6C	29					1.0	0.034482758620689655
+2020	target_class	Phosphodiesterase 6D	125					34.0	0.272
+2020	target_class	Phosphodiesterase 7A	617					8.0	0.012965964343598054
+2020	target_class	Phosphodiesterase 7B	23					0.0	0.0
+2020	target_class	Phosphodiesterase 8A	27					14.0	0.5185185185185185
+2020	target_class	Phosphodiesterase 8B	87					0.0	0.0
+2020	target_class	Phosphodiesterase 9A	356					28.0	0.07865168539325842
+2020	target_class	Plant homeodomain	9					0.0	0.0
+2020	target_class	Pore-forming toxins (proteins and peptides)	897					47.0	0.05239687848383501
+2020	target_class	Presenilin ER Ca2+ leak channel family	52					0.0	0.0
+2020	target_class	Prokineticin receptor	108					107.0	0.9907407407407407
+2020	target_class	Prolactin-releasing peptide receptor	91					20.0	0.21978021978021978
+2020	target_class	Prostanoid receptor	4211					126.0	0.029921633816195677
+2020	target_class	Protease unclassified U48 family	22					0.0	0.0
+2020	target_class	Protease-activated receptor	470					42.0	0.08936170212765958
+2020	target_class	Protein Kinase	40					12.0	0.3
+2020	target_class	Protein arginine methyltransferase	915					214.0	0.23387978142076501
+2020	target_class	Protein kinase regulatory subunit	104					69.0	0.6634615384615384
+2020	target_class	Protein methyltransferase	1035					342.0	0.33043478260869563
+2020	target_class	Protein phosphatase regulatory subunit	7					7.0	1.0
+2020	target_class	Protein-glutamine glutamyl-transferase	471					5.0	0.010615711252653927
+2020	target_class	Purine receptor	1397					52.0	0.03722261989978525
+2020	target_class	RF amide receptor	378					38.0	0.10052910052910052
+2020	target_class	Reader	28					28.0	1.0
+2020	target_class	Receptor guanylate cyclase	53					0.0	0.0
+2020	target_class	Receptor tyrosine-protein phosphatase	239					7.0	0.029288702928870293
+2020	target_class	Relaxin receptor	33					33.0	1.0
+2020	target_class	Ryanodine receptor	52					0.0	0.0
+2020	target_class	SET domain	344					219.0	0.6366279069767442
+2020	target_class	SLC01 family of amino acid transporters	318					20.0	0.06289308176100629
+2020	target_class	SLC02 family of hexose and sugar alcohol transporters	441					97.0	0.2199546485260771
+2020	target_class	SLC05 family of sodium-dependent glucose transporters	2415					275.0	0.11387163561076605
+2020	target_class	SLC06 neurotransmitter transporter family	9217					484.0	0.05251166323098622
+2020	target_class	SLC07 Cationic amino acid transporter/glycoprotein-associated family	49					5.0	0.10204081632653061
+2020	target_class	SLC08 family of sodium/calcium exchangers	1					0.0	0.0
+2020	target_class	SLC09 family of sodium/hydrogen exchangers	496					0.0	0.0
+2020	target_class	SLC10 family of sodium-bile acid co-transporters	213					28.0	0.13145539906103287
+2020	target_class	SLC11 family of proton-coupled metal ion transporters	43					7.0	0.16279069767441862
+2020	target_class	SLC12 family of cation-coupled chloride transporters	2					2.0	1.0
+2020	target_class	SLC13 family of sodium-dependent sulphate/carboxylate transporters	12					0.0	0.0
+2020	target_class	SLC14 family of facilitative urea transporters	2					1.0	0.5
+2020	target_class	SLC15 family of peptide transporters	19					0.0	0.0
+2020	target_class	SLC16 family of monocarboxylate transporters	84					20.0	0.23809523809523808
+2020	target_class	SLC18 family of vesicular amine transporters	116					3.0	0.02586206896551724
+2020	target_class	SLC19 family of vitamin transporters	26					11.0	0.4230769230769231
+2020	target_class	SLC20 family of sodium-dependent phosphate transporters	3					0.0	0.0
+2020	target_class	SLC21/SLCO family of organic anion transporting polypeptides	12					7.0	0.5833333333333334
+2020	target_class	SLC22 family of organic cation and anion transporters	356					79.0	0.22191011235955055
+2020	target_class	SLC25 family of mitochondrial transporters	11					9.0	0.8181818181818182
+2020	target_class	SLC26 family of anion exchangers	2					2.0	1.0
+2020	target_class	SLC27 family of fatty acid transporters	72					0.0	0.0
+2020	target_class	SLC28 Na+-coupled nucleoside transport family	44					0.0	0.0
+2020	target_class	SLC29 Facilitative nucleoside transporter family	154					0.0	0.0
+2020	target_class	SLC33 acetylCoA transporter	144					0.0	0.0
+2020	target_class	SLC34 family of sodium phosphate co-transporters	13					0.0	0.0
+2020	target_class	SLC37 family of phosphosugar/phosphate exchangers	18					0.0	0.0
+2020	target_class	SLC40 iron transporter	474					195.0	0.41139240506329117
+2020	target_class	SLC43 family of large neutral amino acid transporters	1					0.0	0.0
+2020	target_class	SLC46 family of folate transporters	34					15.0	0.4411764705882353
+2020	target_class	SLC47 family of multidrug and toxin extrusion transporters	67					2.0	0.029850746268656716
+2020	target_class	STE protein kinase ASK	24					24.0	1.0
+2020	target_class	STE protein kinase FRAY subfamily	29					29.0	1.0
+2020	target_class	STE protein kinase KHS subfamily	294					232.0	0.7891156462585034
+2020	target_class	STE protein kinase MEKK2	42					39.0	0.9285714285714286
+2020	target_class	STE protein kinase MSN subfamily	332					186.0	0.5602409638554217
+2020	target_class	STE protein kinase MST subfamily	101					76.0	0.7524752475247525
+2020	target_class	STE protein kinase NinaC subfamily	7					7.0	1.0
+2020	target_class	STE protein kinase PAKA subfamily	345					105.0	0.30434782608695654
+2020	target_class	STE protein kinase PAKB subfamily	333					45.0	0.13513513513513514
+2020	target_class	STE protein kinase SLK subfamily	165					134.0	0.8121212121212121
+2020	target_class	STE protein kinase STE11 family	428					154.0	0.3598130841121495
+2020	target_class	STE protein kinase STE7 family	771					273.0	0.3540856031128405
+2020	target_class	STE protein kinase TAO subfamily	188					76.0	0.40425531914893614
+2020	target_class	STE protein kinase YSK subfamily	74					55.0	0.7432432432432432
+2020	target_class	STE protein kinase group	641					1.0	0.0015600624024961
+2020	target_class	STE protein kinase unique family	202					93.0	0.4603960396039604
+2020	target_class	Secreted protein	1857					354.0	0.19063004846526657
+2020	target_class	Serine protease	619					126.0	0.2035541195476575
+2020	target_class	Serine protease S10 family	35					0.0	0.0
+2020	target_class	Serine protease S1A subfamily	10702					1993.0	0.18622687348159223
+2020	target_class	Serine protease S28 family	686					6.0	0.008746355685131196
+2020	target_class	Serine protease S33 family	2185					396.0	0.18123569794050343
+2020	target_class	Serine protease S8A subfamily	96					68.0	0.7083333333333334
+2020	target_class	Serine protease S8B subfamily	486					6.0	0.012345679012345678
+2020	target_class	Serine protease S9A subfamily	276					81.0	0.29347826086956524
+2020	target_class	Serine protease S9B subfamily	4103					180.0	0.043870338776504994
+2020	target_class	Serine protease S9C subfamily	1					1.0	1.0
+2020	target_class	Serine protein phosphatase	4					3.0	0.75
+2020	target_class	Serine/threonine protein phosphatase	38					5.0	0.13157894736842105
+2020	target_class	Serine/threonine/tyrosine protein phosphatase	764					145.0	0.18979057591623036
+2020	target_class	Serotonin receptor	15914					2373.0	0.14911398768380044
+2020	target_class	Slow voltage-gated potassium channel accessory protein family	5					3.0	0.6
+2020	target_class	Smoothened receptor (frizzled family GPCR)	309					38.0	0.12297734627831715
+2020	target_class	Sodium potassium ATPase	7					2.0	0.2857142857142857
+2020	target_class	Somatostatin receptor	1847					98.0	0.05305901461829995
+2020	target_class	Steroid-like ligand receptor	54					3.0	0.05555555555555555
+2020	target_class	Structural protein	148					81.0	0.5472972972972973
+2020	target_class	Surface antigen	240					34.0	0.14166666666666666
+2020	target_class	TKL protein kinase HH498 subfamily	177					25.0	0.14124293785310735
+2020	target_class	TKL protein kinase ILK subfamily	169					4.0	0.023668639053254437
+2020	target_class	TKL protein kinase IRAK family	743					317.0	0.4266487213997308
+2020	target_class	TKL protein kinase LIMK subfamily	451					63.0	0.13968957871396895
+2020	target_class	TKL protein kinase LRRK family	1037					169.0	0.16297010607521698
+2020	target_class	TKL protein kinase LZK subfamily	2					0.0	0.0
+2020	target_class	TKL protein kinase MLK subfamily	256					144.0	0.5625
+2020	target_class	TKL protein kinase RAF family	3020					780.0	0.2582781456953642
+2020	target_class	TKL protein kinase RIPK family	524					264.0	0.5038167938931297
+2020	target_class	TKL protein kinase STKR Type 1 subfamily	2011					487.0	0.24216807558428644
+2020	target_class	TKL protein kinase STKR Type 2 subfamily	152					60.0	0.39473684210526316
+2020	target_class	TKL protein kinase STKR1	205					120.0	0.5853658536585366
+2020	target_class	TKL protein kinase TAK1 subfamily	185					33.0	0.1783783783783784
+2020	target_class	TKL protein kinase TESK subfamily	15					9.0	0.6
+2020	target_class	TKL protein kinase group	100					83.0	0.83
+2020	target_class	Taste receptor (taste family GPCR)	6					1.0	0.16666666666666666
+2020	target_class	Threonine protease T1A subfamily	1456					550.0	0.37774725274725274
+2020	target_class	Threonine protease T1B subfamily	99					54.0	0.5454545454545454
+2020	target_class	Threonine protease T2 family	8					0.0	0.0
+2020	target_class	Toll-like and Il-1 receptors	926					425.0	0.458963282937365
+2020	target_class	Trace amine receptor	54					7.0	0.12962962962962962
+2020	target_class	Transcription factor	2020					696.0	0.3445544554455445
+2020	target_class	Transferase	21454					5048.0	0.23529411764705882
+2020	target_class	Transient receptor potential channel	3254					511.0	0.15703749231714811
+2020	target_class	Transmembrane 1-electron transfer carriers	52					0.0	0.0
+2020	target_class	Transporter	13					2.0	0.15384615384615385
+2020	target_class	Tudor domain	48					1.0	0.020833333333333332
+2020	target_class	Two-pore domain potassium channel	190					71.0	0.3736842105263158
+2020	target_class	Tyrosine protein kinase Abl family	1488					336.0	0.22580645161290322
+2020	target_class	Tyrosine protein kinase Ack family	524					148.0	0.2824427480916031
+2020	target_class	Tyrosine protein kinase Alk family	39					23.0	0.5897435897435898
+2020	target_class	Tyrosine protein kinase Axl family	992					233.0	0.23487903225806453
+2020	target_class	Tyrosine protein kinase Csk family	83					54.0	0.6506024096385542
+2020	target_class	Tyrosine protein kinase DDR family	482					259.0	0.5373443983402489
+2020	target_class	Tyrosine protein kinase EGFR family	6017					1179.0	0.19594482300149577
+2020	target_class	Tyrosine protein kinase Eph family	1306					431.0	0.33001531393568145
+2020	target_class	Tyrosine protein kinase FGFR family	4725					446.0	0.09439153439153439
+2020	target_class	Tyrosine protein kinase Fak family	1353					193.0	0.1426459719142646
+2020	target_class	Tyrosine protein kinase Fer family	100					83.0	0.83
+2020	target_class	Tyrosine protein kinase InsR family	2145					101.0	0.047086247086247084
+2020	target_class	Tyrosine protein kinase JakA family	9556					2732.0	0.28589367936375054
+2020	target_class	Tyrosine protein kinase Met family	2964					481.0	0.16228070175438597
+2020	target_class	Tyrosine protein kinase Musk family	17					14.0	0.8235294117647058
+2020	target_class	Tyrosine protein kinase PDGFR family	4722					1474.0	0.31215586615840746
+2020	target_class	Tyrosine protein kinase Ret family	595					186.0	0.3126050420168067
+2020	target_class	Tyrosine protein kinase Sev family	160					58.0	0.3625
+2020	target_class	Tyrosine protein kinase Src family	3256					1088.0	0.33415233415233414
+2020	target_class	Tyrosine protein kinase Srm	26					19.0	0.7307692307692307
+2020	target_class	Tyrosine protein kinase Syk family	2339					223.0	0.09533988884138521
+2020	target_class	Tyrosine protein kinase Tec family	2554					922.0	0.3610023492560689
+2020	target_class	Tyrosine protein kinase Tie family	496					127.0	0.2560483870967742
+2020	target_class	Tyrosine protein kinase Trk family	1178					776.0	0.6587436332767402
+2020	target_class	Tyrosine protein kinase VEGFR family	6168					704.0	0.11413748378728923
+2020	target_class	Tyrosine protein phosphatase	3811					1192.0	0.31277879821569143
+2020	target_class	Unclassified protein	7216					3870.0	0.5363082039911308
+2020	target_class	V-type ATPase	1					0.0	0.0
+2020	target_class	Vasoactive intestinal peptide receptor	38					0.0	0.0
+2020	target_class	Vasopressin and oxytocin receptor	1777					206.0	0.11592571750140687
+2020	target_class	Voltage-dependent anion-selective channel	2					1.0	0.5
+2020	target_class	Voltage-gated calcium channel	1277					73.0	0.05716523101018011
+2020	target_class	Voltage-gated potassium channel	9174					1166.0	0.12709832134292565
+2020	target_class	Voltage-gated sodium channel	3752					452.0	0.12046908315565032
+2020	target_class	WDR domain	295					143.0	0.4847457627118644
+2020	target_class	Water-specific aquaporin	4					4.0	1.0
+2020	target_class	YEATS domain	67					6.0	0.08955223880597014
+2020	target_class	p300/CBP family	737					184.0	0.2496607869742198
+2020	standard_type	AC50	468					35.0	0.07478632478632478
+2020	standard_type	EC50	20124					7039.0	0.3497813555953091
+2020	standard_type	IC50	326956					67147.0	0.2053701415480982
+2020	standard_type	Kd	20822					12119.0	0.5820286235712228
+2020	standard_type	Ki	156958					20881.0	0.13303558913849564
+2020	assay_type	B	525328					107221.0	0.20410296043614656
+2020	confidence_score	9	525328					107221.0	0.20410296043614656
+2022	edge_group	overlap	430581	1094.0	2.0	1.0	0.011259205585011879		
+2022	edge_group	retro_only	132801	595.0	0.0	1.0	0.007808676139486902		
+2022	edge_group	strict_only	72130	49225.0	1.0	1.0	0.00772216830722307		
+2022	target_popularity_decile	1	62711					32307.0	0.515172776705841
+2022	target_popularity_decile	2	62119					15848.0	0.2551232312175019
+2022	target_popularity_decile	3	61853					12246.0	0.19798554637608523
+2022	target_popularity_decile	4	62054					12937.0	0.20847971121926065
+2022	target_popularity_decile	5	61560					12881.0	0.20924301494476932
+2022	target_popularity_decile	6	62397					13485.0	0.21611615943074186
+2022	target_popularity_decile	7	62262					10247.0	0.1645787157495744
+2022	target_popularity_decile	8	62971					11009.0	0.17482650743993267
+2022	target_popularity_decile	9	62950					10702.0	0.17000794281175535
+2022	target_popularity_decile	10	2505					1139.0	0.4546906187624751
+2022	compound_popularity_decile	1	63552					63552.0	1.0
+2022	compound_popularity_decile	2	63551					59386.0	0.9344620855690705
+2022	compound_popularity_decile	3	63551					772.0	0.012147723875312742
+2022	compound_popularity_decile	4	63551					1553.0	0.024437066293213325
+2022	compound_popularity_decile	5	63551					2822.0	0.04440528079809916
+2022	compound_popularity_decile	6	11071					113.0	0.010206846716647096
+2022	compound_popularity_decile	7	61098					563.0	0.009214704245638155
+2022	compound_popularity_decile	8	50810					604.0	0.011887423735485141
+2022	compound_popularity_decile	9	61309					510.0	0.00831851767277235
+2022	compound_popularity_decile	10	61338					2926.0	0.04770289217124784
+2022	publication_year	1976	22					0.0	0.0
+2022	publication_year	1977	21					0.0	0.0
+2022	publication_year	1978	22					1.0	0.045454545454545456
+2022	publication_year	1979	45					0.0	0.0
+2022	publication_year	1981	21					0.0	0.0
+2022	publication_year	1983	1					0.0	0.0
+2022	publication_year	1985	20					0.0	0.0
+2022	publication_year	1986	55					1.0	0.01818181818181818
+2022	publication_year	1987	26					0.0	0.0
+2022	publication_year	1988	55					0.0	0.0
+2022	publication_year	1989	36					1.0	0.027777777777777776
+2022	publication_year	1990	112					2.0	0.017857142857142856
+2022	publication_year	1991	140					6.0	0.04285714285714286
+2022	publication_year	1992	188					3.0	0.015957446808510637
+2022	publication_year	1993	249					15.0	0.060240963855421686
+2022	publication_year	1994	205					12.0	0.05853658536585366
+2022	publication_year	1995	824					42.0	0.050970873786407765
+2022	publication_year	1996	767					87.0	0.11342894393741851
+2022	publication_year	1997	883					36.0	0.04077010192525481
+2022	publication_year	1998	858					45.0	0.05244755244755245
+2022	publication_year	1999	935					25.0	0.026737967914438502
+2022	publication_year	2000	1362					42.0	0.030837004405286344
+2022	publication_year	2001	1640					46.0	0.02804878048780488
+2022	publication_year	2002	1940					108.0	0.05567010309278351
+2022	publication_year	2003	1948					58.0	0.029774127310061602
+2022	publication_year	2004	6742					207.0	0.030703055473153367
+2022	publication_year	2005	15764					545.0	0.03457244354224816
+2022	publication_year	2006	20089					490.0	0.024391458011847278
+2022	publication_year	2007	21276					524.0	0.02462868960330889
+2022	publication_year	2008	22665					1821.0	0.08034414295168762
+2022	publication_year	2009	22256					315.0	0.014153486700215672
+2022	publication_year	2010	22989					282.0	0.0122667362651703
+2022	publication_year	2011	22858					798.0	0.034911190830343865
+2022	publication_year	2012	26544					450.0	0.016952983725135623
+2022	publication_year	2013	50875					2115.0	0.04157248157248157
+2022	publication_year	2014	58151					735.0	0.012639507489123144
+2022	publication_year	2015	46995					2137.0	0.045472922651345886
+2022	publication_year	2016	36453					8932.0	0.24502784407319014
+2022	publication_year	2017	38406					5787.0	0.15067958131541948
+2022	publication_year	2018	35769					9623.0	0.2690318432161928
+2022	publication_year	2019	31580					29021.0	0.9189677010766307
+2022	publication_year	2020	33608					31528.0	0.9381099738157581
+2022	publication_year	2021	31544					30531.0	0.9678861273142277
+2022	publication_year	2022	6443					6430.0	0.997982306379016
+2022	target_class	5HT3 receptor	495					45.0	0.09090909090909091
+2022	target_class	ABCB subfamily	1535					532.0	0.3465798045602606
+2022	target_class	ABCC subfamily	359					91.0	0.25348189415041783
+2022	target_class	ABCG subfamily	1099					370.0	0.33666969972702454
+2022	target_class	AGC protein kinase AKT family	2721					394.0	0.1447997059904447
+2022	target_class	AGC protein kinase BARK subfamily	359					32.0	0.08913649025069638
+2022	target_class	AGC protein kinase CRIK subfamily	53					29.0	0.5471698113207547
+2022	target_class	AGC protein kinase GEK subfamily	79					39.0	0.4936708860759494
+2022	target_class	AGC protein kinase GRK subfamily	394					123.0	0.31218274111675126
+2022	target_class	AGC protein kinase MAST family	15					9.0	0.6
+2022	target_class	AGC protein kinase MSK subfamily	119					25.0	0.21008403361344538
+2022	target_class	AGC protein kinase NDR family	354					314.0	0.8870056497175142
+2022	target_class	AGC protein kinase PDK1 subfamily	675					54.0	0.08
+2022	target_class	AGC protein kinase PKA family	111					38.0	0.34234234234234234
+2022	target_class	AGC protein kinase PKC alpha subfamily	1063					60.0	0.05644402634054563
+2022	target_class	AGC protein kinase PKC delta subfamily	808					224.0	0.27722772277227725
+2022	target_class	AGC protein kinase PKC eta subfamily	347					21.0	0.06051873198847262
+2022	target_class	AGC protein kinase PKC iota subfamily	755					82.0	0.10860927152317881
+2022	target_class	AGC protein kinase PKG family	43					31.0	0.7209302325581395
+2022	target_class	AGC protein kinase PKN family	160					70.0	0.4375
+2022	target_class	AGC protein kinase ROCK subfamily	1932					537.0	0.2779503105590062
+2022	target_class	AGC protein kinase RSK subfamily	515					156.0	0.3029126213592233
+2022	target_class	AGC protein kinase SGK family	177					80.0	0.4519774011299435
+2022	target_class	AGC protein kinase YANK family	21					17.0	0.8095238095238095
+2022	target_class	AGC protein kinase p70 subfamily	704					40.0	0.056818181818181816
+2022	target_class	AMPA receptor	271					17.0	0.06273062730627306
+2022	target_class	Acetylcholine receptor	4340					1258.0	0.28986175115207374
+2022	target_class	Acid-sensing ion channel	25					0.0	0.0
+2022	target_class	Adenosine receptor	12984					1706.0	0.13139248305606901
+2022	target_class	Adhesion	344					48.0	0.13953488372093023
+2022	target_class	Adrenergic receptor	4733					387.0	0.08176632157194169
+2022	target_class	Aminoacyltransferase	561					158.0	0.2816399286987522
+2022	target_class	Anaphylatoxin receptor	239					5.0	0.02092050209205021
+2022	target_class	Angiotensin receptor	603					141.0	0.23383084577114427
+2022	target_class	Annexin	3					3.0	1.0
+2022	target_class	Aspartic protease A1A subfamily	7721					1313.0	0.17005569226784095
+2022	target_class	Atypical protein kinase ABC1-A subfamily	8					4.0	0.5
+2022	target_class	Atypical protein kinase BCR family	59					5.0	0.0847457627118644
+2022	target_class	Atypical protein kinase FRAP subfamily	3045					387.0	0.1270935960591133
+2022	target_class	Atypical protein kinase PDHK subfamily	858					226.0	0.2634032634032634
+2022	target_class	Atypical protein kinase PIKK family	934					295.0	0.3158458244111349
+2022	target_class	Atypical protein kinase RIO1 subfamily	11					10.0	0.9090909090909091
+2022	target_class	Atypical protein kinase RIO2 subfamily	21					17.0	0.8095238095238095
+2022	target_class	Atypical protein kinase RIO3 subfamily	14					5.0	0.35714285714285715
+2022	target_class	Atypical protein kinase alpha family	40					3.0	0.075
+2022	target_class	Atypical protein kinase group	24					13.0	0.5416666666666666
+2022	target_class	Bcl-2 family	1973					733.0	0.3715154586923467
+2022	target_class	Bradykinin receptor	730					8.0	0.010958904109589041
+2022	target_class	Bromodomain	5207					2650.0	0.5089302861532552
+2022	target_class	CAMK protein kinase AMPK subfamily	101					56.0	0.5544554455445545
+2022	target_class	CAMK protein kinase BRSK subfamily	25					17.0	0.68
+2022	target_class	CAMK protein kinase CAMK1 family	88					49.0	0.5568181818181818
+2022	target_class	CAMK protein kinase CAMK2 family	145					47.0	0.32413793103448274
+2022	target_class	CAMK protein kinase CHK1 subfamily	1148					168.0	0.14634146341463414
+2022	target_class	CAMK protein kinase DAPK family	322					113.0	0.35093167701863354
+2022	target_class	CAMK protein kinase DCAMK1 family	63					44.0	0.6984126984126984
+2022	target_class	CAMK protein kinase LKB subfamily	15					8.0	0.5333333333333333
+2022	target_class	CAMK protein kinase MAPKAPK subfamily	623					25.0	0.04012841091492777
+2022	target_class	CAMK protein kinase MARK subfamily	246					99.0	0.4024390243902439
+2022	target_class	CAMK protein kinase MELK subfamily	154					49.0	0.3181818181818182
+2022	target_class	CAMK protein kinase MLCK family	125					45.0	0.36
+2022	target_class	CAMK protein kinase MNK subfamily	836					381.0	0.4557416267942584
+2022	target_class	CAMK protein kinase NIM1 subfamily	2					1.0	0.5
+2022	target_class	CAMK protein kinase NuaK subfamily	98					54.0	0.5510204081632653
+2022	target_class	CAMK protein kinase PASK subfamily	12					8.0	0.6666666666666666
+2022	target_class	CAMK protein kinase PHk family	56					22.0	0.39285714285714285
+2022	target_class	CAMK protein kinase PIM family	3575					547.0	0.153006993006993
+2022	target_class	CAMK protein kinase PKD family	220					73.0	0.33181818181818185
+2022	target_class	CAMK protein kinase QIK subfamily	175					104.0	0.5942857142857143
+2022	target_class	CAMK protein kinase RAD53 family	362					26.0	0.0718232044198895
+2022	target_class	CAMK protein kinase TSSK family	29					19.0	0.6551724137931034
+2022	target_class	CAMK protein kinase group	5					4.0	0.8
+2022	target_class	CAMK protein kinase unique family	40					13.0	0.325
+2022	target_class	CC chemokine receptor	3705					344.0	0.09284750337381917
+2022	target_class	CK1 protein kinase CK1 family	558					138.0	0.24731182795698925
+2022	target_class	CK1 protein kinase CK1-a	11					7.0	0.6363636363636364
+2022	target_class	CK1 protein kinase CK1-g	21					6.0	0.2857142857142857
+2022	target_class	CK1 protein kinase VRK family	8					6.0	0.75
+2022	target_class	CK1 protein kinase group	10					7.0	0.7
+2022	target_class	CMGC protein kinase CDC2 subfamily	1143					203.0	0.17760279965004375
+2022	target_class	CMGC protein kinase CDK family	72					55.0	0.7638888888888888
+2022	target_class	CMGC protein kinase CDK5 subfamily	129					31.0	0.24031007751937986
+2022	target_class	CMGC protein kinase CDK7 subfamily	207					118.0	0.5700483091787439
+2022	target_class	CMGC protein kinase CDK8 subfamily	360					79.0	0.21944444444444444
+2022	target_class	CMGC protein kinase CDK9 subfamily	669					185.0	0.2765321375186846
+2022	target_class	CMGC protein kinase CDKL family	13					4.0	0.3076923076923077
+2022	target_class	CMGC protein kinase CLK family	2041					1455.0	0.7128858402743753
+2022	target_class	CMGC protein kinase DYRK family	11					7.0	0.6363636363636364
+2022	target_class	CMGC protein kinase Dyrk1 subfamily	1984					1156.0	0.5826612903225806
+2022	target_class	CMGC protein kinase Dyrk2 subfamily	287					60.0	0.20905923344947736
+2022	target_class	CMGC protein kinase ERK subfamily	1502					187.0	0.12450066577896138
+2022	target_class	CMGC protein kinase ERK3	38					31.0	0.8157894736842105
+2022	target_class	CMGC protein kinase ERK5	106					72.0	0.6792452830188679
+2022	target_class	CMGC protein kinase GSK family	2181					597.0	0.2737276478679505
+2022	target_class	CMGC protein kinase HIPK subfamily	169					123.0	0.727810650887574
+2022	target_class	CMGC protein kinase JNK subfamily	1929					404.0	0.20943494038361846
+2022	target_class	CMGC protein kinase MAK	16					4.0	0.25
+2022	target_class	CMGC protein kinase MAPK family	33					19.0	0.5757575757575758
+2022	target_class	CMGC protein kinase PCTAIRE	41					18.0	0.43902439024390244
+2022	target_class	CMGC protein kinase PFTAIRE	20					19.0	0.95
+2022	target_class	CMGC protein kinase PITSLRE subfamily	25					20.0	0.8
+2022	target_class	CMGC protein kinase SRPK family	60					51.0	0.85
+2022	target_class	CMGC protein kinase TAIRE subfamily	47					12.0	0.2553191489361702
+2022	target_class	CMGC protein kinase group	1282					130.0	0.10140405616224649
+2022	target_class	CMGC protein kinase nmo subfamily	33					19.0	0.5757575757575758
+2022	target_class	CMGC protein kinase p38 subfamily	2801					607.0	0.21670831845769367
+2022	target_class	CX3C chemokine receptor	64					13.0	0.203125
+2022	target_class	CXC chemokine receptor	2243					485.0	0.21622826571555953
+2022	target_class	Ca2+ release-activated Ca2+ channel family	37					0.0	0.0
+2022	target_class	Calcitonin gene-related peptide receptor	613					63.0	0.10277324632952692
+2022	target_class	Calcitonin receptor	129					116.0	0.8992248062015504
+2022	target_class	Calcium ATPase	19					4.0	0.21052631578947367
+2022	target_class	Calcium channel auxiliary subunit alpha2delta family	190					62.0	0.3263157894736842
+2022	target_class	Calcium sensing receptor	134					1.0	0.007462686567164179
+2022	target_class	Calcium-activated chloride channel	101					20.0	0.19801980198019803
+2022	target_class	Calcium-activated potassium channel	104					18.0	0.17307692307692307
+2022	target_class	Calcium-activated potassium channel auxiliary subunit slowpoke-beta family	1					1.0	1.0
+2022	target_class	Cannabinoid receptor	7333					795.0	0.10841401881903723
+2022	target_class	CatSper and Two-Pore channels	2					0.0	0.0
+2022	target_class	Chemerin receptor	3					3.0	1.0
+2022	target_class	Cholecystokinin receptor	681					134.0	0.19676945668135096
+2022	target_class	Chromodomain	902					680.0	0.753880266075388
+2022	target_class	Corticotropin releasing factor receptor	1117					36.0	0.03222918531781558
+2022	target_class	Cyclic nucleotide-regulated channel	65					1.0	0.015384615384615385
+2022	target_class	Cysteine protease C12 family	52					21.0	0.40384615384615385
+2022	target_class	Cysteine protease C13 family	110					26.0	0.23636363636363636
+2022	target_class	Cysteine protease C14 family	1953					52.0	0.026625704045058884
+2022	target_class	Cysteine protease C14A subfamily	5					0.0	0.0
+2022	target_class	Cysteine protease C19 family	682					535.0	0.7844574780058651
+2022	target_class	Cysteine protease C1A family	6055					681.0	0.1124690338563171
+2022	target_class	Cysteine protease C2 family	261					57.0	0.21839080459770116
+2022	target_class	Cysteine protease C48 family	158					121.0	0.7658227848101266
+2022	target_class	Cystic fibrosis transmembrane conductance regulator	557					212.0	0.38061041292639136
+2022	target_class	Cytochrome P450 11B1	824					53.0	0.06432038834951456
+2022	target_class	Cytochrome P450 11B2	1051					210.0	0.19980970504281637
+2022	target_class	Cytochrome P450 17A1	560					69.0	0.12321428571428572
+2022	target_class	Cytochrome P450 19A1	1857					339.0	0.1825525040387722
+2022	target_class	Cytochrome P450 1A1	74					5.0	0.06756756756756757
+2022	target_class	Cytochrome P450 1A2	57					8.0	0.14035087719298245
+2022	target_class	Cytochrome P450 1B1	321					109.0	0.3395638629283489
+2022	target_class	Cytochrome P450 21A2	102					4.0	0.0392156862745098
+2022	target_class	Cytochrome P450 24A1	56					2.0	0.03571428571428571
+2022	target_class	Cytochrome P450 26A1	122					8.0	0.06557377049180328
+2022	target_class	Cytochrome P450 27B1	8					0.0	0.0
+2022	target_class	Cytochrome P450 2A6	115					6.0	0.05217391304347826
+2022	target_class	Cytochrome P450 2C19	82					8.0	0.0975609756097561
+2022	target_class	Cytochrome P450 2C8	4					4.0	1.0
+2022	target_class	Cytochrome P450 2C9	109					11.0	0.10091743119266056
+2022	target_class	Cytochrome P450 2D6	56					35.0	0.625
+2022	target_class	Cytochrome P450 3A4	301					38.0	0.12624584717607973
+2022	target_class	Cytochrome P450 3A5	2					1.0	0.5
+2022	target_class	Cytochrome P450 51A1	43					11.0	0.2558139534883721
+2022	target_class	Cytochrome P450 5A1	55					3.0	0.05454545454545454
+2022	target_class	Cytochrome P450 7A1	1					0.0	0.0
+2022	target_class	Cytochrome P450 family 26	16					0.0	0.0
+2022	target_class	Cytochrome P450 family 2A	11					9.0	0.8181818181818182
+2022	target_class	DNA methyltransferase	186					33.0	0.1774193548387097
+2022	target_class	Dopamine receptor	11079					2124.0	0.1917140536149472
+2022	target_class	EDG receptor	1830					240.0	0.13114754098360656
+2022	target_class	Endoplasmic reticular retrotranslocon family	347					88.0	0.25360230547550433
+2022	target_class	Endothelin receptor	390					93.0	0.23846153846153847
+2022	target_class	Enzyme	10295					2720.0	0.2642059252064109
+2022	target_class	F-type ATPase	2					2.0	1.0
+2022	target_class	Family A G protein-coupled receptor	545					296.0	0.5431192660550459
+2022	target_class	Fatty acid binding protein family	442					149.0	0.33710407239819007
+2022	target_class	Free fatty acid receptor	530					129.0	0.24339622641509434
+2022	target_class	Frizzled family G protein-coupled receptor	38					38.0	1.0
+2022	target_class	GABA-A receptor	612					92.0	0.1503267973856209
+2022	target_class	GABA-B receptor	2					0.0	0.0
+2022	target_class	GNAT family	214					58.0	0.27102803738317754
+2022	target_class	GRP-related receptor	1480					140.0	0.0945945945945946
+2022	target_class	Galanin receptor	156					0.0	0.0
+2022	target_class	Gastric inhibitory polypeptide receptor	76					10.0	0.13157894736842105
+2022	target_class	Glucagon receptor	590					25.0	0.0423728813559322
+2022	target_class	Glucagon-like peptide receptor	295					19.0	0.06440677966101695
+2022	target_class	Glycine receptor	96					29.0	0.3020833333333333
+2022	target_class	Glycohormone receptor	11					4.0	0.36363636363636365
+2022	target_class	GnRH receptor	786					132.0	0.16793893129770993
+2022	target_class	Group translocator	8					0.0	0.0
+2022	target_class	HDAC class I	9050					2955.0	0.3265193370165746
+2022	target_class	HDAC class III	1822					397.0	0.21789242590559824
+2022	target_class	HDAC class IIa	1431					481.0	0.3361285814116003
+2022	target_class	HDAC class IIb	3643					1292.0	0.3546527587153445
+2022	target_class	HDAC class IV	326					113.0	0.34662576687116564
+2022	target_class	Histamine receptor	5220					772.0	0.1478927203065134
+2022	target_class	Hydrolase	20363					7927.0	0.3892844865687767
+2022	target_class	Hydroxycarboxylic acid receptor	297					37.0	0.12457912457912458
+2022	target_class	IP3 receptor	1					1.0	1.0
+2022	target_class	Inwardly rectifying potassium channel	334					30.0	0.08982035928143713
+2022	target_class	Isomerase	3097					589.0	0.1901840490797546
+2022	target_class	Jumonji domain-containing	2091					451.0	0.21568627450980393
+2022	target_class	Kainate receptor	107					1.0	0.009345794392523364
+2022	target_class	Kinase	53					49.0	0.9245283018867925
+2022	target_class	Kynurenic acid receptor	125					1.0	0.008
+2022	target_class	Leukotriene receptor	101					43.0	0.42574257425742573
+2022	target_class	Ligase	3119					446.0	0.1429945495351074
+2022	target_class	Lipid-like ligand receptor (family A GPCR)	141					34.0	0.24113475177304963
+2022	target_class	Lyase	25060					7026.0	0.280367118914605
+2022	target_class	Lysine-specific demethylase	1317					520.0	0.39483675018982534
+2022	target_class	Lysophosphatidylinositol receptor	77					2.0	0.025974025974025976
+2022	target_class	MBT domain	209					3.0	0.014354066985645933
+2022	target_class	MCH receptor	2706					37.0	0.013673318551367332
+2022	target_class	MYST family	31					1.0	0.03225806451612903
+2022	target_class	Melanocortin receptor	3588					156.0	0.043478260869565216
+2022	target_class	Melatonin receptor	1342					100.0	0.07451564828614009
+2022	target_class	Membrane receptor	3959					1706.0	0.4309168982066178
+2022	target_class	Metabotropic glutamate receptor	1386					159.0	0.11471861471861472
+2022	target_class	Metallo protease M1 family	1134					198.0	0.1746031746031746
+2022	target_class	Metallo protease M10A subfamily	7301					724.0	0.09916449801397069
+2022	target_class	Metallo protease M12A subfamily	106					0.0	0.0
+2022	target_class	Metallo protease M12B subfamily	1223					133.0	0.10874897792313983
+2022	target_class	Metallo protease M13 family	308					67.0	0.21753246753246752
+2022	target_class	Metallo protease M14A subfamily	387					84.0	0.21705426356589147
+2022	target_class	Metallo protease M14B subfamily	21					3.0	0.14285714285714285
+2022	target_class	Metallo protease M17 family	7					0.0	0.0
+2022	target_class	Metallo protease M2 family	184					33.0	0.1793478260869565
+2022	target_class	Metallo protease M24A subfamily	622					67.0	0.10771704180064309
+2022	target_class	Metallo protease M28B subfamily	261					32.0	0.12260536398467432
+2022	target_class	Metallo protease M67A subfamily	32					0.0	0.0
+2022	target_class	Methyl-CpG-binding domain	8					0.0	0.0
+2022	target_class	Mitochondrial pyruvate carrier family	2					0.0	0.0
+2022	target_class	Motilin receptor	72					1.0	0.013888888888888888
+2022	target_class	N-formyl methionyl peptide receptor	164					137.0	0.8353658536585366
+2022	target_class	NMDA receptor	290					146.0	0.503448275862069
+2022	target_class	Neurokinin receptor	1946					43.0	0.022096608427543678
+2022	target_class	Neuromedin U receptor	102					0.0	0.0
+2022	target_class	Neuromedin receptor	40					0.0	0.0
+2022	target_class	Neuropeptide Y receptor	1483					135.0	0.09103169251517194
+2022	target_class	Neuropeptide receptor	833					234.0	0.2809123649459784
+2022	target_class	Neurotensin receptor	359					123.0	0.3426183844011142
+2022	target_class	Nicotinic acetylcholine receptor alpha subunit	926					223.0	0.2408207343412527
+2022	target_class	Nicotinic acetylcholine receptor epsilon subunit	14					11.0	0.7857142857142857
+2022	target_class	Nuclear hormone receptor subfamily 0 group B member 2	4					0.0	0.0
+2022	target_class	Nuclear hormone receptor subfamily 1 group A member 1	255					35.0	0.13725490196078433
+2022	target_class	Nuclear hormone receptor subfamily 1 group A member 2	489					83.0	0.16973415132924335
+2022	target_class	Nuclear hormone receptor subfamily 1 group B member 1	106					7.0	0.0660377358490566
+2022	target_class	Nuclear hormone receptor subfamily 1 group B member 2	113					9.0	0.07964601769911504
+2022	target_class	Nuclear hormone receptor subfamily 1 group B member 3	143					7.0	0.04895104895104895
+2022	target_class	Nuclear hormone receptor subfamily 1 group C member 1	1558					400.0	0.25673940949935814
+2022	target_class	Nuclear hormone receptor subfamily 1 group C member 2	1006					343.0	0.34095427435387676
+2022	target_class	Nuclear hormone receptor subfamily 1 group C member 3	2712					500.0	0.18436578171091444
+2022	target_class	Nuclear hormone receptor subfamily 1 group D member 1	34					9.0	0.2647058823529412
+2022	target_class	Nuclear hormone receptor subfamily 1 group D member 2	2					0.0	0.0
+2022	target_class	Nuclear hormone receptor subfamily 1 group F	221					79.0	0.3574660633484163
+2022	target_class	Nuclear hormone receptor subfamily 1 group F member 1	105					12.0	0.11428571428571428
+2022	target_class	Nuclear hormone receptor subfamily 1 group F member 3	2571					1575.0	0.6126021003500584
+2022	target_class	Nuclear hormone receptor subfamily 1 group H member 3	1332					97.0	0.07282282282282282
+2022	target_class	Nuclear hormone receptor subfamily 1 group H member 4	1013					313.0	0.3089832181638697
+2022	target_class	Nuclear hormone receptor subfamily 1 group I member 1	370					39.0	0.10540540540540541
+2022	target_class	Nuclear hormone receptor subfamily 1 group I member 2	278					165.0	0.5935251798561151
+2022	target_class	Nuclear hormone receptor subfamily 1 group I member 3	117					57.0	0.48717948717948717
+2022	target_class	Nuclear hormone receptor subfamily 2 group B member 1	357					112.0	0.3137254901960784
+2022	target_class	Nuclear hormone receptor subfamily 2 group B member 2	141					82.0	0.5815602836879432
+2022	target_class	Nuclear hormone receptor subfamily 2 group B member 3	119					60.0	0.5042016806722689
+2022	target_class	Nuclear hormone receptor subfamily 2 group C member 2	5					3.0	0.6
+2022	target_class	Nuclear hormone receptor subfamily 2 group E member 1	21					21.0	1.0
+2022	target_class	Nuclear hormone receptor subfamily 3 group A member 1	2453					605.0	0.24663677130044842
+2022	target_class	Nuclear hormone receptor subfamily 3 group A member 2	1431					242.0	0.16911250873515024
+2022	target_class	Nuclear hormone receptor subfamily 3 group B member 1	147					34.0	0.23129251700680273
+2022	target_class	Nuclear hormone receptor subfamily 3 group B member 2	88					38.0	0.4318181818181818
+2022	target_class	Nuclear hormone receptor subfamily 3 group B member 3	172					105.0	0.6104651162790697
+2022	target_class	Nuclear hormone receptor subfamily 3 group C member 1	1754					102.0	0.05815279361459521
+2022	target_class	Nuclear hormone receptor subfamily 3 group C member 2	688					82.0	0.11918604651162791
+2022	target_class	Nuclear hormone receptor subfamily 3 group C member 3	790					14.0	0.017721518987341773
+2022	target_class	Nuclear hormone receptor subfamily 3 group C member 4	1825					381.0	0.20876712328767122
+2022	target_class	Nuclear hormone receptor subfamily 4 group A member 1	21					12.0	0.5714285714285714
+2022	target_class	Nuclear hormone receptor subfamily 4 group A member 2	78					61.0	0.782051282051282
+2022	target_class	Nuclear hormone receptor subfamily 4 group A member 3	3					2.0	0.6666666666666666
+2022	target_class	Nuclear hormone receptor subfamily 5 group A member 1	25					6.0	0.24
+2022	target_class	Nuclear hormone receptor subfamily 5 group A member 2	49					26.0	0.5306122448979592
+2022	target_class	Opioid receptor	9978					1526.0	0.15293646021246743
+2022	target_class	Orexin receptor	3186					515.0	0.16164469554300062
+2022	target_class	Other cytosolic protein	8473					2323.0	0.2741649946890122
+2022	target_class	Other membrane protein	355					84.0	0.23661971830985915
+2022	target_class	Other nuclear protein	2705					531.0	0.19630314232902032
+2022	target_class	Other protein kinase AUR family	3248					470.0	0.14470443349753695
+2022	target_class	Other protein kinase CDC7 family	221					10.0	0.04524886877828054
+2022	target_class	Other protein kinase CK2 family	862					79.0	0.09164733178654293
+2022	target_class	Other protein kinase GCN2 subfamily	40					16.0	0.4
+2022	target_class	Other protein kinase HRI	49					4.0	0.08163265306122448
+2022	target_class	Other protein kinase Haspin family	79					48.0	0.6075949367088608
+2022	target_class	Other protein kinase IKK family	170					62.0	0.36470588235294116
+2022	target_class	Other protein kinase Meta subfamily	158					53.0	0.33544303797468356
+2022	target_class	Other protein kinase NAK family	665					362.0	0.544360902255639
+2022	target_class	Other protein kinase NEK family	222					107.0	0.481981981981982
+2022	target_class	Other protein kinase NKF1 family	7					6.0	0.8571428571428571
+2022	target_class	Other protein kinase NKF4 family	1					1.0	1.0
+2022	target_class	Other protein kinase Nek1	16					4.0	0.25
+2022	target_class	Other protein kinase Nek11	5					4.0	0.8
+2022	target_class	Other protein kinase PEK subfamily	79					32.0	0.4050632911392405
+2022	target_class	Other protein kinase PKR	84					13.0	0.15476190476190477
+2022	target_class	Other protein kinase PLK family	1018					402.0	0.3948919449901768
+2022	target_class	Other protein kinase PLK2	144					43.0	0.2986111111111111
+2022	target_class	Other protein kinase TLK family	13					8.0	0.6153846153846154
+2022	target_class	Other protein kinase TOPK family	158					36.0	0.22784810126582278
+2022	target_class	Other protein kinase TTK family	543					185.0	0.3406998158379374
+2022	target_class	Other protein kinase ULK family	171					77.0	0.4502923976608187
+2022	target_class	Other protein kinase WEE family	418					137.0	0.3277511961722488
+2022	target_class	Other protein kinase WEE1	11					4.0	0.36363636363636365
+2022	target_class	Other protein kinase Wnk family	18					2.0	0.1111111111111111
+2022	target_class	Other protein kinase group	1052					133.0	0.12642585551330798
+2022	target_class	Oxidoreductase	30240					8479.0	0.28039021164021166
+2022	target_class	Oxidoreduction-driven transporters	31					25.0	0.8064516129032258
+2022	target_class	P2X receptor	1833					529.0	0.2885979268957992
+2022	target_class	PAF receptor	48					0.0	0.0
+2022	target_class	PR domain	1					1.0	1.0
+2022	target_class	PWWP domain	405					68.0	0.16790123456790124
+2022	target_class	Parathyroid hormone receptor	31					0.0	0.0
+2022	target_class	Phosphatase	1120					400.0	0.35714285714285715
+2022	target_class	Phosphodiesterase	606					143.0	0.23597359735973597
+2022	target_class	Phosphodiesterase 10A	3003					141.0	0.04695304695304695
+2022	target_class	Phosphodiesterase 11A	87					7.0	0.08045977011494253
+2022	target_class	Phosphodiesterase 1A	57					43.0	0.7543859649122807
+2022	target_class	Phosphodiesterase 1B	61					14.0	0.22950819672131148
+2022	target_class	Phosphodiesterase 1C	53					18.0	0.33962264150943394
+2022	target_class	Phosphodiesterase 2A	825					105.0	0.12727272727272726
+2022	target_class	Phosphodiesterase 3A	284					73.0	0.25704225352112675
+2022	target_class	Phosphodiesterase 3B	111					34.0	0.3063063063063063
+2022	target_class	Phosphodiesterase 4A	446					5.0	0.011210762331838564
+2022	target_class	Phosphodiesterase 4B	1329					241.0	0.18133935289691497
+2022	target_class	Phosphodiesterase 4C	108					11.0	0.10185185185185185
+2022	target_class	Phosphodiesterase 4D	907					225.0	0.24807056229327454
+2022	target_class	Phosphodiesterase 5A	964					142.0	0.14730290456431536
+2022	target_class	Phosphodiesterase 6A	5					3.0	0.6
+2022	target_class	Phosphodiesterase 6C	29					1.0	0.034482758620689655
+2022	target_class	Phosphodiesterase 6D	137					46.0	0.3357664233576642
+2022	target_class	Phosphodiesterase 7A	630					18.0	0.02857142857142857
+2022	target_class	Phosphodiesterase 7B	23					0.0	0.0
+2022	target_class	Phosphodiesterase 8A	30					17.0	0.5666666666666667
+2022	target_class	Phosphodiesterase 8B	87					0.0	0.0
+2022	target_class	Phosphodiesterase 9A	375					47.0	0.12533333333333332
+2022	target_class	Plant homeodomain	9					0.0	0.0
+2022	target_class	Pore-forming toxins (proteins and peptides)	961					110.0	0.11446409989594172
+2022	target_class	Presenilin ER Ca2+ leak channel family	52					0.0	0.0
+2022	target_class	Prokineticin receptor	108					108.0	1.0
+2022	target_class	Prolactin-releasing peptide receptor	91					20.0	0.21978021978021978
+2022	target_class	Prostanoid receptor	4352					203.0	0.046645220588235295
+2022	target_class	Protease unclassified U48 family	22					0.0	0.0
+2022	target_class	Protease-activated receptor	479					37.0	0.07724425887265135
+2022	target_class	Protein Kinase	48					9.0	0.1875
+2022	target_class	Protein arginine methyltransferase	1152					422.0	0.3663194444444444
+2022	target_class	Protein kinase regulatory subunit	105					25.0	0.23809523809523808
+2022	target_class	Protein methyltransferase	1139					428.0	0.37576821773485514
+2022	target_class	Protein phosphatase regulatory subunit	9					6.0	0.6666666666666666
+2022	target_class	Protein-glutamine glutamyl-transferase	471					5.0	0.010615711252653927
+2022	target_class	Purine receptor	1480					134.0	0.09054054054054055
+2022	target_class	RF amide receptor	417					67.0	0.1606714628297362
+2022	target_class	Reader	28					26.0	0.9285714285714286
+2022	target_class	Receptor guanylate cyclase	53					0.0	0.0
+2022	target_class	Receptor tyrosine-protein phosphatase	239					6.0	0.02510460251046025
+2022	target_class	Relaxin receptor	38					38.0	1.0
+2022	target_class	Ryanodine receptor	52					0.0	0.0
+2022	target_class	SET domain	404					267.0	0.6608910891089109
+2022	target_class	SLC01 family of amino acid transporters	319					20.0	0.06269592476489028
+2022	target_class	SLC02 family of hexose and sugar alcohol transporters	443					99.0	0.2234762979683973
+2022	target_class	SLC05 family of sodium-dependent glucose transporters	2457					301.0	0.1225071225071225
+2022	target_class	SLC06 neurotransmitter transporter family	9387					615.0	0.0655161393416427
+2022	target_class	SLC07 Cationic amino acid transporter/glycoprotein-associated family	49					5.0	0.10204081632653061
+2022	target_class	SLC08 family of sodium/calcium exchangers	1					0.0	0.0
+2022	target_class	SLC09 family of sodium/hydrogen exchangers	506					10.0	0.019762845849802372
+2022	target_class	SLC10 family of sodium-bile acid co-transporters	231					40.0	0.17316017316017315
+2022	target_class	SLC11 family of proton-coupled metal ion transporters	43					4.0	0.09302325581395349
+2022	target_class	SLC12 family of cation-coupled chloride transporters	2					2.0	1.0
+2022	target_class	SLC13 family of sodium-dependent sulphate/carboxylate transporters	12					0.0	0.0
+2022	target_class	SLC14 family of facilitative urea transporters	2					1.0	0.5
+2022	target_class	SLC15 family of peptide transporters	19					0.0	0.0
+2022	target_class	SLC16 family of monocarboxylate transporters	90					26.0	0.28888888888888886
+2022	target_class	SLC18 family of vesicular amine transporters	118					5.0	0.0423728813559322
+2022	target_class	SLC19 family of vitamin transporters	26					9.0	0.34615384615384615
+2022	target_class	SLC20 family of sodium-dependent phosphate transporters	3					0.0	0.0
+2022	target_class	SLC21/SLCO family of organic anion transporting polypeptides	18					9.0	0.5
+2022	target_class	SLC22 family of organic cation and anion transporters	357					60.0	0.16806722689075632
+2022	target_class	SLC25 family of mitochondrial transporters	11					6.0	0.5454545454545454
+2022	target_class	SLC26 family of anion exchangers	3					3.0	1.0
+2022	target_class	SLC27 family of fatty acid transporters	72					0.0	0.0
+2022	target_class	SLC28 Na+-coupled nucleoside transport family	44					0.0	0.0
+2022	target_class	SLC29 Facilitative nucleoside transporter family	156					2.0	0.01282051282051282
+2022	target_class	SLC33 acetylCoA transporter	144					0.0	0.0
+2022	target_class	SLC34 family of sodium phosphate co-transporters	13					0.0	0.0
+2022	target_class	SLC37 family of phosphosugar/phosphate exchangers	18					0.0	0.0
+2022	target_class	SLC40 iron transporter	474					195.0	0.41139240506329117
+2022	target_class	SLC43 family of large neutral amino acid transporters	1					0.0	0.0
+2022	target_class	SLC46 family of folate transporters	37					17.0	0.4594594594594595
+2022	target_class	SLC47 family of multidrug and toxin extrusion transporters	67					1.0	0.014925373134328358
+2022	target_class	STE protein kinase ASK	24					16.0	0.6666666666666666
+2022	target_class	STE protein kinase FRAY subfamily	35					33.0	0.9428571428571428
+2022	target_class	STE protein kinase KHS subfamily	455					255.0	0.5604395604395604
+2022	target_class	STE protein kinase MEKK2	44					15.0	0.3409090909090909
+2022	target_class	STE protein kinase MSN subfamily	387					160.0	0.4134366925064599
+2022	target_class	STE protein kinase MST subfamily	166					94.0	0.5662650602409639
+2022	target_class	STE protein kinase NinaC subfamily	11					9.0	0.8181818181818182
+2022	target_class	STE protein kinase PAKA subfamily	350					109.0	0.31142857142857144
+2022	target_class	STE protein kinase PAKB subfamily	346					37.0	0.1069364161849711
+2022	target_class	STE protein kinase SLK subfamily	324					161.0	0.49691358024691357
+2022	target_class	STE protein kinase STE11 family	514					195.0	0.37937743190661477
+2022	target_class	STE protein kinase STE7 family	866					225.0	0.25981524249422633
+2022	target_class	STE protein kinase TAO subfamily	198					29.0	0.14646464646464646
+2022	target_class	STE protein kinase YSK subfamily	86					39.0	0.45348837209302323
+2022	target_class	STE protein kinase group	644					3.0	0.004658385093167702
+2022	target_class	STE protein kinase unique family	218					101.0	0.463302752293578
+2022	target_class	Secreted protein	2173					614.0	0.2825586746433502
+2022	target_class	Serine protease	645					151.0	0.23410852713178296
+2022	target_class	Serine protease S10 family	35					0.0	0.0
+2022	target_class	Serine protease S1A subfamily	11046					2275.0	0.20595690747782003
+2022	target_class	Serine protease S28 family	697					17.0	0.024390243902439025
+2022	target_class	Serine protease S33 family	2365					552.0	0.23340380549682876
+2022	target_class	Serine protease S8A subfamily	142					112.0	0.7887323943661971
+2022	target_class	Serine protease S8B subfamily	601					114.0	0.1896838602329451
+2022	target_class	Serine protease S9A subfamily	323					126.0	0.39009287925696595
+2022	target_class	Serine protease S9B subfamily	4289					353.0	0.08230356726509676
+2022	target_class	Serine protease S9C subfamily	1					1.0	1.0
+2022	target_class	Serine protein phosphatase	4					3.0	0.75
+2022	target_class	Serine/threonine protein phosphatase	47					14.0	0.2978723404255319
+2022	target_class	Serine/threonine/tyrosine protein phosphatase	767					109.0	0.1421121251629726
+2022	target_class	Serotonin receptor	17008					3290.0	0.19343838193791157
+2022	target_class	Slow voltage-gated potassium channel accessory protein family	5					2.0	0.4
+2022	target_class	Smoothened receptor (frizzled family GPCR)	311					33.0	0.10610932475884244
+2022	target_class	Sodium potassium ATPase	7					2.0	0.2857142857142857
+2022	target_class	Somatostatin receptor	1848					87.0	0.04707792207792208
+2022	target_class	Steroid-like ligand receptor	54					9.0	0.16666666666666666
+2022	target_class	Structural protein	154					77.0	0.5
+2022	target_class	Surface antigen	244					27.0	0.11065573770491803
+2022	target_class	TKL protein kinase HH498 subfamily	227					71.0	0.31277533039647576
+2022	target_class	TKL protein kinase ILK subfamily	170					2.0	0.011764705882352941
+2022	target_class	TKL protein kinase IRAK family	844					347.0	0.41113744075829384
+2022	target_class	TKL protein kinase LIMK subfamily	472					49.0	0.1038135593220339
+2022	target_class	TKL protein kinase LRRK family	1109					224.0	0.20198376916140667
+2022	target_class	TKL protein kinase LZK subfamily	7					5.0	0.7142857142857143
+2022	target_class	TKL protein kinase MLK subfamily	276					98.0	0.35507246376811596
+2022	target_class	TKL protein kinase RAF family	3236					913.0	0.28213844252163167
+2022	target_class	TKL protein kinase RIPK family	604					284.0	0.47019867549668876
+2022	target_class	TKL protein kinase STKR Type 1 subfamily	2171					576.0	0.26531552280055276
+2022	target_class	TKL protein kinase STKR Type 2 subfamily	217					94.0	0.43317972350230416
+2022	target_class	TKL protein kinase STKR1	238					128.0	0.5378151260504201
+2022	target_class	TKL protein kinase TAK1 subfamily	217					64.0	0.29493087557603687
+2022	target_class	TKL protein kinase TESK subfamily	16					6.0	0.375
+2022	target_class	TKL protein kinase group	112					48.0	0.42857142857142855
+2022	target_class	Taste receptor (taste family GPCR)	6					0.0	0.0
+2022	target_class	Threonine protease T1A subfamily	1627					661.0	0.40626920712968656
+2022	target_class	Threonine protease T1B subfamily	120					70.0	0.5833333333333334
+2022	target_class	Threonine protease T2 family	8					0.0	0.0
+2022	target_class	Toll-like and Il-1 receptors	1276					752.0	0.5893416927899686
+2022	target_class	Trace amine receptor	55					8.0	0.14545454545454545
+2022	target_class	Transcription factor	2351					957.0	0.40706082518077413
+2022	target_class	Transferase	24118					7185.0	0.29791027448378804
+2022	target_class	Transient receptor potential channel	3553					764.0	0.2150295524908528
+2022	target_class	Transmembrane 1-electron transfer carriers	52					0.0	0.0
+2022	target_class	Transporter	13					2.0	0.15384615384615385
+2022	target_class	Tudor domain	62					15.0	0.24193548387096775
+2022	target_class	Two-pore domain potassium channel	192					53.0	0.2760416666666667
+2022	target_class	Tyrosine protein kinase Abl family	1518					275.0	0.18115942028985507
+2022	target_class	Tyrosine protein kinase Ack family	534					101.0	0.1891385767790262
+2022	target_class	Tyrosine protein kinase Alk family	43					27.0	0.627906976744186
+2022	target_class	Tyrosine protein kinase Axl family	1437					654.0	0.4551148225469729
+2022	target_class	Tyrosine protein kinase Csk family	87					38.0	0.4367816091954023
+2022	target_class	Tyrosine protein kinase DDR family	545					231.0	0.42385321100917434
+2022	target_class	Tyrosine protein kinase EGFR family	6299					1150.0	0.18256866169233213
+2022	target_class	Tyrosine protein kinase Eph family	1384					352.0	0.2543352601156069
+2022	target_class	Tyrosine protein kinase FGFR family	5113					791.0	0.1547036964600039
+2022	target_class	Tyrosine protein kinase Fak family	1502					296.0	0.1970705725699068
+2022	target_class	Tyrosine protein kinase Fer family	109					50.0	0.45871559633027525
+2022	target_class	Tyrosine protein kinase InsR family	2168					106.0	0.048892988929889296
+2022	target_class	Tyrosine protein kinase JakA family	10221					3318.0	0.3246257704725565
+2022	target_class	Tyrosine protein kinase Met family	3050					525.0	0.1721311475409836
+2022	target_class	Tyrosine protein kinase Musk family	21					17.0	0.8095238095238095
+2022	target_class	Tyrosine protein kinase PDGFR family	5207					1781.0	0.34203956212790476
+2022	target_class	Tyrosine protein kinase Ret family	656					172.0	0.2621951219512195
+2022	target_class	Tyrosine protein kinase Sev family	173					69.0	0.3988439306358382
+2022	target_class	Tyrosine protein kinase Src family	3353					856.0	0.25529376677602145
+2022	target_class	Tyrosine protein kinase Srm	30					16.0	0.5333333333333333
+2022	target_class	Tyrosine protein kinase Syk family	2351					215.0	0.09145044661846023
+2022	target_class	Tyrosine protein kinase Tec family	2937					1141.0	0.3884916581545795
+2022	target_class	Tyrosine protein kinase Tie family	503					132.0	0.2624254473161034
+2022	target_class	Tyrosine protein kinase Trk family	1523					1015.0	0.6664478003939593
+2022	target_class	Tyrosine protein kinase VEGFR family	6394					896.0	0.1401313731623397
+2022	target_class	Tyrosine protein phosphatase	3961					1077.0	0.27190103509214847
+2022	target_class	Unclassified protein	8241					4542.0	0.5511467054969057
+2022	target_class	V-type ATPase	1					0.0	0.0
+2022	target_class	Vasoactive intestinal peptide receptor	38					0.0	0.0
+2022	target_class	Vasopressin and oxytocin receptor	1799					155.0	0.08615897720956087
+2022	target_class	Voltage-dependent anion-selective channel	2					1.0	0.5
+2022	target_class	Voltage-gated calcium channel	1294					88.0	0.06800618238021638
+2022	target_class	Voltage-gated potassium channel	9552					1435.0	0.15023031825795644
+2022	target_class	Voltage-gated sodium channel	3974					609.0	0.1532460996477101
+2022	target_class	WDR domain	326					173.0	0.5306748466257669
+2022	target_class	Water-specific aquaporin	4					4.0	1.0
+2022	target_class	YEATS domain	95					34.0	0.35789473684210527
+2022	target_class	p300/CBP family	864					297.0	0.34375
+2022	standard_type	AC50	479					46.0	0.09603340292275574
+2022	standard_type	EC50	22105					8392.0	0.37964261479303324
+2022	standard_type	IC50	352586					87690.0	0.24870528041385648
+2022	standard_type	Kd	22292					8699.0	0.3902296788085412
+2022	standard_type	Ki	165920					27974.0	0.168599324975892
+2022	assay_type	B	563382					132801.0	0.23572105605077903
+2022	confidence_score	9	563382					132801.0	0.23572105605077903

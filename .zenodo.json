@@ -1,0 +1,33 @@
+{
+  "title": "Historical drug–target discovery database backfill audit: code and source data",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "biomedical_ai_historical_discovery"
+    }
+  ],
+  "description": "Code and frozen source tables for auditing historical ChEMBL membership, future-label erasure, tie-aware rankings and chemical near-neighbour extension. Large candidate/score inputs are supplied as associated versioned data archives. The derived-table presentation is tested separately from raw reconstruction. No LLM benchmark was run.",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "keywords": [
+    "ChEMBL",
+    "drug-target discovery",
+    "historical database backfill",
+    "temporal evaluation",
+    "data leakage",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/seefreewind/historical-dti-backfill",
+      "relation": "isSupplementTo"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.23415498",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset"
+    }
+  ]
+}
