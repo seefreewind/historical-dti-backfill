@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite the version-specific Zenodo record associated with this release."
+title: "Historical ChEMBL DTI benchmark audit"
+version: "1.1.0"
+date-released: "2026-11-20"
+authors:
+  - name: "biomedical_ai_historical_discovery"
+repository-code: "https://github.com/seefreewind/historical-dti-backfill"
+license:
+  - MIT
+  - CC-BY-SA-3.0

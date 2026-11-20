@@ -1,0 +1,77 @@
+[
+  {
+    "check": "source_unchanged",
+    "status": "PASS",
+    "detail": "Original V6 SHA256 preserved"
+  },
+  {
+    "check": "original_table_1",
+    "status": "PASS",
+    "detail": "All original cell values unchanged"
+  },
+  {
+    "check": "original_table_2",
+    "status": "PASS",
+    "detail": "All original cell values unchanged"
+  },
+  {
+    "check": "original_table_3",
+    "status": "PASS",
+    "detail": "All original cell values unchanged"
+  },
+  {
+    "check": "original_table_4",
+    "status": "PASS",
+    "detail": "All original cell values unchanged"
+  },
+  {
+    "check": "all_12_embedded_figures",
+    "status": "PASS",
+    "detail": "12 placed S1\u2013S12 figures and all 24 original media parts retained byte-identically"
+  },
+  {
+    "check": "V15_title",
+    "status": "PASS",
+    "detail": "Exact V15 title"
+  },
+  {
+    "check": "definition",
+    "status": "PASS",
+    "detail": "first_discovery field explicitly operational"
+  },
+  {
+    "check": "S3_rule",
+    "status": "PASS",
+    "detail": "S3 is selection provenance"
+  },
+  {
+    "check": "S7_actual_bounds",
+    "status": "PASS",
+    "detail": "No invented interval bounds"
+  },
+  {
+    "check": "v1.1_unpublished",
+    "status": "PASS",
+    "detail": "No fabricated publication/DOI"
+  },
+  {
+    "check": "SA1_rows",
+    "status": "PASS",
+    "detail": "structure_equivalence/tables/EDGE_CAUSE_SUMMARY.tsv populated directly; no new computation"
+  },
+  {
+    "check": "SA2_rows",
+    "status": "PASS",
+    "detail": "tables/FUTURE_LABEL_CAUSE_SUMMARY.tsv populated directly; no new computation"
+  },
+  {
+    "check": "SA3_rows",
+    "status": "PASS",
+    "detail": "tables/FUTURE_LABEL_MISSINGNESS_EVIDENCE.tsv populated directly; no new computation"
+  },
+  {
+    "check": "SA4_rows",
+    "status": "PASS",
+    "detail": "structure_equivalence/tables/STABLE_MAPPING_SENSITIVITY.tsv populated directly; no new computation"
+  }
+]

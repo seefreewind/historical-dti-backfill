@@ -1,0 +1,5 @@
+cutoff	method	n_original_edges	n_rewired_edges	compound_changed_nodes	target_changed_nodes	compound_max_absolute_degree_difference	target_max_absolute_degree_difference	compound_mean_absolute_degree_difference	target_mean_absolute_degree_difference	number_duplicate_edges_removed	successful_swaps	attempts	seed	note
+2018	LEGACY_SHUFFLE_DEDUP_REENACTED	434456	428512	3164	293	148	3643	0.01346535909512062	1.5758218451749735	5944	0	1	20261015	Legacy algorithm reenactment, not recovery of unsaved frozen RNG realization
+2018	EXACT_SIMPLE_BIPARTITE_DOUBLE_EDGE_SWAP	434456	434456	0	0	0	0	0.0	0.0	0	2172280	2314154	20261015	Simple graph edge swaps; exact degrees verified
+2020	LEGACY_SHUFFLE_DEDUP_REENACTED	499057	495364	3072	195	60	2574	0.008366011295134665	0.9790562036055143	3693	0	1	20261015	Legacy algorithm reenactment, not recovery of unsaved frozen RNG realization
+2020	EXACT_SIMPLE_BIPARTITE_DOUBLE_EDGE_SWAP	499057	499057	0	0	0	0	0.0	0.0	0	2495285	2594393	20261015	Simple graph edge swaps; exact degrees verified

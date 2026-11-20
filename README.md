@@ -1,3 +1,15 @@
+# Historical ChEMBL DTI benchmark audit
+
+## Version 1.1.0 raw-input reproducibility release
+
+Download the complete `historical_dti_backfill_v1.1.0.zip` from [release v1.1.0](https://github.com/seefreewind/historical-dti-backfill/releases/tag/v1.1.0). It contains the fixed core graph/candidate/first-observed-label/mechanism workflow, reviewed derived data and exact-member validation evidence. Verify RELEASE_SHA256SUMS.txt, extract, then follow the bundled README and REPRODUCTION_GUIDE. Original ChEMBL SQLite/tar.gz are external inputs; exact eight-release sources and SHA256 are provided.
+
+[Code and documentation source view](reproduction/v1.1.0/) excludes large data; the full release ZIP is required for execution. Code is MIT, ChEMBL-derived data CC BY-SA 3.0, and dependency notices are retained. The certified scope is macOS arm64 using the existing fixed implementation; optional training, Linux and independent reimplementation are not certified. No new scientific analysis or result changes are introduced.
+
+The previous v1.0.0 tag, release assets and Zenodo records are preserved. Its model/chemistry assets remain accessible there. Manuscripts and supplementary DOCX are excluded from v1.1.0.
+
+## Original v1.0.0 documentation
+
 # Historical drug–target discovery database backfill audit
 
 Code and frozen data for **Historical database backfill distorts prospective

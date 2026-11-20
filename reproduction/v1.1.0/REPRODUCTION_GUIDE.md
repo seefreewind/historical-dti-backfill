@@ -1,0 +1,11 @@
+# Execution order and dependency closure
+
+reproduce.py → explicit raw/run configuration → scientific/configs/repair_config.json → run_chain.py → unchanged SQL exporter → activity preparation → primary/rollback graphs → release membership → candidate enumeration → frozen first-observed label function → gap/censor/erasure checks → raw entities → exact mapping → canonical evidence → canonical mapping → baseline cause attribution → canonical cause attribution → qualification predicates → future-positive mechanism aggregation → complete value comparisons.
+
+External inputs are the 16 exact local raw artifacts in manifests/RAW_INPUTS.tsv. No expected graph, label or candidate file generates a new result: expected/ is read only for comparisons and the tiny smoke fixture exercises functions only. The full chain exports from SQLite. The baseline cause stage must run before canonical cause attribution, whose cache reuse checks the supporting-activity set. No historical completion flags are copied as fresh success.
+
+The launcher declares HISTORICAL_DTI_ROOT and HISTORICAL_DTI_CONFIG internally and clears inherited HISTORICAL_DTI_* values. Clear inherited ENTITY_AUDIT_ROOT and ENTITY_MAPPING_MODE using the unset command in README before launch; both were unset in the certified run. These two variables are set explicitly only for the canonical mapping/cause stages. REPRODUCTION_RUN_ROOT is set by the launcher. No undeclared user environment variables or hidden files are required. ._ AppleDouble files are never scientific inputs. No runtime network or shell download is invoked by the certified entrypoint.
+
+For checksum validation, use Python hashlib.sha256 on each listed file and compare SHA256SUMS. On POSIX systems `shasum -a 256 -c SHA256SUMS` can be used. Public package payload hashes describe stored bytes; record comparisons separately report physical Parquet hashes and full semantic identity.
+
+On failure preserve every log. Do not retry in the same run root after a partial write. Environment/import errors, absent inputs, wrapper errors and genuine RESULT_DISCREPANCY must be distinguished. The package builder fixture conversion failure was a RecordBatch/Table wrapper error, not a scientific discrepancy; it is preserved in the closure log.

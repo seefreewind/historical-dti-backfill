@@ -1,0 +1,134 @@
+{
+  "document": "phase1r_release_closure/supplementary/SUPPLEMENTARY_INFORMATION_V15_REVISED.docx",
+  "sha256": "650581247bfe4ef4661bc9beeefa74b8c237f7680588d55937cf9f1eb9c0e35f",
+  "render_directory": "validation/supplement_render_metadata_final",
+  "pages": 24,
+  "pages_visually_reviewed_native": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "status": "PASS_VISUAL_REVIEW",
+  "notes": "All 24 rendered pages inspected. Original twelve figure images and four tables retained; added audit-table rows kept intact, archive-access section starts on page24. Landscape graph-effect table preserves original layout. PNGs internal only; no PDF deliverable.",
+  "reviewed_at": "2026-11-19T17:51:18.372309+08:00",
+  "metadata_only_final_rerender_all24_pages_pixel_identical": true,
+  "final_render_checks": [
+    {
+      "page": 1,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 2,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 3,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 4,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 5,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 6,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 7,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 8,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 9,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 10,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 11,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 12,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 13,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 14,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 15,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 16,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 17,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 18,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 19,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 20,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 21,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 22,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 23,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    },
+    {
+      "page": 24,
+      "new_render_pixels_equal_previously_visually_reviewed_page": true
+    }
+  ]
+}

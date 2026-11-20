@@ -1,0 +1,5 @@
+component,version,license,source,redistribution
+CPython,3.12.14,PSF-2.0 and incorporated-software notices,https://docs.python.org/3.12/license.html,EXTERNAL_RUNTIME_NOT_BUNDLED
+SQLite library,3.53.1,Public domain dedication; separate from ChEMBL database content license,https://www.sqlite.org/copyright.html,EXTERNAL_RUNTIME_NOT_BUNDLED
+pip,25.0.1,MIT with separate vendored component licenses,https://github.com/pypa/pip/blob/25.0.1/LICENSE.txt,EXTERNAL_INSTALLER_NOT_BUNDLED
+macOS,26.4 arm64 tested,Operating-system terms supplied by user; not re-licensed by project,LOCAL_VALIDATED_PLATFORM_ONLY,EXTERNAL_SYSTEM_NOT_BUNDLED

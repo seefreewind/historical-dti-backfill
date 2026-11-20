@@ -1,0 +1,7 @@
+# Data dictionary
+
+parent_id and target_id are release-local ChEMBL identifiers. activity_id identifies raw supporting activities. document_year is the release-local document year. release_membership_bitmask and all_release_membership encode membership in the eight recovered qualifying graphs. first_public_release_present and first_operational_date use the recovered sequence and operational date proxies.
+
+first_discovery is the stored name for first-observed qualifying appearance, not biological discovery priority. first_discovery, present_at_cutoff, prior membership, gap-reappearance, event/censor, after-follow-up and erased flags are preserved by the original label builder. Exact field names and Arrow data types are enumerated in the retained Parquet schemas; original functions define each assignment. U2 is the class-cap-300 protein-class universe; broader historical-active observed pairs have a different denominator.
+
+category is a record-evidence-supported cause or UNRESOLVED. FILTER_ELIGIBILITY_CHANGED is not synonymous with missing molecule_type; missing-type-only flags require every supporting record to fail only that predicate. mapping_status and reference_id report exact structure/protein evidence; mapping_rule is the explicit annotation added after the initial baseline exact mapping. stable subsets are not a replacement of full-database estimates. source_data tables retain original columns and metric definitions.

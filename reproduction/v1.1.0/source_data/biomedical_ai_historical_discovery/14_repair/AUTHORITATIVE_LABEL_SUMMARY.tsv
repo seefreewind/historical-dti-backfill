@@ -1,0 +1,4 @@
+cutoff	u2_positive	u2_erased	historical_active_positive	historical_active_erased	expected_frozen	observed	frozen_reconciled	manuscript_u2_positive	manuscript_u2_erased	manuscript_counts_reconciled	followup_end	migration_reconciled	legacy_positive_set_reconstructed_by_endpoint
+2018	946	633	5613	4510	(946, 633, 5611, 4508)	(946, 633, 5613, 4510)	False	946	633	True	2021-12-31	True	True
+2020	1413	932	6826	5288	(1413, 932, 6775, 5287)	(1413, 932, 6826, 5288)	False	1413	932	True	2023-12-31	True	True
+2022	2104	1594	8994	6750	(2104, 1594, 8924, 6750)	(2104, 1594, 8994, 6750)	False	2104	1594	True	2025-09-19	True	True

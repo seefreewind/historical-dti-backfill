@@ -1,0 +1,12 @@
+label	status
+EDGE/primary/24.1	PASS
+EDGE/primary/27	PASS
+EDGE/primary/29	PASS
+EDGE/primary/31	PASS
+EDGE/primary/33	PASS
+EDGE/primary/35	PASS
+EDGE/primary/36	PASS
+EDGE/primary/37	PASS
+EDGE/rollback/2018	PASS
+EDGE/rollback/2020	PASS
+EDGE/rollback/2022	PASS

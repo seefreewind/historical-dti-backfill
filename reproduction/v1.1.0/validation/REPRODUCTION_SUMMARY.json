@@ -1,0 +1,20 @@
+{
+  "status": "FULL_REPRODUCTION_PASS",
+  "check_count": 190,
+  "nested_label_check_count": 35,
+  "by_domain": {
+    "ENV": 21,
+    "SMOKE": 1,
+    "RAW": 40,
+    "EDGE": 11,
+    "ACTIVITY": 8,
+    "CORE": 21,
+    "LABEL": 7,
+    "RECORD": 81
+  },
+  "run_started_at": "2026-11-19T17:19:29.860919+08:00",
+  "completed_at": "2026-11-19T20:16:26.950916+08:00",
+  "scientific_implementation": "EXISTING_FIXED_FUNCTIONS_UNCHANGED",
+  "raw_integrity": "FRESH_SHA256_16_FILES; FULL_SQLITE_CHECK_INHERITED_NOT_RERUN",
+  "publication_authorization": false
+}

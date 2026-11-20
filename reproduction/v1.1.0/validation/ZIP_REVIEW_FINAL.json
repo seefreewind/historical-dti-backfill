@@ -1,0 +1,11 @@
+{
+  "status": "PASS_TARGETED_CONTENT_REVIEW",
+  "archives": 5,
+  "members": 67,
+  "hidden_files": 0,
+  "raw_databases": 0,
+  "findings_reviewed": 14,
+  "unknown": 0,
+  "full_decompressed_bytes_scanned": true,
+  "additional_decoded_text_values_checked_for_all_binary_hits": true
+}

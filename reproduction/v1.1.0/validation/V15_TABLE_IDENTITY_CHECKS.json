@@ -1,0 +1,849 @@
+{
+  "status": "PASS",
+  "actual_v15_tables": 4,
+  "requested_enumeration": "Tables1-3; actual authoritative V15 additionally includes stable-entity Table4, also checked without modification",
+  "cells_checked": 105,
+  "checks": [
+    {
+      "table": 1,
+      "row": 1,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "2018-12-31",
+      "observed_v15": "2018-12-31",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 2,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "24.1",
+      "observed_v15": "24.1",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 3,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "2018-06-18",
+      "observed_v15": "2018-06-18",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 4,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "434456",
+      "observed_v15": "434456",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 5,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "459965",
+      "observed_v15": "459965",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 6,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "25.02%",
+      "observed_v15": "25.02%",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 7,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "9294785",
+      "observed_v15": "9294785",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 8,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "946",
+      "observed_v15": "946",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 9,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "633/946 (66.9%)",
+      "observed_v15": "633/946 (66.9%)",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 10,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "4510/5613 (80.3%)",
+      "observed_v15": "4510/5613 (80.3%)",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 11,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "2021-12-31",
+      "observed_v15": "2021-12-31",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 1,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "2020-12-31",
+      "observed_v15": "2020-12-31",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 2,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "27",
+      "observed_v15": "27",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 3,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "2020-05-21",
+      "observed_v15": "2020-05-21",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 4,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "499057",
+      "observed_v15": "499057",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 5,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "525328",
+      "observed_v15": "525328",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 6,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "20.41%",
+      "observed_v15": "20.41%",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 7,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "10318524",
+      "observed_v15": "10318524",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 8,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "1413",
+      "observed_v15": "1413",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 9,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "932/1413 (66.0%)",
+      "observed_v15": "932/1413 (66.0%)",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 10,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "5288/6826 (77.5%)",
+      "observed_v15": "5288/6826 (77.5%)",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 11,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "2023-12-31",
+      "observed_v15": "2023-12-31",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 1,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "2022-12-31",
+      "observed_v15": "2022-12-31",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 2,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "31",
+      "observed_v15": "31",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 3,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "2022-08-15",
+      "observed_v15": "2022-08-15",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 4,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "502711",
+      "observed_v15": "502711",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 5,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "563382",
+      "observed_v15": "563382",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 6,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "23.57%",
+      "observed_v15": "23.57%",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 7,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "12123841",
+      "observed_v15": "12123841",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 8,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "2104*",
+      "observed_v15": "2104*",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 9,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "1594/2104 (75.8%)",
+      "observed_v15": "1594/2104 (75.8%)",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 10,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "6750/8994 (75.1%)",
+      "observed_v15": "6750/8994 (75.1%)",
+      "status": "PASS"
+    },
+    {
+      "table": 1,
+      "row": 11,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "2025-09-19*",
+      "observed_v15": "2025-09-19*",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 1,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2018 rollback only",
+      "observed_v15": "2018 rollback only",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 1,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "115106",
+      "observed_v15": "115106",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 1,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "8319",
+      "observed_v15": "8319",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 1,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "18114",
+      "observed_v15": "18114",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 1,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "0",
+      "observed_v15": "0",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 1,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "88673",
+      "observed_v15": "88673",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 2,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2018 strict only",
+      "observed_v15": "2018 strict only",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 2,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "89597",
+      "observed_v15": "89597",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 2,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "0",
+      "observed_v15": "0",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 2,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "17591",
+      "observed_v15": "17591",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 2,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "65895",
+      "observed_v15": "65895",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 2,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "6111",
+      "observed_v15": "6111",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 3,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2020 rollback only",
+      "observed_v15": "2020 rollback only",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 3,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "107221",
+      "observed_v15": "107221",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 3,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "7419",
+      "observed_v15": "7419",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 3,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "6955",
+      "observed_v15": "6955",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 3,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "0",
+      "observed_v15": "0",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 3,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "92847",
+      "observed_v15": "92847",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 4,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2020 strict only",
+      "observed_v15": "2020 strict only",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 4,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "80950",
+      "observed_v15": "80950",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 4,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "0",
+      "observed_v15": "0",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 4,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "12313",
+      "observed_v15": "12313",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 4,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "66131",
+      "observed_v15": "66131",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 4,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "2506",
+      "observed_v15": "2506",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 5,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2022 rollback only",
+      "observed_v15": "2022 rollback only",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 5,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "132801",
+      "observed_v15": "132801",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 5,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "5668",
+      "observed_v15": "5668",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 5,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "97115",
+      "observed_v15": "97115",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 5,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "0",
+      "observed_v15": "0",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 5,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "30018",
+      "observed_v15": "30018",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 6,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2022 strict only",
+      "observed_v15": "2022 strict only",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 6,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "72130",
+      "observed_v15": "72130",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 6,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "0",
+      "observed_v15": "0",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 6,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "4653",
+      "observed_v15": "4653",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 6,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "66148",
+      "observed_v15": "66148",
+      "status": "PASS"
+    },
+    {
+      "table": 2,
+      "row": 6,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "1329",
+      "observed_v15": "1329",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 1,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2018",
+      "observed_v15": "2018",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 1,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "633",
+      "observed_v15": "633",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 1,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "435",
+      "observed_v15": "435",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 1,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "55",
+      "observed_v15": "55",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 1,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "143",
+      "observed_v15": "143",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 1,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "0",
+      "observed_v15": "0",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 2,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2020",
+      "observed_v15": "2020",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 2,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "932",
+      "observed_v15": "932",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 2,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "582",
+      "observed_v15": "582",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 2,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "93",
+      "observed_v15": "93",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 2,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "257",
+      "observed_v15": "257",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 2,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "0",
+      "observed_v15": "0",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 3,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2022",
+      "observed_v15": "2022",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 3,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "1594",
+      "observed_v15": "1594",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 3,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "605",
+      "observed_v15": "605",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 3,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "360",
+      "observed_v15": "360",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 3,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "629",
+      "observed_v15": "629",
+      "status": "PASS"
+    },
+    {
+      "table": 3,
+      "row": 3,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "10",
+      "observed_v15": "10",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 1,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2018",
+      "observed_v15": "2018",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 1,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "94.85%",
+      "observed_v15": "94.85%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 1,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "78.37%",
+      "observed_v15": "78.37%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 1,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "91.39%",
+      "observed_v15": "91.39%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 1,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "9.79%",
+      "observed_v15": "9.79%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 1,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "593/887 (66.85%)",
+      "observed_v15": "593/887 (66.85%)",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 2,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2020",
+      "observed_v15": "2020",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 2,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "83.95%",
+      "observed_v15": "83.95%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 2,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "69.44%",
+      "observed_v15": "69.44%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 2,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "78.26%",
+      "observed_v15": "78.26%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 2,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "6.26%",
+      "observed_v15": "6.26%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 2,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "754/1104 (68.30%)",
+      "observed_v15": "754/1104 (68.30%)",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 3,
+      "column": 0,
+      "expected_from_reproduced_or_fixed_source": "2022",
+      "observed_v15": "2022",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 3,
+      "column": 1,
+      "expected_from_reproduced_or_fixed_source": "83.88%",
+      "observed_v15": "83.88%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 3,
+      "column": 2,
+      "expected_from_reproduced_or_fixed_source": "65.36%",
+      "observed_v15": "65.36%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 3,
+      "column": 3,
+      "expected_from_reproduced_or_fixed_source": "71.19%",
+      "observed_v15": "71.19%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 3,
+      "column": 4,
+      "expected_from_reproduced_or_fixed_source": "4.67%",
+      "observed_v15": "4.67%",
+      "status": "PASS"
+    },
+    {
+      "table": 4,
+      "row": 3,
+      "column": 5,
+      "expected_from_reproduced_or_fixed_source": "1307/1695 (77.11%)",
+      "observed_v15": "1307/1695 (77.11%)",
+      "status": "PASS"
+    }
+  ],
+  "scope": "Existing table numbers/formatting compared to this actual clean run, no new scientific analysis"
+}

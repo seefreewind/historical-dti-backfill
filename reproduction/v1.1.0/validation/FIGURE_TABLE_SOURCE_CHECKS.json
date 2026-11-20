@@ -1,0 +1,567 @@
+{
+  "status": "PASS",
+  "mappings": 70,
+  "checks": [
+    {
+      "figure": "FIGURE_SOURCE/Figure1/a",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/CHEMBL_RELEASE_DATE_PROVENANCE.tsv",
+      "expected_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "package_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "original_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure1/a",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure1/b",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/CHEMBL_RELEASE_DATE_PROVENANCE.tsv",
+      "expected_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "package_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "original_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure1/b",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure1/c",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/CHEMBL_RELEASE_DATE_PROVENANCE.tsv",
+      "expected_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "package_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "original_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure1/c",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure1/d",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/CHEMBL_RELEASE_DATE_PROVENANCE.tsv",
+      "expected_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "package_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "original_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure1/d",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure2/matrix component a",
+      "path": "source_data/biomedical_ai_historical_discovery/10_phase1/CHEMBL_BACKFILL_BY_CUTOFF.tsv",
+      "expected_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "package_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "original_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure2/matrix component b",
+      "path": "source_data/biomedical_ai_historical_discovery/10_phase1/CHEMBL_BACKFILL_BY_CUTOFF.tsv",
+      "expected_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "package_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "original_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure2/matrix component c",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure2/matrix component d",
+      "path": "source_data/biomedical_ai_historical_discovery/11_phase2/BENCHMARK_ARM_DEFINITIONS.tsv",
+      "expected_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "package_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "original_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure3/matrix component a",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/TOP_PERCENTILE_TIE_AUDIT.tsv",
+      "expected_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "package_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "original_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure3/matrix component b",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/COMPOUND_CENTRIC_TIE_REPAIR.tsv",
+      "expected_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "package_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "original_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure3/matrix component c",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/COMPOUND_CENTRIC_TIE_REPAIR.tsv",
+      "expected_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "package_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "original_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure3/2022 replication",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/TOP_PERCENTILE_TIE_AUDIT.tsv",
+      "expected_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "package_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "original_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure4/a",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/CHEMICAL_CLASSIFICATION_SUMMARY.tsv",
+      "expected_sha256": "ba9e399c5581632bb22e31c647f99cab719f8ec0ba7e1727a4a7b5569bdc0a02",
+      "package_sha256": "ba9e399c5581632bb22e31c647f99cab719f8ec0ba7e1727a4a7b5569bdc0a02",
+      "original_sha256": "ba9e399c5581632bb22e31c647f99cab719f8ec0ba7e1727a4a7b5569bdc0a02",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure4/b",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/FINGERPRINT_BIN_COUNTS.tsv",
+      "expected_sha256": "f332702376ce03275a1dfd69dc73feb4e1c24d513537ba83871c217e02cc6ab0",
+      "package_sha256": "f332702376ce03275a1dfd69dc73feb4e1c24d513537ba83871c217e02cc6ab0",
+      "original_sha256": "f332702376ce03275a1dfd69dc73feb4e1c24d513537ba83871c217e02cc6ab0",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure4/c",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/TOP_PERCENTILE_TIE_AUDIT.tsv",
+      "expected_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "package_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "original_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure4/d",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/TOP_PERCENTILE_TIE_AUDIT.tsv",
+      "expected_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "package_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "original_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure5/a",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure5/a",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_EFFECTS.tsv",
+      "expected_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "package_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "original_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure5/b",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Figure5/b",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_EFFECTS.tsv",
+      "expected_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "package_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "original_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Table1/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/10_phase1/CHEMBL_BACKFILL_BY_CUTOFF.tsv",
+      "expected_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "package_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "original_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Table1/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/11_phase2/BENCHMARK_ARM_DEFINITIONS.tsv",
+      "expected_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "package_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "original_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Table1/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/Table1/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/CHEMBL_RELEASE_DATE_PROVENANCE.tsv",
+      "expected_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "package_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "original_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS1/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/CHEMBL_RELEASE_DATE_PROVENANCE.tsv",
+      "expected_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "package_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "original_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS2/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/11_phase2/BENCHMARK_ARM_DEFINITIONS.tsv",
+      "expected_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "package_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "original_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS3/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/ANALYSIS_DECISION_TIMELINE.tsv",
+      "expected_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "package_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "original_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS4/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/ANALYSIS_DECISION_TIMELINE.tsv",
+      "expected_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "package_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "original_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS4/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/11_phase2/U2_SENSITIVITY.tsv",
+      "expected_sha256": "54a56eb7e80580b87e73129cb54ab6fd5c3dca9418318d7be78c7e792921c5d3",
+      "package_sha256": "54a56eb7e80580b87e73129cb54ab6fd5c3dca9418318d7be78c7e792921c5d3",
+      "original_sha256": "54a56eb7e80580b87e73129cb54ab6fd5c3dca9418318d7be78c7e792921c5d3",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS5/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS6/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/REWIRE_CONTROL_METRICS.tsv",
+      "expected_sha256": "4de8bf58cd445d31baf5ba94fbc4b17c919469a03be079e70393eb13b8c9ff01",
+      "package_sha256": "4de8bf58cd445d31baf5ba94fbc4b17c919469a03be079e70393eb13b8c9ff01",
+      "original_sha256": "4de8bf58cd445d31baf5ba94fbc4b17c919469a03be079e70393eb13b8c9ff01",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS6/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/REWIRE_DEGREE_AUDIT.tsv",
+      "expected_sha256": "8741f7c9ae894e7e19859db16bd6f9c8cef7a888ca906e93a32f11b456569d16",
+      "package_sha256": "8741f7c9ae894e7e19859db16bd6f9c8cef7a888ca906e93a32f11b456569d16",
+      "original_sha256": "8741f7c9ae894e7e19859db16bd6f9c8cef7a888ca906e93a32f11b456569d16",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS7/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/10_phase1/CHEMBL_BACKFILL_BY_CUTOFF.tsv",
+      "expected_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "package_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "original_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS8/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/TOP_PERCENTILE_TIE_AUDIT.tsv",
+      "expected_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "package_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "original_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS9/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/FINGERPRINT_BIN_COUNTS.tsv",
+      "expected_sha256": "f332702376ce03275a1dfd69dc73feb4e1c24d513537ba83871c217e02cc6ab0",
+      "package_sha256": "f332702376ce03275a1dfd69dc73feb4e1c24d513537ba83871c217e02cc6ab0",
+      "original_sha256": "f332702376ce03275a1dfd69dc73feb4e1c24d513537ba83871c217e02cc6ab0",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS11/whole",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/COMPOUND_CENTRIC_TIE_REPAIR.tsv",
+      "expected_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "package_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "original_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS10/a",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/TOP_PERCENTILE_TIE_AUDIT.tsv",
+      "expected_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "package_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "original_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS10/b",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/COMPOUND_CENTRIC_TIE_REPAIR.tsv",
+      "expected_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "package_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "original_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/a",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_EFFECTS.tsv",
+      "expected_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "package_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "original_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/a",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_ABLATION.tsv",
+      "expected_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "package_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "original_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/b",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_EFFECTS.tsv",
+      "expected_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "package_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "original_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/b",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_ABLATION.tsv",
+      "expected_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "package_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "original_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/c",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_EFFECTS.tsv",
+      "expected_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "package_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "original_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/c",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_ABLATION.tsv",
+      "expected_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "package_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "original_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/d",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_EFFECTS.tsv",
+      "expected_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "package_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "original_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/d",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_ABLATION.tsv",
+      "expected_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "package_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "original_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/e",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_EFFECTS.tsv",
+      "expected_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "package_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "original_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/e",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_ABLATION.tsv",
+      "expected_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "package_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "original_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/f",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_EFFECTS.tsv",
+      "expected_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "package_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "original_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/f",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_ABLATION.tsv",
+      "expected_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "package_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "original_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS1/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/CHEMBL_RELEASE_DATE_PROVENANCE.tsv",
+      "expected_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "package_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "original_sha256": "86896f9e1a238e51d3e5c0627e915aa78253e30e0d7855c352d8c3ed57b2dcfd",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS2/",
+      "path": "source_data/biomedical_ai_historical_discovery/11_phase2/BENCHMARK_ARM_DEFINITIONS.tsv",
+      "expected_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "package_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "original_sha256": "e0740d137dd5d39e00790b0bfe4b009fd808d20b847583bc1de6eb326465ddb5",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS3/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/ANALYSIS_DECISION_TIMELINE.tsv",
+      "expected_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "package_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "original_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS4/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/ANALYSIS_DECISION_TIMELINE.tsv",
+      "expected_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "package_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "original_sha256": "ec40f74423293e955f20f918bb7660b90e5519934de963ca73d18c324470dfb9",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS4/",
+      "path": "source_data/biomedical_ai_historical_discovery/11_phase2/U2_SENSITIVITY.tsv",
+      "expected_sha256": "54a56eb7e80580b87e73129cb54ab6fd5c3dca9418318d7be78c7e792921c5d3",
+      "package_sha256": "54a56eb7e80580b87e73129cb54ab6fd5c3dca9418318d7be78c7e792921c5d3",
+      "original_sha256": "54a56eb7e80580b87e73129cb54ab6fd5c3dca9418318d7be78c7e792921c5d3",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS5/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/AUTHORITATIVE_LABEL_SUMMARY.tsv",
+      "expected_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "package_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "original_sha256": "b62f9c2da627f983c56ca50694fcdd31380f76447b277d5f912194eda668bddc",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS6/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/REWIRE_CONTROL_METRICS.tsv",
+      "expected_sha256": "4de8bf58cd445d31baf5ba94fbc4b17c919469a03be079e70393eb13b8c9ff01",
+      "package_sha256": "4de8bf58cd445d31baf5ba94fbc4b17c919469a03be079e70393eb13b8c9ff01",
+      "original_sha256": "4de8bf58cd445d31baf5ba94fbc4b17c919469a03be079e70393eb13b8c9ff01",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS6/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/REWIRE_DEGREE_AUDIT.tsv",
+      "expected_sha256": "8741f7c9ae894e7e19859db16bd6f9c8cef7a888ca906e93a32f11b456569d16",
+      "package_sha256": "8741f7c9ae894e7e19859db16bd6f9c8cef7a888ca906e93a32f11b456569d16",
+      "original_sha256": "8741f7c9ae894e7e19859db16bd6f9c8cef7a888ca906e93a32f11b456569d16",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS7/",
+      "path": "source_data/biomedical_ai_historical_discovery/10_phase1/CHEMBL_BACKFILL_BY_CUTOFF.tsv",
+      "expected_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "package_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "original_sha256": "a2584a13ed7571bcc41ea19df59a6a41d4ccac2a8980262ce07e376ab865989a",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS8/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/TOP_PERCENTILE_TIE_AUDIT.tsv",
+      "expected_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "package_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "original_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS9/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/FINGERPRINT_BIN_COUNTS.tsv",
+      "expected_sha256": "f332702376ce03275a1dfd69dc73feb4e1c24d513537ba83871c217e02cc6ab0",
+      "package_sha256": "f332702376ce03275a1dfd69dc73feb4e1c24d513537ba83871c217e02cc6ab0",
+      "original_sha256": "f332702376ce03275a1dfd69dc73feb4e1c24d513537ba83871c217e02cc6ab0",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS10/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/TOP_PERCENTILE_TIE_AUDIT.tsv",
+      "expected_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "package_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "original_sha256": "17baf491cacc90b2c94554464209754739b94345ba7f8e5f18d58210f71bfc81",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS10/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/COMPOUND_CENTRIC_TIE_REPAIR.tsv",
+      "expected_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "package_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "original_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS11/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/COMPOUND_CENTRIC_TIE_REPAIR.tsv",
+      "expected_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "package_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "original_sha256": "d77a4751053d5281a4615e80a68fa3148785a7bf8455ed2725cf6f1fa7cf2a4d",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_EFFECTS.tsv",
+      "expected_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "package_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "original_sha256": "a14ac8cdb200cfe7d7716e70546b3bb1436393e0604567bcf195369900af3290",
+      "status": "PASS"
+    },
+    {
+      "figure": "FIGURE_SOURCE/FigureS12/",
+      "path": "source_data/biomedical_ai_historical_discovery/14_repair/NESTED_GRAPH_ABLATION.tsv",
+      "expected_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "package_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "original_sha256": "b5adcb7640262e1eac4527c49ef5464dd1cd55c00db6ff2df7065b746b8ccdf2",
+      "status": "PASS"
+    }
+  ],
+  "scope": "Frozen source identity for all70 existing panel mappings; no formal artwork regeneration claimed"
+}

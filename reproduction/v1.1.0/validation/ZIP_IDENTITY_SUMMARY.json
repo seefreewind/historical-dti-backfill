@@ -1,0 +1,6 @@
+{
+  "members": 67,
+  "PASS": 67,
+  "frozen_manifest_sha256": "e07e5b2374b8a1e3397bcb740afec47d00060b82d794aadc97930fc340e93671",
+  "note": "All extracted bytes match the pre-existing frozen file-level manifest, including files retained from the interrupted first extraction; no resumed partial-file integrity assumption."
+}
